@@ -1,0 +1,601 @@
+action_type,assay_type,molecule_chembl_id,parent_molecule_chembl_id,pchembl_value,target_pref_name,type,value
+,B,CHEMBL38904,CHEMBL38904,7.70,Sigma non-opioid intracellular receptor 1,Ki,20.0
+,B,CHEMBL67010,CHEMBL67010,7.14,Sigma non-opioid intracellular receptor 1,IC50,72.0
+,B,CHEMBL542638,CHEMBL1191528,8.22,Sigma non-opioid intracellular receptor 1,IC50,6.0
+,B,CHEMBL45962,CHEMBL45962,7.47,Sigma non-opioid intracellular receptor 1,Ki,34.0
+,B,CHEMBL45686,CHEMBL45686,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
+,B,CHEMBL358579,CHEMBL358579,8.25,Sigma non-opioid intracellular receptor 1,Ki,5.66
+,B,CHEMBL141209,CHEMBL141209,8.89,Sigma non-opioid intracellular receptor 1,Ki,1.29
+,B,CHEMBL46438,CHEMBL46438,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
+,B,CHEMBL45535,CHEMBL45535,9.00,Sigma non-opioid intracellular receptor 1,Ki,1.0
+,B,CHEMBL357179,CHEMBL357179,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.27
+,B,CHEMBL434067,CHEMBL434067,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.16
+,B,CHEMBL298492,CHEMBL298492,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
+,B,CHEMBL544054,CHEMBL1192761,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
+,B,CHEMBL295039,CHEMBL295039,7.39,Sigma non-opioid intracellular receptor 1,Ki,41.0
+,B,CHEMBL48124,CHEMBL48124,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
+,B,CHEMBL48075,CHEMBL48075,7.80,Sigma non-opioid intracellular receptor 1,Ki,16.0
+,B,CHEMBL45968,CHEMBL45968,7.62,Sigma non-opioid intracellular receptor 1,Ki,24.0
+,B,CHEMBL60859,CHEMBL60859,7.15,Sigma non-opioid intracellular receptor 1,Ki,71.0
+,B,CHEMBL147151,CHEMBL147151,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.18
+,B,CHEMBL148276,CHEMBL148276,8.81,Sigma non-opioid intracellular receptor 1,Ki,1.54
+,B,CHEMBL67388,CHEMBL67388,7.80,Sigma non-opioid intracellular receptor 1,IC50,16.0
+,B,CHEMBL297634,CHEMBL297634,7.47,Sigma non-opioid intracellular receptor 1,Ki,34.0
+,B,CHEMBL22242,CHEMBL22242,7.26,Sigma non-opioid intracellular receptor 1,Ki,55.0
+,B,CHEMBL137990,CHEMBL137990,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.17
+,B,CHEMBL538754,CHEMBL1189436,7.82,Sigma non-opioid intracellular receptor 1,IC50,15.0
+,B,CHEMBL144662,CHEMBL144662,7.90,Sigma non-opioid intracellular receptor 1,Ki,12.7
+,B,CHEMBL417357,CHEMBL417357,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
+,B,CHEMBL295891,CHEMBL295891,7.77,Sigma non-opioid intracellular receptor 1,Ki,17.0
+,B,CHEMBL47774,CHEMBL47774,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
+,B,CHEMBL417353,CHEMBL417353,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
+,B,CHEMBL147093,CHEMBL147093,7.93,Sigma non-opioid intracellular receptor 1,Ki,11.7
+,B,CHEMBL47714,CHEMBL47714,7.92,Sigma non-opioid intracellular receptor 1,Ki,12.0
+,B,CHEMBL60542,CHEMBL60542,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.1
+,B,CHEMBL358541,CHEMBL358541,8.03,Sigma non-opioid intracellular receptor 1,Ki,9.33
+,B,CHEMBL38634,CHEMBL38634,9.21,Sigma non-opioid intracellular receptor 1,Ki,0.62
+,B,CHEMBL54,CHEMBL54,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.2
+,B,CHEMBL47678,CHEMBL47678,7.51,Sigma non-opioid intracellular receptor 1,Ki,31.0
+,B,CHEMBL47715,CHEMBL47715,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
+,B,CHEMBL138809,CHEMBL138809,8.94,Sigma non-opioid intracellular receptor 1,Ki,1.14
+,B,CHEMBL148289,CHEMBL148289,7.80,Sigma non-opioid intracellular receptor 1,Ki,15.9
+,B,CHEMBL44604,CHEMBL44604,7.85,Sigma non-opioid intracellular receptor 1,Ki,14.0
+,B,CHEMBL63508,CHEMBL63508,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
+,B,CHEMBL138533,CHEMBL138533,8.13,Sigma non-opioid intracellular receptor 1,Ki,7.33
+,B,CHEMBL148009,CHEMBL148009,8.05,Sigma non-opioid intracellular receptor 1,Ki,8.95
+,B,CHEMBL417181,CHEMBL417181,7.82,Sigma non-opioid intracellular receptor 1,Ki,15.0
+,B,CHEMBL147316,CHEMBL147316,8.67,Sigma non-opioid intracellular receptor 1,Ki,2.16
+,B,CHEMBL39900,CHEMBL39900,9.30,Sigma non-opioid intracellular receptor 1,Ki,0.5
+,B,CHEMBL38085,CHEMBL38085,7.60,Sigma non-opioid intracellular receptor 1,Ki,25.0
+,B,CHEMBL47279,CHEMBL47279,7.21,Sigma non-opioid intracellular receptor 1,Ki,62.0
+,B,CHEMBL67665,CHEMBL67665,7.58,Sigma non-opioid intracellular receptor 1,IC50,26.0
+,B,CHEMBL282433,CHEMBL282433,7.50,Sigma non-opioid intracellular receptor 1,IC50,32.0
+,B,CHEMBL54,CHEMBL54,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.2
+,B,CHEMBL148054,CHEMBL148054,7.82,Sigma non-opioid intracellular receptor 1,Ki,15.1
+,B,CHEMBL45849,CHEMBL45849,7.68,Sigma non-opioid intracellular receptor 1,Ki,21.0
+,B,CHEMBL342351,CHEMBL342351,7.26,Sigma non-opioid intracellular receptor 1,Ki,55.1
+,B,CHEMBL296504,CHEMBL296504,7.80,Sigma non-opioid intracellular receptor 1,Ki,16.0
+,B,CHEMBL50771,CHEMBL50771,7.82,Sigma non-opioid intracellular receptor 1,Ki,15.0
+,B,CHEMBL41830,CHEMBL41830,8.85,Sigma non-opioid intracellular receptor 1,Ki,1.4
+,B,CHEMBL344186,CHEMBL344186,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.07
+,B,CHEMBL341957,CHEMBL341957,8.18,Sigma non-opioid intracellular receptor 1,Ki,6.59
+,B,CHEMBL139735,CHEMBL139735,8.04,Sigma non-opioid intracellular receptor 1,Ki,9.03
+,B,CHEMBL337796,CHEMBL337796,8.46,Sigma non-opioid intracellular receptor 1,Ki,3.49
+,B,CHEMBL86830,CHEMBL86830,7.49,Sigma non-opioid intracellular receptor 1,Ki,32.5
+,B,CHEMBL344402,CHEMBL344402,7.86,Sigma non-opioid intracellular receptor 1,Ki,13.82
+,B,CHEMBL137041,CHEMBL137041,7.64,Sigma non-opioid intracellular receptor 1,Ki,22.66
+,B,CHEMBL139922,CHEMBL139922,7.28,Sigma non-opioid intracellular receptor 1,Ki,51.94
+,B,CHEMBL313179,CHEMBL313179,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.1
+,B,CHEMBL134856,CHEMBL134856,7.21,Sigma non-opioid intracellular receptor 1,Ki,61.77
+,B,CHEMBL341936,CHEMBL341936,7.96,Sigma non-opioid intracellular receptor 1,Ki,10.9
+,B,CHEMBL336037,CHEMBL336037,8.33,Sigma non-opioid intracellular receptor 1,Ki,4.64
+,B,CHEMBL334568,CHEMBL334568,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.21
+,B,CHEMBL344023,CHEMBL344023,8.20,Sigma non-opioid intracellular receptor 1,Ki,6.3
+,B,CHEMBL136114,CHEMBL136114,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.29
+,B,CHEMBL73234,CHEMBL73234,7.71,Sigma non-opioid intracellular receptor 1,Ki,19.5
+,B,CHEMBL138688,CHEMBL138688,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.93
+,B,CHEMBL343580,CHEMBL343580,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.2
+,B,CHEMBL136451,CHEMBL136451,8.26,Sigma non-opioid intracellular receptor 1,Ki,5.51
+,B,CHEMBL135083,CHEMBL135083,8.50,Sigma non-opioid intracellular receptor 1,Ki,3.15
+,B,CHEMBL136231,CHEMBL136231,7.06,Sigma non-opioid intracellular receptor 1,Ki,87.05
+,B,CHEMBL335953,CHEMBL335953,8.40,Sigma non-opioid intracellular receptor 1,Ki,3.97
+,B,CHEMBL136677,CHEMBL136677,7.62,Sigma non-opioid intracellular receptor 1,Ki,23.88
+,B,CHEMBL54,CHEMBL54,8.60,Sigma non-opioid intracellular receptor 1,Ki,2.53
+,B,CHEMBL138249,CHEMBL138249,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.2
+,B,CHEMBL343137,CHEMBL343137,7.81,Sigma non-opioid intracellular receptor 1,Ki,15.41
+,B,CHEMBL134855,CHEMBL134855,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.21
+,B,CHEMBL316244,CHEMBL316244,7.01,Sigma non-opioid intracellular receptor 1,Ki,97.2
+,B,CHEMBL330021,CHEMBL330021,7.18,Sigma non-opioid intracellular receptor 1,Ki,66.2
+,B,CHEMBL139340,CHEMBL139340,8.94,Sigma non-opioid intracellular receptor 1,Ki,1.15
+,B,CHEMBL87841,CHEMBL87841,7.88,Sigma non-opioid intracellular receptor 1,Ki,13.1
+,B,CHEMBL137675,CHEMBL137675,8.17,Sigma non-opioid intracellular receptor 1,Ki,6.75
+,B,CHEMBL345051,CHEMBL345051,7.99,Sigma non-opioid intracellular receptor 1,Ki,10.16
+,B,CHEMBL1036,CHEMBL1036,7.84,Sigma non-opioid intracellular receptor 1,Ki,14.34
+,B,CHEMBL305881,CHEMBL305881,7.33,Sigma non-opioid intracellular receptor 1,Ki,46.5
+,B,CHEMBL139629,CHEMBL139629,8.09,Sigma non-opioid intracellular receptor 1,Ki,8.22
+,B,CHEMBL343752,CHEMBL343752,8.75,Sigma non-opioid intracellular receptor 1,Ki,1.78
+,B,CHEMBL76895,CHEMBL76895,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.9
+,B,CHEMBL136275,CHEMBL136275,7.50,Sigma non-opioid intracellular receptor 1,Ki,31.25
+,B,CHEMBL84971,CHEMBL84971,7.53,Sigma non-opioid intracellular receptor 1,Ki,29.6
+,B,CHEMBL139156,CHEMBL139156,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.24
+,B,CHEMBL344425,CHEMBL344425,8.65,Sigma non-opioid intracellular receptor 1,Ki,2.25
+,B,CHEMBL138794,CHEMBL138794,8.64,Sigma non-opioid intracellular receptor 1,Ki,2.31
+,B,CHEMBL61946,CHEMBL61946,7.81,Sigma non-opioid intracellular receptor 1,Ki,15.5
+,B,CHEMBL14553,CHEMBL14553,7.20,Sigma non-opioid intracellular receptor 1,Ki,63.0
+,B,CHEMBL276935,CHEMBL276935,7.14,Sigma non-opioid intracellular receptor 1,Ki,72.0
+,B,CHEMBL159967,CHEMBL159967,7.37,Sigma non-opioid intracellular receptor 1,IC50,43.0
+,B,CHEMBL15288,CHEMBL15288,7.27,Sigma non-opioid intracellular receptor 1,Ki,54.0
+,B,CHEMBL274699,CHEMBL274699,9.22,Sigma non-opioid intracellular receptor 1,Ki,0.6
+,B,CHEMBL26320,CHEMBL26320,7.77,Sigma non-opioid intracellular receptor 1,IC50,17.0
+,B,CHEMBL159608,CHEMBL159608,7.10,Sigma non-opioid intracellular receptor 1,IC50,79.0
+,B,CHEMBL159320,CHEMBL159320,7.39,Sigma non-opioid intracellular receptor 1,IC50,41.0
+,B,CHEMBL53649,CHEMBL53649,8.31,Sigma non-opioid intracellular receptor 1,Ki,4.89
+,B,CHEMBL164037,CHEMBL164037,7.23,Sigma non-opioid intracellular receptor 1,IC50,59.0
+,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
+,B,CHEMBL281594,CHEMBL281594,7.37,Sigma non-opioid intracellular receptor 1,IC50,43.0
+,B,CHEMBL159319,CHEMBL159319,7.21,Sigma non-opioid intracellular receptor 1,IC50,62.0
+,B,CHEMBL20377,CHEMBL20377,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.2
+,B,CHEMBL286991,CHEMBL286991,7.29,Sigma non-opioid intracellular receptor 1,IC50,51.0
+,B,CHEMBL163980,CHEMBL163980,7.42,Sigma non-opioid intracellular receptor 1,IC50,38.0
+,B,CHEMBL14876,CHEMBL14876,7.33,Sigma non-opioid intracellular receptor 1,Ki,47.0
+,B,CHEMBL15223,CHEMBL15223,7.14,Sigma non-opioid intracellular receptor 1,Ki,72.0
+,B,CHEMBL607212,CHEMBL607212,7.38,Sigma non-opioid intracellular receptor 1,IC50,42.0
+,B,CHEMBL71049,CHEMBL71049,9.27,Sigma non-opioid intracellular receptor 1,Ki,0.54
+,B,CHEMBL71049,CHEMBL71049,8.91,Sigma non-opioid intracellular receptor 1,Ki,1.23
+,B,CHEMBL117319,CHEMBL117319,7.37,Sigma non-opioid intracellular receptor 1,Ki,43.0
+,B,CHEMBL20377,CHEMBL20377,9.47,Sigma non-opioid intracellular receptor 1,Ki,0.34
+,B,CHEMBL117183,CHEMBL117183,7.35,Sigma non-opioid intracellular receptor 1,Ki,45.0
+,B,CHEMBL60542,CHEMBL60542,8.36,Sigma non-opioid intracellular receptor 1,Ki,4.4
+,B,CHEMBL2303661,CHEMBL2303661,8.70,Sigma non-opioid intracellular receptor 1,IC50,2.0
+,B,CHEMBL114123,CHEMBL114123,7.40,Sigma non-opioid intracellular receptor 1,Ki,40.0
+,B,CHEMBL324392,CHEMBL324392,9.54,Sigma non-opioid intracellular receptor 1,Ki,0.29
+,B,CHEMBL324392,CHEMBL324392,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.5
+,B,CHEMBL607155,CHEMBL607155,8.06,Sigma non-opioid intracellular receptor 1,Ki,8.66
+,B,CHEMBL114358,CHEMBL114358,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
+,B,CHEMBL324505,CHEMBL324505,7.16,Sigma non-opioid intracellular receptor 1,Ki,69.0
+,B,CHEMBL312766,CHEMBL312766,9.07,Sigma non-opioid intracellular receptor 1,Ki,0.86
+,B,CHEMBL312766,CHEMBL312766,9.28,Sigma non-opioid intracellular receptor 1,Ki,0.52
+,B,CHEMBL280063,CHEMBL280063,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
+,B,CHEMBL15601,CHEMBL15601,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
+,B,CHEMBL2303668,CHEMBL2303668,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.0
+,B,CHEMBL115998,CHEMBL115998,8.72,Sigma non-opioid intracellular receptor 1,Ki,1.9
+,B,CHEMBL116643,CHEMBL116643,8.64,Sigma non-opioid intracellular receptor 1,Ki,2.3
+,B,CHEMBL70540,CHEMBL70540,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.24
+,B,CHEMBL70540,CHEMBL70540,9.41,Sigma non-opioid intracellular receptor 1,Ki,0.39
+,B,CHEMBL16123,CHEMBL16123,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
+,B,CHEMBL15456,CHEMBL15456,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
+,B,CHEMBL15941,CHEMBL15941,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
+,B,CHEMBL15941,CHEMBL15941,7.43,Sigma non-opioid intracellular receptor 1,Ki,37.2
+,B,CHEMBL15637,CHEMBL15637,8.05,Sigma non-opioid intracellular receptor 1,Ki,9.0
+,B,CHEMBL2368719,CHEMBL2368719,7.13,Sigma non-opioid intracellular receptor 1,Ki,73.6
+,B,CHEMBL2368719,CHEMBL2368719,7.41,Sigma non-opioid intracellular receptor 1,Ki,38.9
+,B,CHEMBL607333,CHEMBL607333,7.12,Sigma non-opioid intracellular receptor 1,IC50,76.0
+,B,CHEMBL326548,CHEMBL326548,7.50,Sigma non-opioid intracellular receptor 1,Ki,32.0
+,B,CHEMBL607449,CHEMBL607449,7.92,Sigma non-opioid intracellular receptor 1,IC50,12.0
+,B,CHEMBL607449,CHEMBL607449,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.0
+,B,CHEMBL70807,CHEMBL70807,9.51,Sigma non-opioid intracellular receptor 1,Ki,0.31
+,B,CHEMBL607332,CHEMBL607332,7.11,Sigma non-opioid intracellular receptor 1,IC50,77.0
+,B,CHEMBL116738,CHEMBL116738,7.46,Sigma non-opioid intracellular receptor 1,Ki,35.0
+,B,CHEMBL280088,CHEMBL280088,7.00,Sigma non-opioid intracellular receptor 1,Ki,100.0
+,B,CHEMBL606937,CHEMBL606937,7.43,Sigma non-opioid intracellular receptor 1,IC50,37.0
+,B,CHEMBL415985,CHEMBL415985,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
+,B,CHEMBL415985,CHEMBL415985,7.70,Sigma non-opioid intracellular receptor 1,Ki,20.0
+,B,CHEMBL15986,CHEMBL15986,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
+,B,CHEMBL70861,CHEMBL70861,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.22
+,B,CHEMBL70861,CHEMBL70861,8.29,Sigma non-opioid intracellular receptor 1,Ki,5.07
+,B,CHEMBL324392,CHEMBL324392,8.42,Sigma non-opioid intracellular receptor 1,Ki,3.8
+,B,CHEMBL114163,CHEMBL114163,8.55,Sigma non-opioid intracellular receptor 1,Ki,2.8
+,B,CHEMBL117321,CHEMBL117321,7.92,Sigma non-opioid intracellular receptor 1,Ki,12.0
+,B,CHEMBL316988,CHEMBL316988,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
+,B,CHEMBL420557,CHEMBL420557,8.88,Sigma non-opioid intracellular receptor 1,Ki,1.32
+,B,CHEMBL420557,CHEMBL420557,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.19
+,B,CHEMBL606938,CHEMBL606938,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.5
+,B,CHEMBL15955,CHEMBL15955,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
+,B,CHEMBL116354,CHEMBL116354,7.42,Sigma non-opioid intracellular receptor 1,Ki,38.0
+,B,CHEMBL326571,CHEMBL326571,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
+,B,CHEMBL607106,CHEMBL607106,7.05,Sigma non-opioid intracellular receptor 1,Ki,89.5
+,B,CHEMBL15809,CHEMBL15809,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
+,B,CHEMBL106437,CHEMBL106437,8.89,Sigma non-opioid intracellular receptor 1,Ki,1.3
+,B,CHEMBL20377,CHEMBL20377,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
+,B,CHEMBL349288,CHEMBL349288,8.28,Sigma non-opioid intracellular receptor 1,Ki,5.3
+,B,CHEMBL337818,CHEMBL337818,8.76,Sigma non-opioid intracellular receptor 1,Ki,1.75
+,B,CHEMBL342223,CHEMBL342223,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.48
+,B,CHEMBL339281,CHEMBL339281,7.76,Sigma non-opioid intracellular receptor 1,Ki,17.49
+,B,CHEMBL545212,CHEMBL1193750,8.76,Sigma non-opioid intracellular receptor 1,Log IC50,-8.76
+,B,CHEMBL555890,CHEMBL1196092,8.85,Sigma non-opioid intracellular receptor 1,Log IC50,-8.85
+,B,CHEMBL315146,CHEMBL315146,7.68,Sigma non-opioid intracellular receptor 1,Ki,21.0
+,B,CHEMBL340185,CHEMBL340185,8.07,Sigma non-opioid intracellular receptor 1,Ki,8.5
+,B,CHEMBL539260,CHEMBL1189670,8.37,Sigma non-opioid intracellular receptor 1,Log IC50,-8.37
+,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
+,B,CHEMBL87414,CHEMBL87414,7.60,Sigma non-opioid intracellular receptor 1,Ki,25.0
+,B,CHEMBL162522,CHEMBL162522,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.81
+,B,CHEMBL555401,CHEMBL1195822,8.59,Sigma non-opioid intracellular receptor 1,Log IC50,-8.59
+,B,CHEMBL541052,CHEMBL1190519,8.70,Sigma non-opioid intracellular receptor 1,Log IC50,-8.7
+,B,CHEMBL545447,CHEMBL1193956,8.46,Sigma non-opioid intracellular receptor 1,Log IC50,-8.46
+,B,CHEMBL545689,CHEMBL1194164,8.18,Sigma non-opioid intracellular receptor 1,Log IC50,-8.18
+,B,CHEMBL555398,CHEMBL1195820,8.33,Sigma non-opioid intracellular receptor 1,Log IC50,-8.33
+,B,CHEMBL20377,CHEMBL20377,8.68,Sigma non-opioid intracellular receptor 1,Ki,2.1
+,B,CHEMBL422020,CHEMBL422020,8.12,Sigma non-opioid intracellular receptor 1,Ki,7.6
+,B,CHEMBL555581,CHEMBL1195917,8.67,Sigma non-opioid intracellular receptor 1,Log IC50,-8.67
+,B,CHEMBL106437,CHEMBL106437,8.11,Sigma non-opioid intracellular receptor 1,Ki,7.78
+,B,CHEMBL337929,CHEMBL337929,7.02,Sigma non-opioid intracellular receptor 1,Ki,95.69
+,B,CHEMBL134313,CHEMBL134313,8.87,Sigma non-opioid intracellular receptor 1,Ki,1.34
+,B,CHEMBL136981,CHEMBL136981,8.57,Sigma non-opioid intracellular receptor 1,Ki,2.67
+,B,CHEMBL54,CHEMBL54,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.7
+,B,CHEMBL162807,CHEMBL162807,9.24,Sigma non-opioid intracellular receptor 1,Ki,0.58
+,B,CHEMBL137794,CHEMBL137794,8.45,Sigma non-opioid intracellular receptor 1,Ki,3.56
+,B,CHEMBL138123,CHEMBL138123,7.79,Sigma non-opioid intracellular receptor 1,Ki,16.05
+,B,CHEMBL316988,CHEMBL316988,7.73,Sigma non-opioid intracellular receptor 1,Ki,18.68
+,B,CHEMBL545217,CHEMBL1193755,8.40,Sigma non-opioid intracellular receptor 1,Log IC50,-8.4
+,B,CHEMBL339863,CHEMBL339863,7.51,Sigma non-opioid intracellular receptor 1,Ki,30.89
+,B,CHEMBL542390,CHEMBL185841,7.67,Sigma non-opioid intracellular receptor 1,Log IC50,-7.67
+,B,CHEMBL343790,CHEMBL343790,8.36,Sigma non-opioid intracellular receptor 1,Ki,4.34
+,B,CHEMBL340816,CHEMBL340816,7.47,Sigma non-opioid intracellular receptor 1,Ki,34.1
+,B,CHEMBL540274,CHEMBL1190143,9.49,Sigma non-opioid intracellular receptor 1,Log IC50,-9.49
+,B,CHEMBL553561,CHEMBL1194940,8.64,Sigma non-opioid intracellular receptor 1,Log IC50,-8.64
+,B,CHEMBL545687,CHEMBL1194162,7.96,Sigma non-opioid intracellular receptor 1,Log IC50,-7.96
+,B,CHEMBL137348,CHEMBL137348,8.64,Sigma non-opioid intracellular receptor 1,Ki,2.3
+,B,CHEMBL554388,CHEMBL1195353,8.15,Sigma non-opioid intracellular receptor 1,Log IC50,-8.15
+,B,CHEMBL544282,CHEMBL1192959,8.20,Sigma non-opioid intracellular receptor 1,Log IC50,-8.2
+,B,CHEMBL544280,CHEMBL1192957,7.01,Sigma non-opioid intracellular receptor 1,Log IC50,-7.01
+,B,CHEMBL544747,CHEMBL1193356,8.06,Sigma non-opioid intracellular receptor 1,Log IC50,-8.06
+,B,CHEMBL341139,CHEMBL341139,8.74,Sigma non-opioid intracellular receptor 1,Ki,1.8
+,B,CHEMBL162422,CHEMBL162422,8.85,Sigma non-opioid intracellular receptor 1,Ki,1.4
+,B,CHEMBL544987,CHEMBL1193560,8.66,Sigma non-opioid intracellular receptor 1,Log IC50,-8.66
+,B,CHEMBL282433,CHEMBL282433,7.56,Sigma non-opioid intracellular receptor 1,Ki,27.7
+,B,CHEMBL20730,CHEMBL20730,7.58,Sigma non-opioid intracellular receptor 1,Ki,26.0
+,B,CHEMBL543101,CHEMBL1191933,8.34,Sigma non-opioid intracellular receptor 1,Log IC50,-8.34
+,B,CHEMBL544281,CHEMBL1192958,8.93,Sigma non-opioid intracellular receptor 1,Log IC50,-8.93
+,B,CHEMBL541299,CHEMBL188713,8.12,Sigma non-opioid intracellular receptor 1,Log IC50,-8.12
+,B,CHEMBL545688,CHEMBL1194163,8.73,Sigma non-opioid intracellular receptor 1,Log IC50,-8.73
+,B,CHEMBL543810,CHEMBL1192557,8.61,Sigma non-opioid intracellular receptor 1,Log IC50,-8.61
+,B,CHEMBL553265,CHEMBL1194757,9.60,Sigma non-opioid intracellular receptor 1,Log IC50,-9.6
+,B,CHEMBL554988,CHEMBL186350,7.78,Sigma non-opioid intracellular receptor 1,Log IC50,-7.78
+,B,CHEMBL544748,CHEMBL1193357,8.69,Sigma non-opioid intracellular receptor 1,Log IC50,-8.69
+,B,CHEMBL542387,CHEMBL1191310,7.09,Sigma non-opioid intracellular receptor 1,Log IC50,-7.09
+,B,CHEMBL342942,CHEMBL342942,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.69
+,B,CHEMBL165848,CHEMBL165848,9.41,Sigma non-opioid intracellular receptor 1,Ki,0.39
+,B,CHEMBL126742,CHEMBL126742,7.39,Sigma non-opioid intracellular receptor 1,Ki,40.4
+,B,CHEMBL163876,CHEMBL163876,9.33,Sigma non-opioid intracellular receptor 1,Ki,0.47
+,B,CHEMBL164124,CHEMBL164124,9.34,Sigma non-opioid intracellular receptor 1,Ki,0.46
+,B,CHEMBL545682,CHEMBL1194157,8.74,Sigma non-opioid intracellular receptor 1,Log IC50,-8.74
+,B,CHEMBL542140,CHEMBL1191092,7.78,Sigma non-opioid intracellular receptor 1,Log IC50,-7.78
+,B,CHEMBL2093874,CHEMBL2109983,8.51,Sigma non-opioid intracellular receptor 1,Log IC50,-8.51
+,B,CHEMBL20377,CHEMBL20377,8.68,Sigma non-opioid intracellular receptor 1,Ki,2.1
+,B,CHEMBL543632,CHEMBL1192403,7.54,Sigma non-opioid intracellular receptor 1,Ki,28.7
+,B,CHEMBL54,CHEMBL54,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.7
+,B,CHEMBL282433,CHEMBL282433,7.56,Sigma non-opioid intracellular receptor 1,Ki,27.7
+,B,CHEMBL107870,CHEMBL107870,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
+,B,CHEMBL46596,CHEMBL46596,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.2
+,B,CHEMBL321702,CHEMBL321702,7.39,Sigma non-opioid intracellular receptor 1,Ki,40.7
+,B,CHEMBL47251,CHEMBL47251,7.89,Sigma non-opioid intracellular receptor 1,Ki,13.0
+,B,CHEMBL274585,CHEMBL274585,9.17,Sigma non-opioid intracellular receptor 1,Ki,0.67
+,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
+,B,CHEMBL46463,CHEMBL46463,8.00,Sigma non-opioid intracellular receptor 1,Ki,10.0
+,B,CHEMBL107485,CHEMBL107485,7.27,Sigma non-opioid intracellular receptor 1,Ki,54.0
+,B,CHEMBL109026,CHEMBL109026,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.49
+,B,CHEMBL324620,CHEMBL324620,7.86,Sigma non-opioid intracellular receptor 1,Ki,13.8
+,B,CHEMBL323476,CHEMBL323476,7.11,Sigma non-opioid intracellular receptor 1,Ki,77.5
+,B,CHEMBL111331,CHEMBL111331,7.52,Sigma non-opioid intracellular receptor 1,Ki,29.9
+,B,CHEMBL308980,CHEMBL308980,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
+,B,CHEMBL80656,CHEMBL80656,7.57,Sigma non-opioid intracellular receptor 1,Ki,27.0
+,B,CHEMBL542786,CHEMBL1191655,7.47,Sigma non-opioid intracellular receptor 1,IC50,34.0
+,B,CHEMBL341003,CHEMBL341003,8.02,Sigma non-opioid intracellular receptor 1,IC50,9.5
+,B,CHEMBL1744017,CHEMBL63010,8.69,Sigma non-opioid intracellular receptor 1,Log IC50,-8.69
+,B,CHEMBL77286,CHEMBL77286,8.28,Sigma non-opioid intracellular receptor 1,Ki,5.22
+,B,CHEMBL308098,CHEMBL308098,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
+,B,CHEMBL101300,CHEMBL101300,7.71,Sigma non-opioid intracellular receptor 1,Ki,19.6
+,B,CHEMBL77352,CHEMBL77352,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.28
+,B,CHEMBL431775,CHEMBL431775,8.54,Sigma non-opioid intracellular receptor 1,Ki,2.89
+,B,CHEMBL54,CHEMBL54,8.60,Sigma non-opioid intracellular receptor 1,Ki,2.53
+,B,CHEMBL128799,CHEMBL128799,8.35,Sigma non-opioid intracellular receptor 1,IC50,4.5
+,B,CHEMBL553962,CHEMBL1195151,8.82,Sigma non-opioid intracellular receptor 1,IC50,1.5
+,B,CHEMBL308185,CHEMBL308185,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
+,B,CHEMBL64511,CHEMBL64511,7.95,Sigma non-opioid intracellular receptor 1,Log IC50,-7.95
+,B,CHEMBL1744014,CHEMBL63215,8.56,Sigma non-opioid intracellular receptor 1,Log IC50,-8.56
+,B,CHEMBL306768,CHEMBL306768,8.61,Sigma non-opioid intracellular receptor 1,Ki,2.45
+,B,CHEMBL1743991,CHEMBL291879,8.26,Sigma non-opioid intracellular receptor 1,Log IC50,-8.26
+,B,CHEMBL77289,CHEMBL77289,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.21
+,B,CHEMBL545760,CHEMBL1194228,8.00,Sigma non-opioid intracellular receptor 1,IC50,10.0
+,B,CHEMBL128717,CHEMBL128717,8.24,Sigma non-opioid intracellular receptor 1,IC50,5.7
+,B,CHEMBL310499,CHEMBL310499,8.46,Sigma non-opioid intracellular receptor 1,Ki,3.43
+,B,CHEMBL74665,CHEMBL74665,7.85,Sigma non-opioid intracellular receptor 1,Ki,14.2
+,B,CHEMBL101300,CHEMBL101300,8.42,Sigma non-opioid intracellular receptor 1,Ki,3.81
+,B,CHEMBL128860,CHEMBL128860,8.68,Sigma non-opioid intracellular receptor 1,IC50,2.1
+,B,CHEMBL1788383,CHEMBL292477,9.14,Sigma non-opioid intracellular receptor 1,Log IC50,-9.14
+,B,CHEMBL308304,CHEMBL308304,7.18,Sigma non-opioid intracellular receptor 1,Ki,66.4
+,B,CHEMBL77120,CHEMBL77120,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.1
+,B,CHEMBL317354,CHEMBL317354,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.4
+,B,CHEMBL542470,CHEMBL1191381,7.52,Sigma non-opioid intracellular receptor 1,IC50,30.0
+,B,CHEMBL1744001,CHEMBL63322,8.54,Sigma non-opioid intracellular receptor 1,Log IC50,-8.54
+,B,CHEMBL312254,CHEMBL312254,8.12,Sigma non-opioid intracellular receptor 1,Ki,7.63
+,B,CHEMBL274099,CHEMBL274099,7.22,Sigma non-opioid intracellular receptor 1,Ki,59.7
+,B,CHEMBL101607,CHEMBL101607,7.74,Sigma non-opioid intracellular receptor 1,Ki,18.4
+,B,CHEMBL1743997,CHEMBL64556,7.74,Sigma non-opioid intracellular receptor 1,Log IC50,-7.74
+,B,CHEMBL1744010,CHEMBL62404,8.32,Sigma non-opioid intracellular receptor 1,Log IC50,-8.32
+,B,CHEMBL308818,CHEMBL308818,8.50,Sigma non-opioid intracellular receptor 1,Ki,3.17
+,B,CHEMBL77204,CHEMBL77204,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
+,B,CHEMBL75678,CHEMBL75678,9.00,Sigma non-opioid intracellular receptor 1,Ki,1.0
+,B,CHEMBL103157,CHEMBL103157,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.5
+,B,CHEMBL1743995,CHEMBL418132,8.17,Sigma non-opioid intracellular receptor 1,Log IC50,-8.17
+,B,CHEMBL76564,CHEMBL76564,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.08
+,B,CHEMBL413057,CHEMBL413057,8.19,Sigma non-opioid intracellular receptor 1,Ki,6.46
+,B,CHEMBL80397,CHEMBL80397,8.13,Sigma non-opioid intracellular receptor 1,Ki,7.32
+,B,CHEMBL311451,CHEMBL311451,7.49,Sigma non-opioid intracellular receptor 1,Ki,32.1
+,B,CHEMBL127720,CHEMBL127720,7.92,Sigma non-opioid intracellular receptor 1,IC50,12.0
+,B,CHEMBL1743994,CHEMBL64840,8.20,Sigma non-opioid intracellular receptor 1,Log IC50,-8.2
+,B,CHEMBL1744013,CHEMBL64470,7.16,Sigma non-opioid intracellular receptor 1,Log IC50,-7.16
+,B,CHEMBL80968,CHEMBL80968,7.92,Sigma non-opioid intracellular receptor 1,Ki,12.0
+,B,CHEMBL330601,CHEMBL330601,8.80,Sigma non-opioid intracellular receptor 1,Ki,1.57
+,B,CHEMBL103156,CHEMBL103156,8.33,Sigma non-opioid intracellular receptor 1,Ki,4.68
+,B,CHEMBL1744004,CHEMBL61005,7.79,Sigma non-opioid intracellular receptor 1,Log IC50,-7.79
+,B,CHEMBL1256916,CHEMBL303336,8.42,Sigma non-opioid intracellular receptor 1,Log IC50,-8.42
+,B,CHEMBL77206,CHEMBL77206,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
+,B,CHEMBL318877,CHEMBL318877,9.17,Sigma non-opioid intracellular receptor 1,Ki,0.67
+,B,CHEMBL103157,CHEMBL103157,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.48
+,B,CHEMBL127899,CHEMBL127899,8.10,Sigma non-opioid intracellular receptor 1,IC50,8.0
+,B,CHEMBL540331,CHEMBL1190190,8.74,Sigma non-opioid intracellular receptor 1,IC50,1.8
+,B,CHEMBL76802,CHEMBL76802,7.19,Sigma non-opioid intracellular receptor 1,Ki,63.9
+,B,CHEMBL307444,CHEMBL307444,7.05,Sigma non-opioid intracellular receptor 1,Ki,90.0
+,B,CHEMBL1788382,CHEMBL418310,8.93,Sigma non-opioid intracellular receptor 1,Log IC50,-8.93
+,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
+,B,CHEMBL1744008,CHEMBL63110,7.99,Sigma non-opioid intracellular receptor 1,Log IC50,-7.99
+,B,CHEMBL1744011,CHEMBL423664,8.17,Sigma non-opioid intracellular receptor 1,Log IC50,-8.17
+,B,CHEMBL312631,CHEMBL312631,7.51,Sigma non-opioid intracellular receptor 1,Ki,30.8
+,B,CHEMBL76864,CHEMBL76864,8.85,Sigma non-opioid intracellular receptor 1,Ki,1.4
+,B,CHEMBL1036,CHEMBL1036,7.84,Sigma non-opioid intracellular receptor 1,Ki,14.34
+,B,CHEMBL76475,CHEMBL76475,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
+,B,CHEMBL430444,CHEMBL430444,7.55,Sigma non-opioid intracellular receptor 1,Ki,28.0
+,B,CHEMBL76927,CHEMBL76927,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
+,B,CHEMBL1743998,CHEMBL64607,8.26,Sigma non-opioid intracellular receptor 1,Log IC50,-8.26
+,B,CHEMBL1744015,CHEMBL62126,8.82,Sigma non-opioid intracellular receptor 1,Log IC50,-8.82
+,B,CHEMBL305728,CHEMBL305728,7.57,Sigma non-opioid intracellular receptor 1,Ki,26.9
+,B,CHEMBL276078,CHEMBL276078,7.40,Sigma non-opioid intracellular receptor 1,Ki,40.1
+,B,CHEMBL1788381,CHEMBL62540,8.92,Sigma non-opioid intracellular receptor 1,Log IC50,-8.92
+,B,CHEMBL103319,CHEMBL103319,7.95,Sigma non-opioid intracellular receptor 1,Ki,11.3
+,B,CHEMBL421446,CHEMBL421446,7.89,Sigma non-opioid intracellular receptor 1,IC50,13.0
+,B,CHEMBL1743996,CHEMBL444267,8.18,Sigma non-opioid intracellular receptor 1,Log IC50,-8.18
+,B,CHEMBL1743992,CHEMBL64346,7.85,Sigma non-opioid intracellular receptor 1,Log IC50,-7.85
+,B,CHEMBL311622,CHEMBL311622,8.34,Sigma non-opioid intracellular receptor 1,Ki,4.56
+,B,CHEMBL560,CHEMBL560,7.08,Sigma non-opioid intracellular receptor 1,Ki,83.1
+,B,CHEMBL339638,CHEMBL339638,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
+,B,CHEMBL340587,CHEMBL340587,7.54,Sigma non-opioid intracellular receptor 1,IC50,29.0
+,B,CHEMBL1744002,CHEMBL302197,8.78,Sigma non-opioid intracellular receptor 1,Log IC50,-8.78
+,B,CHEMBL1743993,CHEMBL63162,8.02,Sigma non-opioid intracellular receptor 1,Log IC50,-8.02
+,B,CHEMBL1744016,CHEMBL292259,8.46,Sigma non-opioid intracellular receptor 1,Log IC50,-8.46
+,B,CHEMBL306955,CHEMBL306955,8.06,Sigma non-opioid intracellular receptor 1,Ki,8.7
+,B,CHEMBL80326,CHEMBL80326,7.10,Sigma non-opioid intracellular receptor 1,Ki,80.0
+,B,CHEMBL311508,CHEMBL311508,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
+,B,CHEMBL318877,CHEMBL318877,7.44,Sigma non-opioid intracellular receptor 1,Ki,36.5
+,B,CHEMBL62770,CHEMBL62770,8.98,Sigma non-opioid intracellular receptor 1,Log IC50,-8.98
+,B,CHEMBL1744003,CHEMBL439751,8.85,Sigma non-opioid intracellular receptor 1,Log IC50,-8.85
+,B,CHEMBL1743999,CHEMBL60137,8.87,Sigma non-opioid intracellular receptor 1,Log IC50,-8.87
+,B,CHEMBL76806,CHEMBL76806,8.45,Sigma non-opioid intracellular receptor 1,Ki,3.56
+,B,CHEMBL75816,CHEMBL75816,7.57,Sigma non-opioid intracellular receptor 1,Ki,27.1
+,B,CHEMBL101607,CHEMBL101607,7.23,Sigma non-opioid intracellular receptor 1,Ki,58.6
+,B,CHEMBL419343,CHEMBL419343,8.25,Sigma non-opioid intracellular receptor 1,Ki,5.68
+,B,CHEMBL77285,CHEMBL77285,8.40,Sigma non-opioid intracellular receptor 1,Ki,3.97
+,B,CHEMBL78059,CHEMBL78059,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.8
+,B,CHEMBL75810,CHEMBL75810,7.62,Sigma non-opioid intracellular receptor 1,Ki,23.8
+,B,CHEMBL78067,CHEMBL78067,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
+,B,CHEMBL102406,CHEMBL102406,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.47
+,B,CHEMBL521582,CHEMBL190883,8.89,Sigma non-opioid intracellular receptor 1,IC50,1.3
+,B,CHEMBL521582,CHEMBL190883,7.07,Sigma non-opioid intracellular receptor 1,IC50,85.0
+,B,CHEMBL1744000,CHEMBL61938,8.64,Sigma non-opioid intracellular receptor 1,Log IC50,-8.64
+,B,CHEMBL262760,CHEMBL262760,8.02,Sigma non-opioid intracellular receptor 1,Ki,9.66
+,B,CHEMBL77405,CHEMBL77405,9.06,Sigma non-opioid intracellular receptor 1,Ki,0.87
+,B,CHEMBL77773,CHEMBL77773,8.01,Sigma non-opioid intracellular receptor 1,Ki,9.84
+,B,CHEMBL330601,CHEMBL330601,7.58,Sigma non-opioid intracellular receptor 1,Ki,26.4
+,B,CHEMBL103816,CHEMBL103816,8.76,Sigma non-opioid intracellular receptor 1,Ki,1.75
+,B,CHEMBL1744009,CHEMBL62408,8.30,Sigma non-opioid intracellular receptor 1,Log IC50,-8.3
+,B,CHEMBL1744006,CHEMBL61338,8.23,Sigma non-opioid intracellular receptor 1,Log IC50,-8.23
+,B,CHEMBL104042,CHEMBL104042,7.68,Sigma non-opioid intracellular receptor 1,Ki,21.0
+,B,CHEMBL1744005,CHEMBL61337,8.50,Sigma non-opioid intracellular receptor 1,Log IC50,-8.5
+,B,CHEMBL76895,CHEMBL76895,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.9
+,B,CHEMBL318823,CHEMBL318823,7.08,Sigma non-opioid intracellular receptor 1,Ki,82.5
+,B,CHEMBL99854,CHEMBL99854,7.73,Sigma non-opioid intracellular receptor 1,Ki,18.5
+,B,CHEMBL1744012,CHEMBL62116,7.13,Sigma non-opioid intracellular receptor 1,Log IC50,-7.13
+,B,CHEMBL77953,CHEMBL77953,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.92
+,B,CHEMBL307253,CHEMBL307253,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
+,B,CHEMBL1744007,CHEMBL62407,8.17,Sigma non-opioid intracellular receptor 1,Log IC50,-8.17
+,B,CHEMBL311579,CHEMBL311579,7.73,Sigma non-opioid intracellular receptor 1,Ki,18.8
+,B,CHEMBL312692,CHEMBL312692,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.5
+,B,CHEMBL308097,CHEMBL308097,7.36,Sigma non-opioid intracellular receptor 1,Ki,43.4
+,B,CHEMBL76849,CHEMBL76849,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
+,B,CHEMBL309015,CHEMBL309015,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
+,B,CHEMBL75860,CHEMBL75860,7.66,Sigma non-opioid intracellular receptor 1,Ki,22.0
+,B,CHEMBL276078,CHEMBL276078,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.16
+,B,CHEMBL76547,CHEMBL76547,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.87
+,B,CHEMBL110319,CHEMBL110319,8.03,Sigma non-opioid intracellular receptor 1,Ki,9.4
+,B,CHEMBL50465,CHEMBL50465,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.2
+,B,CHEMBL141381,CHEMBL141381,7.74,Sigma non-opioid intracellular receptor 1,Ki,18.4
+,B,CHEMBL145296,CHEMBL145296,8.10,Sigma non-opioid intracellular receptor 1,Ki,7.9
+,B,CHEMBL54026,CHEMBL54026,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.2
+,B,CHEMBL322468,CHEMBL322468,7.18,Sigma non-opioid intracellular receptor 1,Ki,65.3
+,B,CHEMBL143800,CHEMBL143800,8.72,Sigma non-opioid intracellular receptor 1,Ki,1.91
+,B,CHEMBL53078,CHEMBL53078,8.96,Sigma non-opioid intracellular receptor 1,Ki,1.1
+,B,CHEMBL54865,CHEMBL54865,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.8
+,B,CHEMBL52835,CHEMBL52835,7.24,Sigma non-opioid intracellular receptor 1,Ki,57.0
+,B,CHEMBL146659,CHEMBL146659,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
+,B,CHEMBL52300,CHEMBL52300,7.23,Sigma non-opioid intracellular receptor 1,Ki,59.0
+,B,CHEMBL54667,CHEMBL54667,8.32,Sigma non-opioid intracellular receptor 1,Ki,4.8
+,B,CHEMBL298864,CHEMBL298864,7.02,Sigma non-opioid intracellular receptor 1,Ki,96.0
+,B,CHEMBL146659,CHEMBL146659,7.29,Sigma non-opioid intracellular receptor 1,Ki,51.3
+,B,CHEMBL54571,CHEMBL54571,8.60,Sigma non-opioid intracellular receptor 1,Ki,2.5
+,B,CHEMBL146659,CHEMBL146659,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.3
+,B,CHEMBL298759,CHEMBL298759,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
+,B,CHEMBL53778,CHEMBL53778,8.44,Sigma non-opioid intracellular receptor 1,Ki,3.6
+,B,CHEMBL322468,CHEMBL322468,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.2
+,B,CHEMBL110319,CHEMBL110319,7.63,Sigma non-opioid intracellular receptor 1,Ki,23.3
+,B,CHEMBL356639,CHEMBL356639,8.79,Sigma non-opioid intracellular receptor 1,Ki,1.62
+,B,CHEMBL358527,CHEMBL358527,7.21,Sigma non-opioid intracellular receptor 1,Ki,62.3
+,B,CHEMBL51959,CHEMBL51959,8.25,Sigma non-opioid intracellular receptor 1,Ki,5.6
+,B,CHEMBL53401,CHEMBL53401,8.72,Sigma non-opioid intracellular receptor 1,Ki,1.9
+,B,CHEMBL54,CHEMBL54,8.82,Sigma non-opioid intracellular receptor 1,Ki,1.5
+,B,CHEMBL53650,CHEMBL53650,7.25,Sigma non-opioid intracellular receptor 1,Ki,56.0
+,B,CHEMBL53218,CHEMBL53218,7.63,Sigma non-opioid intracellular receptor 1,Ki,23.4
+,B,CHEMBL52588,CHEMBL52588,7.13,Sigma non-opioid intracellular receptor 1,Ki,74.0
+,B,CHEMBL51856,CHEMBL51856,8.96,Sigma non-opioid intracellular receptor 1,Ki,1.1
+,B,CHEMBL110319,CHEMBL110319,8.89,Sigma non-opioid intracellular receptor 1,Ki,1.3
+,B,CHEMBL141381,CHEMBL141381,7.42,Sigma non-opioid intracellular receptor 1,Ki,38.1
+,B,CHEMBL298875,CHEMBL298875,8.23,Sigma non-opioid intracellular receptor 1,Ki,5.9
+,B,CHEMBL301302,CHEMBL301302,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.2
+,B,CHEMBL322468,CHEMBL322468,7.50,Sigma non-opioid intracellular receptor 1,Ki,32.0
+,B,CHEMBL54092,CHEMBL54092,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.2
+,B,CHEMBL54662,CHEMBL54662,7.78,Sigma non-opioid intracellular receptor 1,Ki,16.7
+,B,CHEMBL50517,CHEMBL50517,7.32,Sigma non-opioid intracellular receptor 1,Ki,48.0
+,B,CHEMBL53070,CHEMBL53070,7.85,Sigma non-opioid intracellular receptor 1,Ki,14.0
+,B,CHEMBL143800,CHEMBL143800,8.11,Sigma non-opioid intracellular receptor 1,Ki,7.8
+,B,CHEMBL145422,CHEMBL145422,8.77,Sigma non-opioid intracellular receptor 1,Ki,1.71
+,B,CHEMBL542123,CHEMBL1191079,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
+,B,CHEMBL143800,CHEMBL143800,7.74,Sigma non-opioid intracellular receptor 1,Ki,18.4
+,B,CHEMBL423122,CHEMBL423122,7.16,Sigma non-opioid intracellular receptor 1,Ki,69.0
+,B,CHEMBL301732,CHEMBL301732,7.90,Sigma non-opioid intracellular receptor 1,Ki,12.7
+,B,CHEMBL542368,CHEMBL1191292,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
+,B,CHEMBL52298,CHEMBL52298,7.55,Sigma non-opioid intracellular receptor 1,Ki,28.0
+,B,CHEMBL54027,CHEMBL54027,9.15,Sigma non-opioid intracellular receptor 1,Ki,0.7
+,B,CHEMBL540283,CHEMBL51146,7.43,Sigma non-opioid intracellular receptor 1,Ki,37.0
+,B,CHEMBL416481,CHEMBL416481,7.51,Sigma non-opioid intracellular receptor 1,Ki,31.0
+,B,CHEMBL53038,CHEMBL53038,7.68,Sigma non-opioid intracellular receptor 1,Ki,20.7
+,B,CHEMBL145296,CHEMBL145296,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
+,B,CHEMBL53320,CHEMBL53320,8.77,Sigma non-opioid intracellular receptor 1,Ki,1.7
+,B,CHEMBL51754,CHEMBL51754,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.2
+,B,CHEMBL145780,CHEMBL145780,7.78,Sigma non-opioid intracellular receptor 1,Ki,16.6
+,B,CHEMBL145296,CHEMBL145296,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.8
+,B,CHEMBL160817,CHEMBL160817,7.21,Sigma non-opioid intracellular receptor 1,Ki,61.0
+,B,CHEMBL95857,CHEMBL95857,7.67,Sigma non-opioid intracellular receptor 1,Ki,21.4
+,B,CHEMBL50880,CHEMBL50880,7.04,Sigma non-opioid intracellular receptor 1,Ki,92.0
+,B,CHEMBL20730,CHEMBL20730,7.58,Sigma non-opioid intracellular receptor 1,Ki,26.0
+,B,CHEMBL50029,CHEMBL50029,7.18,Sigma non-opioid intracellular receptor 1,Ki,66.0
+,B,CHEMBL96777,CHEMBL96777,8.56,Sigma non-opioid intracellular receptor 1,Ki,2.72
+,B,CHEMBL53325,CHEMBL53325,8.28,Sigma non-opioid intracellular receptor 1,Ki,5.3
+,B,CHEMBL112574,CHEMBL112574,8.55,Sigma non-opioid intracellular receptor 1,Ki,2.8
+,B,CHEMBL2111684,CHEMBL2111684,8.03,Sigma non-opioid intracellular receptor 1,Ki,9.4
+,B,CHEMBL114477,CHEMBL114477,8.27,Sigma non-opioid intracellular receptor 1,Ki,5.4
+,B,CHEMBL54020,CHEMBL54020,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
+,B,CHEMBL325262,CHEMBL325262,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.2
+,B,CHEMBL97302,CHEMBL97302,8.67,Sigma non-opioid intracellular receptor 1,Ki,2.13
+,B,CHEMBL85879,CHEMBL85879,8.59,Sigma non-opioid intracellular receptor 1,Ki,2.6
+,B,CHEMBL94801,CHEMBL94801,9.35,Sigma non-opioid intracellular receptor 1,Ki,0.45
+,B,CHEMBL94844,CHEMBL94844,7.35,Sigma non-opioid intracellular receptor 1,Ki,44.5
+,B,CHEMBL325238,CHEMBL325238,9.10,Sigma non-opioid intracellular receptor 1,Ki,0.8
+,B,CHEMBL110319,CHEMBL110319,7.63,Sigma non-opioid intracellular receptor 1,Ki,23.3
+,B,CHEMBL420302,CHEMBL420302,8.39,Sigma non-opioid intracellular receptor 1,Ki,4.1
+,B,CHEMBL541347,CHEMBL1190672,8.16,Sigma non-opioid intracellular receptor 1,Ki,6.9
+,B,CHEMBL50239,CHEMBL50239,7.33,Sigma non-opioid intracellular receptor 1,Ki,46.5
+,B,CHEMBL113621,CHEMBL113621,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.5
+,B,CHEMBL94950,CHEMBL94950,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.07
+,B,CHEMBL300408,CHEMBL300408,7.36,Sigma non-opioid intracellular receptor 1,Ki,43.8
+,B,CHEMBL53938,CHEMBL53938,7.54,Sigma non-opioid intracellular receptor 1,Ki,29.0
+,B,CHEMBL115508,CHEMBL115508,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
+,B,CHEMBL282433,CHEMBL282433,7.43,Sigma non-opioid intracellular receptor 1,Ki,37.3
+,B,CHEMBL112125,CHEMBL112125,8.54,Sigma non-opioid intracellular receptor 1,Ki,2.9
+,B,CHEMBL113293,CHEMBL113293,8.12,Sigma non-opioid intracellular receptor 1,Ki,7.5
+,B,CHEMBL112037,CHEMBL112037,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
+,B,CHEMBL97285,CHEMBL97285,8.23,Sigma non-opioid intracellular receptor 1,Ki,5.86
+,B,CHEMBL2111685,CHEMBL2111685,7.50,Sigma non-opioid intracellular receptor 1,Ki,32.0
+,B,CHEMBL421195,CHEMBL421195,8.76,Sigma non-opioid intracellular receptor 1,Ki,1.75
+,B,CHEMBL93442,CHEMBL93442,8.98,Sigma non-opioid intracellular receptor 1,Ki,1.04
+,B,CHEMBL54,CHEMBL54,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.4
+,B,CHEMBL112474,CHEMBL112474,9.05,Sigma non-opioid intracellular receptor 1,Ki,0.9
+,B,CHEMBL538057,CHEMBL1189111,7.10,Sigma non-opioid intracellular receptor 1,Ki,78.7
+,B,CHEMBL322468,CHEMBL322468,7.18,Sigma non-opioid intracellular receptor 1,Ki,65.3
+,B,CHEMBL112124,CHEMBL112124,8.96,Sigma non-opioid intracellular receptor 1,Ki,1.1
+,B,CHEMBL660,CHEMBL660,7.69,Sigma non-opioid intracellular receptor 1,Ki,20.25
+,B,CHEMBL539310,CHEMBL1189714,7.24,Sigma non-opioid intracellular receptor 1,Ki,58.2
+,B,CHEMBL552794,CHEMBL1194508,7.46,Sigma non-opioid intracellular receptor 1,Ki,34.5
+,B,CHEMBL96524,CHEMBL96524,7.99,Sigma non-opioid intracellular receptor 1,Ki,10.3
+,B,CHEMBL54,CHEMBL54,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.2
+,B,CHEMBL111896,CHEMBL111896,8.17,Sigma non-opioid intracellular receptor 1,Ki,6.7
+,B,CHEMBL538300,CHEMBL1189234,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.1
+,B,CHEMBL114510,CHEMBL114510,7.13,Sigma non-opioid intracellular receptor 1,Ki,74.0
+,B,CHEMBL542481,CHEMBL1191390,7.74,Sigma non-opioid intracellular receptor 1,IC50,18.2
+,B,CHEMBL543673,CHEMBL1192438,7.54,Sigma non-opioid intracellular receptor 1,IC50,28.5
+,B,CHEMBL541860,CHEMBL1190923,7.69,Sigma non-opioid intracellular receptor 1,IC50,20.6
+,B,CHEMBL542736,CHEMBL1191614,7.76,Sigma non-opioid intracellular receptor 1,IC50,17.3
+,B,CHEMBL543432,CHEMBL1192227,7.70,Sigma non-opioid intracellular receptor 1,IC50,20.0
+,B,CHEMBL542964,CHEMBL1191815,7.37,Sigma non-opioid intracellular receptor 1,IC50,42.8
+,B,CHEMBL543431,CHEMBL1192226,7.50,Sigma non-opioid intracellular receptor 1,IC50,31.8
+,B,CHEMBL542487,CHEMBL1191395,8.35,Sigma non-opioid intracellular receptor 1,IC50,4.5
+,B,CHEMBL543427,CHEMBL1192223,7.80,Sigma non-opioid intracellular receptor 1,IC50,15.8
+,B,CHEMBL554618,CHEMBL1195456,7.14,Sigma non-opioid intracellular receptor 1,IC50,71.8
+,B,CHEMBL544842,CHEMBL1193436,7.99,Sigma non-opioid intracellular receptor 1,IC50,10.3
+,B,CHEMBL83448,CHEMBL83448,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.11
+,B,CHEMBL82081,CHEMBL82081,7.38,Sigma non-opioid intracellular receptor 1,Ki,41.8
+,B,CHEMBL545544,CHEMBL1194042,7.34,Sigma non-opioid intracellular receptor 1,IC50,45.3
+,B,CHEMBL543434,CHEMBL91628,7.09,Sigma non-opioid intracellular receptor 1,IC50,82.0
+,B,CHEMBL542491,CHEMBL1191399,7.88,Sigma non-opioid intracellular receptor 1,IC50,13.3
+,B,CHEMBL539299,CHEMBL1189705,7.44,Sigma non-opioid intracellular receptor 1,IC50,36.5
+,B,CHEMBL79840,CHEMBL79840,8.84,Sigma non-opioid intracellular receptor 1,Ki,1.46
+,B,CHEMBL543201,CHEMBL78777,7.52,Sigma non-opioid intracellular receptor 1,IC50,30.1
+,B,CHEMBL553034,CHEMBL1194636,8.24,Sigma non-opioid intracellular receptor 1,IC50,5.7
+,B,CHEMBL81451,CHEMBL81451,8.30,Sigma non-opioid intracellular receptor 1,Ki,4.97
+,B,CHEMBL542730,CHEMBL1191609,7.51,Sigma non-opioid intracellular receptor 1,IC50,30.7
+,B,CHEMBL81389,CHEMBL81389,8.00,Sigma non-opioid intracellular receptor 1,Ki,10.1
+,B,CHEMBL81360,CHEMBL81360,8.18,Sigma non-opioid intracellular receptor 1,Ki,6.65
+,B,CHEMBL309983,CHEMBL309983,9.74,Sigma non-opioid intracellular receptor 1,Ki,0.18
+,B,CHEMBL539549,CHEMBL1189827,7.34,Sigma non-opioid intracellular receptor 1,IC50,45.7
+,B,CHEMBL545310,CHEMBL1193840,7.80,Sigma non-opioid intracellular receptor 1,IC50,15.9
+,B,CHEMBL553312,CHEMBL1194794,7.93,Sigma non-opioid intracellular receptor 1,IC50,11.8
+,B,CHEMBL540831,CHEMBL1190422,7.10,Sigma non-opioid intracellular receptor 1,IC50,79.0
+,B,CHEMBL556043,CHEMBL1196177,7.97,Sigma non-opioid intracellular receptor 1,IC50,10.8
+,B,CHEMBL538283,CHEMBL1189219,7.40,Sigma non-opioid intracellular receptor 1,IC50,40.0
+,B,CHEMBL79840,CHEMBL79840,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.25
+,B,CHEMBL81455,CHEMBL81455,9.85,Sigma non-opioid intracellular receptor 1,Ki,0.14
+,B,CHEMBL545545,CHEMBL1194043,7.41,Sigma non-opioid intracellular receptor 1,IC50,39.0
+,B,CHEMBL538036,CHEMBL1189094,7.73,Sigma non-opioid intracellular receptor 1,IC50,18.5
+,B,CHEMBL545542,CHEMBL1194040,7.40,Sigma non-opioid intracellular receptor 1,IC50,40.2
+,B,CHEMBL552829,CHEMBL1194536,8.13,Sigma non-opioid intracellular receptor 1,IC50,7.4
+,B,CHEMBL542959,CHEMBL1191810,7.16,Sigma non-opioid intracellular receptor 1,IC50,69.9
+,B,CHEMBL555698,CHEMBL1195984,7.01,Sigma non-opioid intracellular receptor 1,IC50,97.0
+,B,CHEMBL552831,CHEMBL1194537,8.10,Sigma non-opioid intracellular receptor 1,IC50,8.0
+,B,CHEMBL553749,CHEMBL1195030,7.71,Sigma non-opioid intracellular receptor 1,IC50,19.6
+,B,CHEMBL555091,CHEMBL1195654,7.36,Sigma non-opioid intracellular receptor 1,IC50,43.5
+,B,CHEMBL540841,CHEMBL1190431,7.62,Sigma non-opioid intracellular receptor 1,IC50,23.9
+,B,CHEMBL553167,CHEMBL1194727,7.19,Sigma non-opioid intracellular receptor 1,IC50,64.0
+,B,CHEMBL79841,CHEMBL79841,8.81,Sigma non-opioid intracellular receptor 1,Ki,1.54
+,B,CHEMBL79660,CHEMBL79660,9.20,Sigma non-opioid intracellular receptor 1,Ki,0.63
+,B,CHEMBL439765,CHEMBL439765,8.88,Sigma non-opioid intracellular receptor 1,Ki,1.32
+,B,CHEMBL20377,CHEMBL20377,9.15,Sigma non-opioid intracellular receptor 1,Ki,0.7
+,B,CHEMBL54,CHEMBL54,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.7
+,B,CHEMBL543433,CHEMBL1192228,7.84,Sigma non-opioid intracellular receptor 1,IC50,14.4
+,B,CHEMBL81500,CHEMBL81500,9.34,Sigma non-opioid intracellular receptor 1,Ki,0.46
+,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
+,B,CHEMBL542956,CHEMBL1191807,7.41,Sigma non-opioid intracellular receptor 1,IC50,39.3
+,B,CHEMBL554355,CHEMBL1195346,7.57,Sigma non-opioid intracellular receptor 1,IC50,27.0
+,B,CHEMBL83430,CHEMBL83430,7.56,Sigma non-opioid intracellular receptor 1,Ki,27.7
+,B,CHEMBL282433,CHEMBL282433,7.16,Sigma non-opioid intracellular receptor 1,Ki,70.0
+,B,CHEMBL69972,CHEMBL69972,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
+,B,CHEMBL302096,CHEMBL302096,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
+,B,CHEMBL302096,CHEMBL302096,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
+,B,CHEMBL308433,CHEMBL308433,7.77,Sigma non-opioid intracellular receptor 1,Ki,17.0
+,B,CHEMBL308433,CHEMBL308433,7.37,Sigma non-opioid intracellular receptor 1,Ki,43.0
+,B,CHEMBL71104,CHEMBL71104,7.89,Sigma non-opioid intracellular receptor 1,Ki,13.0
+,B,CHEMBL71104,CHEMBL71104,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.0
+,B,CHEMBL303408,CHEMBL303408,8.00,Sigma non-opioid intracellular receptor 1,Ki,10.0
+,B,CHEMBL303408,CHEMBL303408,8.08,Sigma non-opioid intracellular receptor 1,Ki,8.4
+,B,CHEMBL60542,CHEMBL60542,8.68,Sigma non-opioid intracellular receptor 1,Ki,2.1
+,B,CHEMBL54,CHEMBL54,9.22,Sigma non-opioid intracellular receptor 1,Ki,0.6
+,B,CHEMBL54,CHEMBL54,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
+,B,CHEMBL73169,CHEMBL73169,7.66,Sigma non-opioid intracellular receptor 1,Ki,22.0
+,B,CHEMBL73169,CHEMBL73169,7.60,Sigma non-opioid intracellular receptor 1,Ki,25.0
+,B,CHEMBL304506,CHEMBL304506,9.23,Sigma non-opioid intracellular receptor 1,Ki,0.59
+,B,CHEMBL304506,CHEMBL304506,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
+,B,CHEMBL87321,CHEMBL87321,7.68,Sigma non-opioid intracellular receptor 1,IC50,21.1
+,B,CHEMBL553745,CHEMBL104945,8.46,Sigma non-opioid intracellular receptor 1,IC50,3.47
+,B,CHEMBL50112,CHEMBL50112,8.77,Sigma non-opioid intracellular receptor 1,Ki,1.7
+,B,CHEMBL311578,CHEMBL311578,7.15,Sigma non-opioid intracellular receptor 1,Log Ki,-7.15
+,B,CHEMBL76944,CHEMBL76944,8.02,Sigma non-opioid intracellular receptor 1,Log Ki,-8.02
+,B,CHEMBL440689,CHEMBL440689,7.05,Sigma non-opioid intracellular receptor 1,Log Ki,-7.05
+,B,CHEMBL54,CHEMBL54,8.82,Sigma non-opioid intracellular receptor 1,Ki,1.5
+,B,CHEMBL543134,CHEMBL105645,7.46,Sigma non-opioid intracellular receptor 1,IC50,34.3
+,B,CHEMBL544309,CHEMBL323287,8.35,Sigma non-opioid intracellular receptor 1,IC50,4.49
+,B,CHEMBL54,CHEMBL54,8.34,Sigma non-opioid intracellular receptor 1,Ki,4.6
+,B,CHEMBL282433,CHEMBL282433,7.22,Sigma non-opioid intracellular receptor 1,Ki,60.0
+,B,CHEMBL282433,CHEMBL282433,7.42,Sigma non-opioid intracellular receptor 1,Kd,38.2
+,B,CHEMBL543134,CHEMBL105645,7.91,Sigma non-opioid intracellular receptor 1,IC50,12.2
+,B,CHEMBL540038,CHEMBL1190041,8.05,Sigma non-opioid intracellular receptor 1,IC50,8.9
+,B,CHEMBL274490,CHEMBL274490,8.17,Sigma non-opioid intracellular receptor 1,Log Ki,-8.17
+,B,CHEMBL542167,CHEMBL1191117,9.29,Sigma non-opioid intracellular receptor 1,IC50,0.51
+,B,CHEMBL308633,CHEMBL308633,8.30,Sigma non-opioid intracellular receptor 1,Log Ki,-8.3
+,B,CHEMBL46326,CHEMBL46326,8.79,Sigma non-opioid intracellular receptor 1,Ki,1.64
+,B,CHEMBL78272,CHEMBL78272,8.11,Sigma non-opioid intracellular receptor 1,Log Ki,-8.11
+,B,CHEMBL539938,CHEMBL539938,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.02
+,B,CHEMBL545477,CHEMBL1193985,9.54,Sigma non-opioid intracellular receptor 1,IC50,0.29
+,B,CHEMBL308085,CHEMBL308085,7.21,Sigma non-opioid intracellular receptor 1,Log Ki,-7.21
+,B,CHEMBL77925,CHEMBL77925,8.24,Sigma non-opioid intracellular receptor 1,Log Ki,-8.24
+,B,CHEMBL76256,CHEMBL76256,8.19,Sigma non-opioid intracellular receptor 1,Log Ki,-8.19
+,B,CHEMBL2093895,CHEMBL2110041,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
+,B,CHEMBL545249,CHEMBL317029,8.85,Sigma non-opioid intracellular receptor 1,IC50,1.4
+,B,CHEMBL539274,CHEMBL1189682,7.58,Sigma non-opioid intracellular receptor 1,IC50,26.5
+,B,CHEMBL542167,CHEMBL1191117,9.70,Sigma non-opioid intracellular receptor 1,IC50,0.2
+,B,CHEMBL119104,CHEMBL119104,7.62,Sigma non-opioid intracellular receptor 1,Ki,23.8
+,B,CHEMBL115956,CHEMBL115956,7.80,Sigma non-opioid intracellular receptor 1,Ki,15.7
+,B,CHEMBL324513,CHEMBL324513,8.11,Sigma non-opioid intracellular receptor 1,Ki,7.7
+,B,CHEMBL118297,CHEMBL118297,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.3
+,B,CHEMBL118405,CHEMBL118405,8.19,Sigma non-opioid intracellular receptor 1,Ki,6.4
+,B,CHEMBL118797,CHEMBL118797,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.3
+,B,CHEMBL290675,CHEMBL290675,7.70,Sigma non-opioid intracellular receptor 1,Ki,20.1
+,B,CHEMBL60542,CHEMBL60542,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.1
+,B,CHEMBL287794,CHEMBL287794,8.23,Sigma non-opioid intracellular receptor 1,Ki,5.9
+,B,CHEMBL41313,CHEMBL41313,8.02,Sigma non-opioid intracellular receptor 1,Ki,9.6
