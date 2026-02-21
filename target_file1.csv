@@ -1,601 +1,2601 @@
-action_type,assay_type,molecule_chembl_id,parent_molecule_chembl_id,pchembl_value,target_pref_name,type,value
-,B,CHEMBL38904,CHEMBL38904,7.70,Sigma non-opioid intracellular receptor 1,Ki,20.0
-,B,CHEMBL67010,CHEMBL67010,7.14,Sigma non-opioid intracellular receptor 1,IC50,72.0
-,B,CHEMBL542638,CHEMBL1191528,8.22,Sigma non-opioid intracellular receptor 1,IC50,6.0
-,B,CHEMBL45962,CHEMBL45962,7.47,Sigma non-opioid intracellular receptor 1,Ki,34.0
-,B,CHEMBL45686,CHEMBL45686,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
-,B,CHEMBL358579,CHEMBL358579,8.25,Sigma non-opioid intracellular receptor 1,Ki,5.66
-,B,CHEMBL141209,CHEMBL141209,8.89,Sigma non-opioid intracellular receptor 1,Ki,1.29
-,B,CHEMBL46438,CHEMBL46438,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
-,B,CHEMBL45535,CHEMBL45535,9.00,Sigma non-opioid intracellular receptor 1,Ki,1.0
-,B,CHEMBL357179,CHEMBL357179,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.27
-,B,CHEMBL434067,CHEMBL434067,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.16
-,B,CHEMBL298492,CHEMBL298492,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
-,B,CHEMBL544054,CHEMBL1192761,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
-,B,CHEMBL295039,CHEMBL295039,7.39,Sigma non-opioid intracellular receptor 1,Ki,41.0
-,B,CHEMBL48124,CHEMBL48124,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
-,B,CHEMBL48075,CHEMBL48075,7.80,Sigma non-opioid intracellular receptor 1,Ki,16.0
-,B,CHEMBL45968,CHEMBL45968,7.62,Sigma non-opioid intracellular receptor 1,Ki,24.0
-,B,CHEMBL60859,CHEMBL60859,7.15,Sigma non-opioid intracellular receptor 1,Ki,71.0
-,B,CHEMBL147151,CHEMBL147151,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.18
-,B,CHEMBL148276,CHEMBL148276,8.81,Sigma non-opioid intracellular receptor 1,Ki,1.54
-,B,CHEMBL67388,CHEMBL67388,7.80,Sigma non-opioid intracellular receptor 1,IC50,16.0
-,B,CHEMBL297634,CHEMBL297634,7.47,Sigma non-opioid intracellular receptor 1,Ki,34.0
-,B,CHEMBL22242,CHEMBL22242,7.26,Sigma non-opioid intracellular receptor 1,Ki,55.0
-,B,CHEMBL137990,CHEMBL137990,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.17
-,B,CHEMBL538754,CHEMBL1189436,7.82,Sigma non-opioid intracellular receptor 1,IC50,15.0
-,B,CHEMBL144662,CHEMBL144662,7.90,Sigma non-opioid intracellular receptor 1,Ki,12.7
-,B,CHEMBL417357,CHEMBL417357,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
-,B,CHEMBL295891,CHEMBL295891,7.77,Sigma non-opioid intracellular receptor 1,Ki,17.0
-,B,CHEMBL47774,CHEMBL47774,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
-,B,CHEMBL417353,CHEMBL417353,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
-,B,CHEMBL147093,CHEMBL147093,7.93,Sigma non-opioid intracellular receptor 1,Ki,11.7
-,B,CHEMBL47714,CHEMBL47714,7.92,Sigma non-opioid intracellular receptor 1,Ki,12.0
-,B,CHEMBL60542,CHEMBL60542,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.1
-,B,CHEMBL358541,CHEMBL358541,8.03,Sigma non-opioid intracellular receptor 1,Ki,9.33
-,B,CHEMBL38634,CHEMBL38634,9.21,Sigma non-opioid intracellular receptor 1,Ki,0.62
-,B,CHEMBL54,CHEMBL54,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.2
-,B,CHEMBL47678,CHEMBL47678,7.51,Sigma non-opioid intracellular receptor 1,Ki,31.0
-,B,CHEMBL47715,CHEMBL47715,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
-,B,CHEMBL138809,CHEMBL138809,8.94,Sigma non-opioid intracellular receptor 1,Ki,1.14
-,B,CHEMBL148289,CHEMBL148289,7.80,Sigma non-opioid intracellular receptor 1,Ki,15.9
-,B,CHEMBL44604,CHEMBL44604,7.85,Sigma non-opioid intracellular receptor 1,Ki,14.0
-,B,CHEMBL63508,CHEMBL63508,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
-,B,CHEMBL138533,CHEMBL138533,8.13,Sigma non-opioid intracellular receptor 1,Ki,7.33
-,B,CHEMBL148009,CHEMBL148009,8.05,Sigma non-opioid intracellular receptor 1,Ki,8.95
-,B,CHEMBL417181,CHEMBL417181,7.82,Sigma non-opioid intracellular receptor 1,Ki,15.0
-,B,CHEMBL147316,CHEMBL147316,8.67,Sigma non-opioid intracellular receptor 1,Ki,2.16
-,B,CHEMBL39900,CHEMBL39900,9.30,Sigma non-opioid intracellular receptor 1,Ki,0.5
-,B,CHEMBL38085,CHEMBL38085,7.60,Sigma non-opioid intracellular receptor 1,Ki,25.0
-,B,CHEMBL47279,CHEMBL47279,7.21,Sigma non-opioid intracellular receptor 1,Ki,62.0
-,B,CHEMBL67665,CHEMBL67665,7.58,Sigma non-opioid intracellular receptor 1,IC50,26.0
-,B,CHEMBL282433,CHEMBL282433,7.50,Sigma non-opioid intracellular receptor 1,IC50,32.0
-,B,CHEMBL54,CHEMBL54,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.2
-,B,CHEMBL148054,CHEMBL148054,7.82,Sigma non-opioid intracellular receptor 1,Ki,15.1
-,B,CHEMBL45849,CHEMBL45849,7.68,Sigma non-opioid intracellular receptor 1,Ki,21.0
-,B,CHEMBL342351,CHEMBL342351,7.26,Sigma non-opioid intracellular receptor 1,Ki,55.1
-,B,CHEMBL296504,CHEMBL296504,7.80,Sigma non-opioid intracellular receptor 1,Ki,16.0
-,B,CHEMBL50771,CHEMBL50771,7.82,Sigma non-opioid intracellular receptor 1,Ki,15.0
-,B,CHEMBL41830,CHEMBL41830,8.85,Sigma non-opioid intracellular receptor 1,Ki,1.4
-,B,CHEMBL344186,CHEMBL344186,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.07
-,B,CHEMBL341957,CHEMBL341957,8.18,Sigma non-opioid intracellular receptor 1,Ki,6.59
-,B,CHEMBL139735,CHEMBL139735,8.04,Sigma non-opioid intracellular receptor 1,Ki,9.03
-,B,CHEMBL337796,CHEMBL337796,8.46,Sigma non-opioid intracellular receptor 1,Ki,3.49
-,B,CHEMBL86830,CHEMBL86830,7.49,Sigma non-opioid intracellular receptor 1,Ki,32.5
-,B,CHEMBL344402,CHEMBL344402,7.86,Sigma non-opioid intracellular receptor 1,Ki,13.82
-,B,CHEMBL137041,CHEMBL137041,7.64,Sigma non-opioid intracellular receptor 1,Ki,22.66
-,B,CHEMBL139922,CHEMBL139922,7.28,Sigma non-opioid intracellular receptor 1,Ki,51.94
-,B,CHEMBL313179,CHEMBL313179,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.1
-,B,CHEMBL134856,CHEMBL134856,7.21,Sigma non-opioid intracellular receptor 1,Ki,61.77
-,B,CHEMBL341936,CHEMBL341936,7.96,Sigma non-opioid intracellular receptor 1,Ki,10.9
-,B,CHEMBL336037,CHEMBL336037,8.33,Sigma non-opioid intracellular receptor 1,Ki,4.64
-,B,CHEMBL334568,CHEMBL334568,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.21
-,B,CHEMBL344023,CHEMBL344023,8.20,Sigma non-opioid intracellular receptor 1,Ki,6.3
-,B,CHEMBL136114,CHEMBL136114,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.29
-,B,CHEMBL73234,CHEMBL73234,7.71,Sigma non-opioid intracellular receptor 1,Ki,19.5
-,B,CHEMBL138688,CHEMBL138688,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.93
-,B,CHEMBL343580,CHEMBL343580,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.2
-,B,CHEMBL136451,CHEMBL136451,8.26,Sigma non-opioid intracellular receptor 1,Ki,5.51
-,B,CHEMBL135083,CHEMBL135083,8.50,Sigma non-opioid intracellular receptor 1,Ki,3.15
-,B,CHEMBL136231,CHEMBL136231,7.06,Sigma non-opioid intracellular receptor 1,Ki,87.05
-,B,CHEMBL335953,CHEMBL335953,8.40,Sigma non-opioid intracellular receptor 1,Ki,3.97
-,B,CHEMBL136677,CHEMBL136677,7.62,Sigma non-opioid intracellular receptor 1,Ki,23.88
-,B,CHEMBL54,CHEMBL54,8.60,Sigma non-opioid intracellular receptor 1,Ki,2.53
-,B,CHEMBL138249,CHEMBL138249,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.2
-,B,CHEMBL343137,CHEMBL343137,7.81,Sigma non-opioid intracellular receptor 1,Ki,15.41
-,B,CHEMBL134855,CHEMBL134855,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.21
-,B,CHEMBL316244,CHEMBL316244,7.01,Sigma non-opioid intracellular receptor 1,Ki,97.2
-,B,CHEMBL330021,CHEMBL330021,7.18,Sigma non-opioid intracellular receptor 1,Ki,66.2
-,B,CHEMBL139340,CHEMBL139340,8.94,Sigma non-opioid intracellular receptor 1,Ki,1.15
-,B,CHEMBL87841,CHEMBL87841,7.88,Sigma non-opioid intracellular receptor 1,Ki,13.1
-,B,CHEMBL137675,CHEMBL137675,8.17,Sigma non-opioid intracellular receptor 1,Ki,6.75
-,B,CHEMBL345051,CHEMBL345051,7.99,Sigma non-opioid intracellular receptor 1,Ki,10.16
-,B,CHEMBL1036,CHEMBL1036,7.84,Sigma non-opioid intracellular receptor 1,Ki,14.34
-,B,CHEMBL305881,CHEMBL305881,7.33,Sigma non-opioid intracellular receptor 1,Ki,46.5
-,B,CHEMBL139629,CHEMBL139629,8.09,Sigma non-opioid intracellular receptor 1,Ki,8.22
-,B,CHEMBL343752,CHEMBL343752,8.75,Sigma non-opioid intracellular receptor 1,Ki,1.78
-,B,CHEMBL76895,CHEMBL76895,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.9
-,B,CHEMBL136275,CHEMBL136275,7.50,Sigma non-opioid intracellular receptor 1,Ki,31.25
-,B,CHEMBL84971,CHEMBL84971,7.53,Sigma non-opioid intracellular receptor 1,Ki,29.6
-,B,CHEMBL139156,CHEMBL139156,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.24
-,B,CHEMBL344425,CHEMBL344425,8.65,Sigma non-opioid intracellular receptor 1,Ki,2.25
-,B,CHEMBL138794,CHEMBL138794,8.64,Sigma non-opioid intracellular receptor 1,Ki,2.31
-,B,CHEMBL61946,CHEMBL61946,7.81,Sigma non-opioid intracellular receptor 1,Ki,15.5
-,B,CHEMBL14553,CHEMBL14553,7.20,Sigma non-opioid intracellular receptor 1,Ki,63.0
-,B,CHEMBL276935,CHEMBL276935,7.14,Sigma non-opioid intracellular receptor 1,Ki,72.0
-,B,CHEMBL159967,CHEMBL159967,7.37,Sigma non-opioid intracellular receptor 1,IC50,43.0
-,B,CHEMBL15288,CHEMBL15288,7.27,Sigma non-opioid intracellular receptor 1,Ki,54.0
-,B,CHEMBL274699,CHEMBL274699,9.22,Sigma non-opioid intracellular receptor 1,Ki,0.6
-,B,CHEMBL26320,CHEMBL26320,7.77,Sigma non-opioid intracellular receptor 1,IC50,17.0
-,B,CHEMBL159608,CHEMBL159608,7.10,Sigma non-opioid intracellular receptor 1,IC50,79.0
-,B,CHEMBL159320,CHEMBL159320,7.39,Sigma non-opioid intracellular receptor 1,IC50,41.0
-,B,CHEMBL53649,CHEMBL53649,8.31,Sigma non-opioid intracellular receptor 1,Ki,4.89
-,B,CHEMBL164037,CHEMBL164037,7.23,Sigma non-opioid intracellular receptor 1,IC50,59.0
-,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
-,B,CHEMBL281594,CHEMBL281594,7.37,Sigma non-opioid intracellular receptor 1,IC50,43.0
-,B,CHEMBL159319,CHEMBL159319,7.21,Sigma non-opioid intracellular receptor 1,IC50,62.0
-,B,CHEMBL20377,CHEMBL20377,8.66,Sigma non-opioid intracellular receptor 1,Ki,2.2
-,B,CHEMBL286991,CHEMBL286991,7.29,Sigma non-opioid intracellular receptor 1,IC50,51.0
-,B,CHEMBL163980,CHEMBL163980,7.42,Sigma non-opioid intracellular receptor 1,IC50,38.0
-,B,CHEMBL14876,CHEMBL14876,7.33,Sigma non-opioid intracellular receptor 1,Ki,47.0
-,B,CHEMBL15223,CHEMBL15223,7.14,Sigma non-opioid intracellular receptor 1,Ki,72.0
-,B,CHEMBL607212,CHEMBL607212,7.38,Sigma non-opioid intracellular receptor 1,IC50,42.0
-,B,CHEMBL71049,CHEMBL71049,9.27,Sigma non-opioid intracellular receptor 1,Ki,0.54
-,B,CHEMBL71049,CHEMBL71049,8.91,Sigma non-opioid intracellular receptor 1,Ki,1.23
-,B,CHEMBL117319,CHEMBL117319,7.37,Sigma non-opioid intracellular receptor 1,Ki,43.0
-,B,CHEMBL20377,CHEMBL20377,9.47,Sigma non-opioid intracellular receptor 1,Ki,0.34
-,B,CHEMBL117183,CHEMBL117183,7.35,Sigma non-opioid intracellular receptor 1,Ki,45.0
-,B,CHEMBL60542,CHEMBL60542,8.36,Sigma non-opioid intracellular receptor 1,Ki,4.4
-,B,CHEMBL2303661,CHEMBL2303661,8.70,Sigma non-opioid intracellular receptor 1,IC50,2.0
-,B,CHEMBL114123,CHEMBL114123,7.40,Sigma non-opioid intracellular receptor 1,Ki,40.0
-,B,CHEMBL324392,CHEMBL324392,9.54,Sigma non-opioid intracellular receptor 1,Ki,0.29
-,B,CHEMBL324392,CHEMBL324392,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.5
-,B,CHEMBL607155,CHEMBL607155,8.06,Sigma non-opioid intracellular receptor 1,Ki,8.66
-,B,CHEMBL114358,CHEMBL114358,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
-,B,CHEMBL324505,CHEMBL324505,7.16,Sigma non-opioid intracellular receptor 1,Ki,69.0
-,B,CHEMBL312766,CHEMBL312766,9.07,Sigma non-opioid intracellular receptor 1,Ki,0.86
-,B,CHEMBL312766,CHEMBL312766,9.28,Sigma non-opioid intracellular receptor 1,Ki,0.52
-,B,CHEMBL280063,CHEMBL280063,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
-,B,CHEMBL15601,CHEMBL15601,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
-,B,CHEMBL2303668,CHEMBL2303668,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.0
-,B,CHEMBL115998,CHEMBL115998,8.72,Sigma non-opioid intracellular receptor 1,Ki,1.9
-,B,CHEMBL116643,CHEMBL116643,8.64,Sigma non-opioid intracellular receptor 1,Ki,2.3
-,B,CHEMBL70540,CHEMBL70540,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.24
-,B,CHEMBL70540,CHEMBL70540,9.41,Sigma non-opioid intracellular receptor 1,Ki,0.39
-,B,CHEMBL16123,CHEMBL16123,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
-,B,CHEMBL15456,CHEMBL15456,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
-,B,CHEMBL15941,CHEMBL15941,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
-,B,CHEMBL15941,CHEMBL15941,7.43,Sigma non-opioid intracellular receptor 1,Ki,37.2
-,B,CHEMBL15637,CHEMBL15637,8.05,Sigma non-opioid intracellular receptor 1,Ki,9.0
-,B,CHEMBL2368719,CHEMBL2368719,7.13,Sigma non-opioid intracellular receptor 1,Ki,73.6
-,B,CHEMBL2368719,CHEMBL2368719,7.41,Sigma non-opioid intracellular receptor 1,Ki,38.9
-,B,CHEMBL607333,CHEMBL607333,7.12,Sigma non-opioid intracellular receptor 1,IC50,76.0
-,B,CHEMBL326548,CHEMBL326548,7.50,Sigma non-opioid intracellular receptor 1,Ki,32.0
-,B,CHEMBL607449,CHEMBL607449,7.92,Sigma non-opioid intracellular receptor 1,IC50,12.0
-,B,CHEMBL607449,CHEMBL607449,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.0
-,B,CHEMBL70807,CHEMBL70807,9.51,Sigma non-opioid intracellular receptor 1,Ki,0.31
-,B,CHEMBL607332,CHEMBL607332,7.11,Sigma non-opioid intracellular receptor 1,IC50,77.0
-,B,CHEMBL116738,CHEMBL116738,7.46,Sigma non-opioid intracellular receptor 1,Ki,35.0
-,B,CHEMBL280088,CHEMBL280088,7.00,Sigma non-opioid intracellular receptor 1,Ki,100.0
-,B,CHEMBL606937,CHEMBL606937,7.43,Sigma non-opioid intracellular receptor 1,IC50,37.0
-,B,CHEMBL415985,CHEMBL415985,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
-,B,CHEMBL415985,CHEMBL415985,7.70,Sigma non-opioid intracellular receptor 1,Ki,20.0
-,B,CHEMBL15986,CHEMBL15986,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
-,B,CHEMBL70861,CHEMBL70861,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.22
-,B,CHEMBL70861,CHEMBL70861,8.29,Sigma non-opioid intracellular receptor 1,Ki,5.07
-,B,CHEMBL324392,CHEMBL324392,8.42,Sigma non-opioid intracellular receptor 1,Ki,3.8
-,B,CHEMBL114163,CHEMBL114163,8.55,Sigma non-opioid intracellular receptor 1,Ki,2.8
-,B,CHEMBL117321,CHEMBL117321,7.92,Sigma non-opioid intracellular receptor 1,Ki,12.0
-,B,CHEMBL316988,CHEMBL316988,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
-,B,CHEMBL420557,CHEMBL420557,8.88,Sigma non-opioid intracellular receptor 1,Ki,1.32
-,B,CHEMBL420557,CHEMBL420557,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.19
-,B,CHEMBL606938,CHEMBL606938,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.5
-,B,CHEMBL15955,CHEMBL15955,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
-,B,CHEMBL116354,CHEMBL116354,7.42,Sigma non-opioid intracellular receptor 1,Ki,38.0
-,B,CHEMBL326571,CHEMBL326571,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
-,B,CHEMBL607106,CHEMBL607106,7.05,Sigma non-opioid intracellular receptor 1,Ki,89.5
-,B,CHEMBL15809,CHEMBL15809,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
-,B,CHEMBL106437,CHEMBL106437,8.89,Sigma non-opioid intracellular receptor 1,Ki,1.3
-,B,CHEMBL20377,CHEMBL20377,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
-,B,CHEMBL349288,CHEMBL349288,8.28,Sigma non-opioid intracellular receptor 1,Ki,5.3
-,B,CHEMBL337818,CHEMBL337818,8.76,Sigma non-opioid intracellular receptor 1,Ki,1.75
-,B,CHEMBL342223,CHEMBL342223,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.48
-,B,CHEMBL339281,CHEMBL339281,7.76,Sigma non-opioid intracellular receptor 1,Ki,17.49
-,B,CHEMBL545212,CHEMBL1193750,8.76,Sigma non-opioid intracellular receptor 1,Log IC50,-8.76
-,B,CHEMBL555890,CHEMBL1196092,8.85,Sigma non-opioid intracellular receptor 1,Log IC50,-8.85
-,B,CHEMBL315146,CHEMBL315146,7.68,Sigma non-opioid intracellular receptor 1,Ki,21.0
-,B,CHEMBL340185,CHEMBL340185,8.07,Sigma non-opioid intracellular receptor 1,Ki,8.5
-,B,CHEMBL539260,CHEMBL1189670,8.37,Sigma non-opioid intracellular receptor 1,Log IC50,-8.37
-,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
-,B,CHEMBL87414,CHEMBL87414,7.60,Sigma non-opioid intracellular receptor 1,Ki,25.0
-,B,CHEMBL162522,CHEMBL162522,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.81
-,B,CHEMBL555401,CHEMBL1195822,8.59,Sigma non-opioid intracellular receptor 1,Log IC50,-8.59
-,B,CHEMBL541052,CHEMBL1190519,8.70,Sigma non-opioid intracellular receptor 1,Log IC50,-8.7
-,B,CHEMBL545447,CHEMBL1193956,8.46,Sigma non-opioid intracellular receptor 1,Log IC50,-8.46
-,B,CHEMBL545689,CHEMBL1194164,8.18,Sigma non-opioid intracellular receptor 1,Log IC50,-8.18
-,B,CHEMBL555398,CHEMBL1195820,8.33,Sigma non-opioid intracellular receptor 1,Log IC50,-8.33
-,B,CHEMBL20377,CHEMBL20377,8.68,Sigma non-opioid intracellular receptor 1,Ki,2.1
-,B,CHEMBL422020,CHEMBL422020,8.12,Sigma non-opioid intracellular receptor 1,Ki,7.6
-,B,CHEMBL555581,CHEMBL1195917,8.67,Sigma non-opioid intracellular receptor 1,Log IC50,-8.67
-,B,CHEMBL106437,CHEMBL106437,8.11,Sigma non-opioid intracellular receptor 1,Ki,7.78
-,B,CHEMBL337929,CHEMBL337929,7.02,Sigma non-opioid intracellular receptor 1,Ki,95.69
-,B,CHEMBL134313,CHEMBL134313,8.87,Sigma non-opioid intracellular receptor 1,Ki,1.34
-,B,CHEMBL136981,CHEMBL136981,8.57,Sigma non-opioid intracellular receptor 1,Ki,2.67
-,B,CHEMBL54,CHEMBL54,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.7
-,B,CHEMBL162807,CHEMBL162807,9.24,Sigma non-opioid intracellular receptor 1,Ki,0.58
-,B,CHEMBL137794,CHEMBL137794,8.45,Sigma non-opioid intracellular receptor 1,Ki,3.56
-,B,CHEMBL138123,CHEMBL138123,7.79,Sigma non-opioid intracellular receptor 1,Ki,16.05
-,B,CHEMBL316988,CHEMBL316988,7.73,Sigma non-opioid intracellular receptor 1,Ki,18.68
-,B,CHEMBL545217,CHEMBL1193755,8.40,Sigma non-opioid intracellular receptor 1,Log IC50,-8.4
-,B,CHEMBL339863,CHEMBL339863,7.51,Sigma non-opioid intracellular receptor 1,Ki,30.89
-,B,CHEMBL542390,CHEMBL185841,7.67,Sigma non-opioid intracellular receptor 1,Log IC50,-7.67
-,B,CHEMBL343790,CHEMBL343790,8.36,Sigma non-opioid intracellular receptor 1,Ki,4.34
-,B,CHEMBL340816,CHEMBL340816,7.47,Sigma non-opioid intracellular receptor 1,Ki,34.1
-,B,CHEMBL540274,CHEMBL1190143,9.49,Sigma non-opioid intracellular receptor 1,Log IC50,-9.49
-,B,CHEMBL553561,CHEMBL1194940,8.64,Sigma non-opioid intracellular receptor 1,Log IC50,-8.64
-,B,CHEMBL545687,CHEMBL1194162,7.96,Sigma non-opioid intracellular receptor 1,Log IC50,-7.96
-,B,CHEMBL137348,CHEMBL137348,8.64,Sigma non-opioid intracellular receptor 1,Ki,2.3
-,B,CHEMBL554388,CHEMBL1195353,8.15,Sigma non-opioid intracellular receptor 1,Log IC50,-8.15
-,B,CHEMBL544282,CHEMBL1192959,8.20,Sigma non-opioid intracellular receptor 1,Log IC50,-8.2
-,B,CHEMBL544280,CHEMBL1192957,7.01,Sigma non-opioid intracellular receptor 1,Log IC50,-7.01
-,B,CHEMBL544747,CHEMBL1193356,8.06,Sigma non-opioid intracellular receptor 1,Log IC50,-8.06
-,B,CHEMBL341139,CHEMBL341139,8.74,Sigma non-opioid intracellular receptor 1,Ki,1.8
-,B,CHEMBL162422,CHEMBL162422,8.85,Sigma non-opioid intracellular receptor 1,Ki,1.4
-,B,CHEMBL544987,CHEMBL1193560,8.66,Sigma non-opioid intracellular receptor 1,Log IC50,-8.66
-,B,CHEMBL282433,CHEMBL282433,7.56,Sigma non-opioid intracellular receptor 1,Ki,27.7
-,B,CHEMBL20730,CHEMBL20730,7.58,Sigma non-opioid intracellular receptor 1,Ki,26.0
-,B,CHEMBL543101,CHEMBL1191933,8.34,Sigma non-opioid intracellular receptor 1,Log IC50,-8.34
-,B,CHEMBL544281,CHEMBL1192958,8.93,Sigma non-opioid intracellular receptor 1,Log IC50,-8.93
-,B,CHEMBL541299,CHEMBL188713,8.12,Sigma non-opioid intracellular receptor 1,Log IC50,-8.12
-,B,CHEMBL545688,CHEMBL1194163,8.73,Sigma non-opioid intracellular receptor 1,Log IC50,-8.73
-,B,CHEMBL543810,CHEMBL1192557,8.61,Sigma non-opioid intracellular receptor 1,Log IC50,-8.61
-,B,CHEMBL553265,CHEMBL1194757,9.60,Sigma non-opioid intracellular receptor 1,Log IC50,-9.6
-,B,CHEMBL554988,CHEMBL186350,7.78,Sigma non-opioid intracellular receptor 1,Log IC50,-7.78
-,B,CHEMBL544748,CHEMBL1193357,8.69,Sigma non-opioid intracellular receptor 1,Log IC50,-8.69
-,B,CHEMBL542387,CHEMBL1191310,7.09,Sigma non-opioid intracellular receptor 1,Log IC50,-7.09
-,B,CHEMBL342942,CHEMBL342942,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.69
-,B,CHEMBL165848,CHEMBL165848,9.41,Sigma non-opioid intracellular receptor 1,Ki,0.39
-,B,CHEMBL126742,CHEMBL126742,7.39,Sigma non-opioid intracellular receptor 1,Ki,40.4
-,B,CHEMBL163876,CHEMBL163876,9.33,Sigma non-opioid intracellular receptor 1,Ki,0.47
-,B,CHEMBL164124,CHEMBL164124,9.34,Sigma non-opioid intracellular receptor 1,Ki,0.46
-,B,CHEMBL545682,CHEMBL1194157,8.74,Sigma non-opioid intracellular receptor 1,Log IC50,-8.74
-,B,CHEMBL542140,CHEMBL1191092,7.78,Sigma non-opioid intracellular receptor 1,Log IC50,-7.78
-,B,CHEMBL2093874,CHEMBL2109983,8.51,Sigma non-opioid intracellular receptor 1,Log IC50,-8.51
-,B,CHEMBL20377,CHEMBL20377,8.68,Sigma non-opioid intracellular receptor 1,Ki,2.1
-,B,CHEMBL543632,CHEMBL1192403,7.54,Sigma non-opioid intracellular receptor 1,Ki,28.7
-,B,CHEMBL54,CHEMBL54,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.7
-,B,CHEMBL282433,CHEMBL282433,7.56,Sigma non-opioid intracellular receptor 1,Ki,27.7
-,B,CHEMBL107870,CHEMBL107870,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
-,B,CHEMBL46596,CHEMBL46596,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.2
-,B,CHEMBL321702,CHEMBL321702,7.39,Sigma non-opioid intracellular receptor 1,Ki,40.7
-,B,CHEMBL47251,CHEMBL47251,7.89,Sigma non-opioid intracellular receptor 1,Ki,13.0
-,B,CHEMBL274585,CHEMBL274585,9.17,Sigma non-opioid intracellular receptor 1,Ki,0.67
-,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
-,B,CHEMBL46463,CHEMBL46463,8.00,Sigma non-opioid intracellular receptor 1,Ki,10.0
-,B,CHEMBL107485,CHEMBL107485,7.27,Sigma non-opioid intracellular receptor 1,Ki,54.0
-,B,CHEMBL109026,CHEMBL109026,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.49
-,B,CHEMBL324620,CHEMBL324620,7.86,Sigma non-opioid intracellular receptor 1,Ki,13.8
-,B,CHEMBL323476,CHEMBL323476,7.11,Sigma non-opioid intracellular receptor 1,Ki,77.5
-,B,CHEMBL111331,CHEMBL111331,7.52,Sigma non-opioid intracellular receptor 1,Ki,29.9
-,B,CHEMBL308980,CHEMBL308980,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
-,B,CHEMBL80656,CHEMBL80656,7.57,Sigma non-opioid intracellular receptor 1,Ki,27.0
-,B,CHEMBL542786,CHEMBL1191655,7.47,Sigma non-opioid intracellular receptor 1,IC50,34.0
-,B,CHEMBL341003,CHEMBL341003,8.02,Sigma non-opioid intracellular receptor 1,IC50,9.5
-,B,CHEMBL1744017,CHEMBL63010,8.69,Sigma non-opioid intracellular receptor 1,Log IC50,-8.69
-,B,CHEMBL77286,CHEMBL77286,8.28,Sigma non-opioid intracellular receptor 1,Ki,5.22
-,B,CHEMBL308098,CHEMBL308098,8.70,Sigma non-opioid intracellular receptor 1,Ki,2.0
-,B,CHEMBL101300,CHEMBL101300,7.71,Sigma non-opioid intracellular receptor 1,Ki,19.6
-,B,CHEMBL77352,CHEMBL77352,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.28
-,B,CHEMBL431775,CHEMBL431775,8.54,Sigma non-opioid intracellular receptor 1,Ki,2.89
-,B,CHEMBL54,CHEMBL54,8.60,Sigma non-opioid intracellular receptor 1,Ki,2.53
-,B,CHEMBL128799,CHEMBL128799,8.35,Sigma non-opioid intracellular receptor 1,IC50,4.5
-,B,CHEMBL553962,CHEMBL1195151,8.82,Sigma non-opioid intracellular receptor 1,IC50,1.5
-,B,CHEMBL308185,CHEMBL308185,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
-,B,CHEMBL64511,CHEMBL64511,7.95,Sigma non-opioid intracellular receptor 1,Log IC50,-7.95
-,B,CHEMBL1744014,CHEMBL63215,8.56,Sigma non-opioid intracellular receptor 1,Log IC50,-8.56
-,B,CHEMBL306768,CHEMBL306768,8.61,Sigma non-opioid intracellular receptor 1,Ki,2.45
-,B,CHEMBL1743991,CHEMBL291879,8.26,Sigma non-opioid intracellular receptor 1,Log IC50,-8.26
-,B,CHEMBL77289,CHEMBL77289,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.21
-,B,CHEMBL545760,CHEMBL1194228,8.00,Sigma non-opioid intracellular receptor 1,IC50,10.0
-,B,CHEMBL128717,CHEMBL128717,8.24,Sigma non-opioid intracellular receptor 1,IC50,5.7
-,B,CHEMBL310499,CHEMBL310499,8.46,Sigma non-opioid intracellular receptor 1,Ki,3.43
-,B,CHEMBL74665,CHEMBL74665,7.85,Sigma non-opioid intracellular receptor 1,Ki,14.2
-,B,CHEMBL101300,CHEMBL101300,8.42,Sigma non-opioid intracellular receptor 1,Ki,3.81
-,B,CHEMBL128860,CHEMBL128860,8.68,Sigma non-opioid intracellular receptor 1,IC50,2.1
-,B,CHEMBL1788383,CHEMBL292477,9.14,Sigma non-opioid intracellular receptor 1,Log IC50,-9.14
-,B,CHEMBL308304,CHEMBL308304,7.18,Sigma non-opioid intracellular receptor 1,Ki,66.4
-,B,CHEMBL77120,CHEMBL77120,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.1
-,B,CHEMBL317354,CHEMBL317354,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.4
-,B,CHEMBL542470,CHEMBL1191381,7.52,Sigma non-opioid intracellular receptor 1,IC50,30.0
-,B,CHEMBL1744001,CHEMBL63322,8.54,Sigma non-opioid intracellular receptor 1,Log IC50,-8.54
-,B,CHEMBL312254,CHEMBL312254,8.12,Sigma non-opioid intracellular receptor 1,Ki,7.63
-,B,CHEMBL274099,CHEMBL274099,7.22,Sigma non-opioid intracellular receptor 1,Ki,59.7
-,B,CHEMBL101607,CHEMBL101607,7.74,Sigma non-opioid intracellular receptor 1,Ki,18.4
-,B,CHEMBL1743997,CHEMBL64556,7.74,Sigma non-opioid intracellular receptor 1,Log IC50,-7.74
-,B,CHEMBL1744010,CHEMBL62404,8.32,Sigma non-opioid intracellular receptor 1,Log IC50,-8.32
-,B,CHEMBL308818,CHEMBL308818,8.50,Sigma non-opioid intracellular receptor 1,Ki,3.17
-,B,CHEMBL77204,CHEMBL77204,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
-,B,CHEMBL75678,CHEMBL75678,9.00,Sigma non-opioid intracellular receptor 1,Ki,1.0
-,B,CHEMBL103157,CHEMBL103157,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.5
-,B,CHEMBL1743995,CHEMBL418132,8.17,Sigma non-opioid intracellular receptor 1,Log IC50,-8.17
-,B,CHEMBL76564,CHEMBL76564,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.08
-,B,CHEMBL413057,CHEMBL413057,8.19,Sigma non-opioid intracellular receptor 1,Ki,6.46
-,B,CHEMBL80397,CHEMBL80397,8.13,Sigma non-opioid intracellular receptor 1,Ki,7.32
-,B,CHEMBL311451,CHEMBL311451,7.49,Sigma non-opioid intracellular receptor 1,Ki,32.1
-,B,CHEMBL127720,CHEMBL127720,7.92,Sigma non-opioid intracellular receptor 1,IC50,12.0
-,B,CHEMBL1743994,CHEMBL64840,8.20,Sigma non-opioid intracellular receptor 1,Log IC50,-8.2
-,B,CHEMBL1744013,CHEMBL64470,7.16,Sigma non-opioid intracellular receptor 1,Log IC50,-7.16
-,B,CHEMBL80968,CHEMBL80968,7.92,Sigma non-opioid intracellular receptor 1,Ki,12.0
-,B,CHEMBL330601,CHEMBL330601,8.80,Sigma non-opioid intracellular receptor 1,Ki,1.57
-,B,CHEMBL103156,CHEMBL103156,8.33,Sigma non-opioid intracellular receptor 1,Ki,4.68
-,B,CHEMBL1744004,CHEMBL61005,7.79,Sigma non-opioid intracellular receptor 1,Log IC50,-7.79
-,B,CHEMBL1256916,CHEMBL303336,8.42,Sigma non-opioid intracellular receptor 1,Log IC50,-8.42
-,B,CHEMBL77206,CHEMBL77206,8.30,Sigma non-opioid intracellular receptor 1,Ki,5.0
-,B,CHEMBL318877,CHEMBL318877,9.17,Sigma non-opioid intracellular receptor 1,Ki,0.67
-,B,CHEMBL103157,CHEMBL103157,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.48
-,B,CHEMBL127899,CHEMBL127899,8.10,Sigma non-opioid intracellular receptor 1,IC50,8.0
-,B,CHEMBL540331,CHEMBL1190190,8.74,Sigma non-opioid intracellular receptor 1,IC50,1.8
-,B,CHEMBL76802,CHEMBL76802,7.19,Sigma non-opioid intracellular receptor 1,Ki,63.9
-,B,CHEMBL307444,CHEMBL307444,7.05,Sigma non-opioid intracellular receptor 1,Ki,90.0
-,B,CHEMBL1788382,CHEMBL418310,8.93,Sigma non-opioid intracellular receptor 1,Log IC50,-8.93
-,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
-,B,CHEMBL1744008,CHEMBL63110,7.99,Sigma non-opioid intracellular receptor 1,Log IC50,-7.99
-,B,CHEMBL1744011,CHEMBL423664,8.17,Sigma non-opioid intracellular receptor 1,Log IC50,-8.17
-,B,CHEMBL312631,CHEMBL312631,7.51,Sigma non-opioid intracellular receptor 1,Ki,30.8
-,B,CHEMBL76864,CHEMBL76864,8.85,Sigma non-opioid intracellular receptor 1,Ki,1.4
-,B,CHEMBL1036,CHEMBL1036,7.84,Sigma non-opioid intracellular receptor 1,Ki,14.34
-,B,CHEMBL76475,CHEMBL76475,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
-,B,CHEMBL430444,CHEMBL430444,7.55,Sigma non-opioid intracellular receptor 1,Ki,28.0
-,B,CHEMBL76927,CHEMBL76927,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
-,B,CHEMBL1743998,CHEMBL64607,8.26,Sigma non-opioid intracellular receptor 1,Log IC50,-8.26
-,B,CHEMBL1744015,CHEMBL62126,8.82,Sigma non-opioid intracellular receptor 1,Log IC50,-8.82
-,B,CHEMBL305728,CHEMBL305728,7.57,Sigma non-opioid intracellular receptor 1,Ki,26.9
-,B,CHEMBL276078,CHEMBL276078,7.40,Sigma non-opioid intracellular receptor 1,Ki,40.1
-,B,CHEMBL1788381,CHEMBL62540,8.92,Sigma non-opioid intracellular receptor 1,Log IC50,-8.92
-,B,CHEMBL103319,CHEMBL103319,7.95,Sigma non-opioid intracellular receptor 1,Ki,11.3
-,B,CHEMBL421446,CHEMBL421446,7.89,Sigma non-opioid intracellular receptor 1,IC50,13.0
-,B,CHEMBL1743996,CHEMBL444267,8.18,Sigma non-opioid intracellular receptor 1,Log IC50,-8.18
-,B,CHEMBL1743992,CHEMBL64346,7.85,Sigma non-opioid intracellular receptor 1,Log IC50,-7.85
-,B,CHEMBL311622,CHEMBL311622,8.34,Sigma non-opioid intracellular receptor 1,Ki,4.56
-,B,CHEMBL560,CHEMBL560,7.08,Sigma non-opioid intracellular receptor 1,Ki,83.1
-,B,CHEMBL339638,CHEMBL339638,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
-,B,CHEMBL340587,CHEMBL340587,7.54,Sigma non-opioid intracellular receptor 1,IC50,29.0
-,B,CHEMBL1744002,CHEMBL302197,8.78,Sigma non-opioid intracellular receptor 1,Log IC50,-8.78
-,B,CHEMBL1743993,CHEMBL63162,8.02,Sigma non-opioid intracellular receptor 1,Log IC50,-8.02
-,B,CHEMBL1744016,CHEMBL292259,8.46,Sigma non-opioid intracellular receptor 1,Log IC50,-8.46
-,B,CHEMBL306955,CHEMBL306955,8.06,Sigma non-opioid intracellular receptor 1,Ki,8.7
-,B,CHEMBL80326,CHEMBL80326,7.10,Sigma non-opioid intracellular receptor 1,Ki,80.0
-,B,CHEMBL311508,CHEMBL311508,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
-,B,CHEMBL318877,CHEMBL318877,7.44,Sigma non-opioid intracellular receptor 1,Ki,36.5
-,B,CHEMBL62770,CHEMBL62770,8.98,Sigma non-opioid intracellular receptor 1,Log IC50,-8.98
-,B,CHEMBL1744003,CHEMBL439751,8.85,Sigma non-opioid intracellular receptor 1,Log IC50,-8.85
-,B,CHEMBL1743999,CHEMBL60137,8.87,Sigma non-opioid intracellular receptor 1,Log IC50,-8.87
-,B,CHEMBL76806,CHEMBL76806,8.45,Sigma non-opioid intracellular receptor 1,Ki,3.56
-,B,CHEMBL75816,CHEMBL75816,7.57,Sigma non-opioid intracellular receptor 1,Ki,27.1
-,B,CHEMBL101607,CHEMBL101607,7.23,Sigma non-opioid intracellular receptor 1,Ki,58.6
-,B,CHEMBL419343,CHEMBL419343,8.25,Sigma non-opioid intracellular receptor 1,Ki,5.68
-,B,CHEMBL77285,CHEMBL77285,8.40,Sigma non-opioid intracellular receptor 1,Ki,3.97
-,B,CHEMBL78059,CHEMBL78059,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.8
-,B,CHEMBL75810,CHEMBL75810,7.62,Sigma non-opioid intracellular receptor 1,Ki,23.8
-,B,CHEMBL78067,CHEMBL78067,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
-,B,CHEMBL102406,CHEMBL102406,8.83,Sigma non-opioid intracellular receptor 1,Ki,1.47
-,B,CHEMBL521582,CHEMBL190883,8.89,Sigma non-opioid intracellular receptor 1,IC50,1.3
-,B,CHEMBL521582,CHEMBL190883,7.07,Sigma non-opioid intracellular receptor 1,IC50,85.0
-,B,CHEMBL1744000,CHEMBL61938,8.64,Sigma non-opioid intracellular receptor 1,Log IC50,-8.64
-,B,CHEMBL262760,CHEMBL262760,8.02,Sigma non-opioid intracellular receptor 1,Ki,9.66
-,B,CHEMBL77405,CHEMBL77405,9.06,Sigma non-opioid intracellular receptor 1,Ki,0.87
-,B,CHEMBL77773,CHEMBL77773,8.01,Sigma non-opioid intracellular receptor 1,Ki,9.84
-,B,CHEMBL330601,CHEMBL330601,7.58,Sigma non-opioid intracellular receptor 1,Ki,26.4
-,B,CHEMBL103816,CHEMBL103816,8.76,Sigma non-opioid intracellular receptor 1,Ki,1.75
-,B,CHEMBL1744009,CHEMBL62408,8.30,Sigma non-opioid intracellular receptor 1,Log IC50,-8.3
-,B,CHEMBL1744006,CHEMBL61338,8.23,Sigma non-opioid intracellular receptor 1,Log IC50,-8.23
-,B,CHEMBL104042,CHEMBL104042,7.68,Sigma non-opioid intracellular receptor 1,Ki,21.0
-,B,CHEMBL1744005,CHEMBL61337,8.50,Sigma non-opioid intracellular receptor 1,Log IC50,-8.5
-,B,CHEMBL76895,CHEMBL76895,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.9
-,B,CHEMBL318823,CHEMBL318823,7.08,Sigma non-opioid intracellular receptor 1,Ki,82.5
-,B,CHEMBL99854,CHEMBL99854,7.73,Sigma non-opioid intracellular receptor 1,Ki,18.5
-,B,CHEMBL1744012,CHEMBL62116,7.13,Sigma non-opioid intracellular receptor 1,Log IC50,-7.13
-,B,CHEMBL77953,CHEMBL77953,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.92
-,B,CHEMBL307253,CHEMBL307253,7.75,Sigma non-opioid intracellular receptor 1,Ki,18.0
-,B,CHEMBL1744007,CHEMBL62407,8.17,Sigma non-opioid intracellular receptor 1,Log IC50,-8.17
-,B,CHEMBL311579,CHEMBL311579,7.73,Sigma non-opioid intracellular receptor 1,Ki,18.8
-,B,CHEMBL312692,CHEMBL312692,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.5
-,B,CHEMBL308097,CHEMBL308097,7.36,Sigma non-opioid intracellular receptor 1,Ki,43.4
-,B,CHEMBL76849,CHEMBL76849,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
-,B,CHEMBL309015,CHEMBL309015,8.10,Sigma non-opioid intracellular receptor 1,Ki,8.0
-,B,CHEMBL75860,CHEMBL75860,7.66,Sigma non-opioid intracellular receptor 1,Ki,22.0
-,B,CHEMBL276078,CHEMBL276078,8.14,Sigma non-opioid intracellular receptor 1,Ki,7.16
-,B,CHEMBL76547,CHEMBL76547,8.41,Sigma non-opioid intracellular receptor 1,Ki,3.87
-,B,CHEMBL110319,CHEMBL110319,8.03,Sigma non-opioid intracellular receptor 1,Ki,9.4
-,B,CHEMBL50465,CHEMBL50465,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.2
-,B,CHEMBL141381,CHEMBL141381,7.74,Sigma non-opioid intracellular receptor 1,Ki,18.4
-,B,CHEMBL145296,CHEMBL145296,8.10,Sigma non-opioid intracellular receptor 1,Ki,7.9
-,B,CHEMBL54026,CHEMBL54026,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.2
-,B,CHEMBL322468,CHEMBL322468,7.18,Sigma non-opioid intracellular receptor 1,Ki,65.3
-,B,CHEMBL143800,CHEMBL143800,8.72,Sigma non-opioid intracellular receptor 1,Ki,1.91
-,B,CHEMBL53078,CHEMBL53078,8.96,Sigma non-opioid intracellular receptor 1,Ki,1.1
-,B,CHEMBL54865,CHEMBL54865,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.8
-,B,CHEMBL52835,CHEMBL52835,7.24,Sigma non-opioid intracellular receptor 1,Ki,57.0
-,B,CHEMBL146659,CHEMBL146659,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
-,B,CHEMBL52300,CHEMBL52300,7.23,Sigma non-opioid intracellular receptor 1,Ki,59.0
-,B,CHEMBL54667,CHEMBL54667,8.32,Sigma non-opioid intracellular receptor 1,Ki,4.8
-,B,CHEMBL298864,CHEMBL298864,7.02,Sigma non-opioid intracellular receptor 1,Ki,96.0
-,B,CHEMBL146659,CHEMBL146659,7.29,Sigma non-opioid intracellular receptor 1,Ki,51.3
-,B,CHEMBL54571,CHEMBL54571,8.60,Sigma non-opioid intracellular receptor 1,Ki,2.5
-,B,CHEMBL146659,CHEMBL146659,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.3
-,B,CHEMBL298759,CHEMBL298759,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
-,B,CHEMBL53778,CHEMBL53778,8.44,Sigma non-opioid intracellular receptor 1,Ki,3.6
-,B,CHEMBL322468,CHEMBL322468,8.49,Sigma non-opioid intracellular receptor 1,Ki,3.2
-,B,CHEMBL110319,CHEMBL110319,7.63,Sigma non-opioid intracellular receptor 1,Ki,23.3
-,B,CHEMBL356639,CHEMBL356639,8.79,Sigma non-opioid intracellular receptor 1,Ki,1.62
-,B,CHEMBL358527,CHEMBL358527,7.21,Sigma non-opioid intracellular receptor 1,Ki,62.3
-,B,CHEMBL51959,CHEMBL51959,8.25,Sigma non-opioid intracellular receptor 1,Ki,5.6
-,B,CHEMBL53401,CHEMBL53401,8.72,Sigma non-opioid intracellular receptor 1,Ki,1.9
-,B,CHEMBL54,CHEMBL54,8.82,Sigma non-opioid intracellular receptor 1,Ki,1.5
-,B,CHEMBL53650,CHEMBL53650,7.25,Sigma non-opioid intracellular receptor 1,Ki,56.0
-,B,CHEMBL53218,CHEMBL53218,7.63,Sigma non-opioid intracellular receptor 1,Ki,23.4
-,B,CHEMBL52588,CHEMBL52588,7.13,Sigma non-opioid intracellular receptor 1,Ki,74.0
-,B,CHEMBL51856,CHEMBL51856,8.96,Sigma non-opioid intracellular receptor 1,Ki,1.1
-,B,CHEMBL110319,CHEMBL110319,8.89,Sigma non-opioid intracellular receptor 1,Ki,1.3
-,B,CHEMBL141381,CHEMBL141381,7.42,Sigma non-opioid intracellular receptor 1,Ki,38.1
-,B,CHEMBL298875,CHEMBL298875,8.23,Sigma non-opioid intracellular receptor 1,Ki,5.9
-,B,CHEMBL301302,CHEMBL301302,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.2
-,B,CHEMBL322468,CHEMBL322468,7.50,Sigma non-opioid intracellular receptor 1,Ki,32.0
-,B,CHEMBL54092,CHEMBL54092,8.92,Sigma non-opioid intracellular receptor 1,Ki,1.2
-,B,CHEMBL54662,CHEMBL54662,7.78,Sigma non-opioid intracellular receptor 1,Ki,16.7
-,B,CHEMBL50517,CHEMBL50517,7.32,Sigma non-opioid intracellular receptor 1,Ki,48.0
-,B,CHEMBL53070,CHEMBL53070,7.85,Sigma non-opioid intracellular receptor 1,Ki,14.0
-,B,CHEMBL143800,CHEMBL143800,8.11,Sigma non-opioid intracellular receptor 1,Ki,7.8
-,B,CHEMBL145422,CHEMBL145422,8.77,Sigma non-opioid intracellular receptor 1,Ki,1.71
-,B,CHEMBL542123,CHEMBL1191079,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
-,B,CHEMBL143800,CHEMBL143800,7.74,Sigma non-opioid intracellular receptor 1,Ki,18.4
-,B,CHEMBL423122,CHEMBL423122,7.16,Sigma non-opioid intracellular receptor 1,Ki,69.0
-,B,CHEMBL301732,CHEMBL301732,7.90,Sigma non-opioid intracellular receptor 1,Ki,12.7
-,B,CHEMBL542368,CHEMBL1191292,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
-,B,CHEMBL52298,CHEMBL52298,7.55,Sigma non-opioid intracellular receptor 1,Ki,28.0
-,B,CHEMBL54027,CHEMBL54027,9.15,Sigma non-opioid intracellular receptor 1,Ki,0.7
-,B,CHEMBL540283,CHEMBL51146,7.43,Sigma non-opioid intracellular receptor 1,Ki,37.0
-,B,CHEMBL416481,CHEMBL416481,7.51,Sigma non-opioid intracellular receptor 1,Ki,31.0
-,B,CHEMBL53038,CHEMBL53038,7.68,Sigma non-opioid intracellular receptor 1,Ki,20.7
-,B,CHEMBL145296,CHEMBL145296,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
-,B,CHEMBL53320,CHEMBL53320,8.77,Sigma non-opioid intracellular receptor 1,Ki,1.7
-,B,CHEMBL51754,CHEMBL51754,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.2
-,B,CHEMBL145780,CHEMBL145780,7.78,Sigma non-opioid intracellular receptor 1,Ki,16.6
-,B,CHEMBL145296,CHEMBL145296,8.24,Sigma non-opioid intracellular receptor 1,Ki,5.8
-,B,CHEMBL160817,CHEMBL160817,7.21,Sigma non-opioid intracellular receptor 1,Ki,61.0
-,B,CHEMBL95857,CHEMBL95857,7.67,Sigma non-opioid intracellular receptor 1,Ki,21.4
-,B,CHEMBL50880,CHEMBL50880,7.04,Sigma non-opioid intracellular receptor 1,Ki,92.0
-,B,CHEMBL20730,CHEMBL20730,7.58,Sigma non-opioid intracellular receptor 1,Ki,26.0
-,B,CHEMBL50029,CHEMBL50029,7.18,Sigma non-opioid intracellular receptor 1,Ki,66.0
-,B,CHEMBL96777,CHEMBL96777,8.56,Sigma non-opioid intracellular receptor 1,Ki,2.72
-,B,CHEMBL53325,CHEMBL53325,8.28,Sigma non-opioid intracellular receptor 1,Ki,5.3
-,B,CHEMBL112574,CHEMBL112574,8.55,Sigma non-opioid intracellular receptor 1,Ki,2.8
-,B,CHEMBL2111684,CHEMBL2111684,8.03,Sigma non-opioid intracellular receptor 1,Ki,9.4
-,B,CHEMBL114477,CHEMBL114477,8.27,Sigma non-opioid intracellular receptor 1,Ki,5.4
-,B,CHEMBL54020,CHEMBL54020,8.15,Sigma non-opioid intracellular receptor 1,Ki,7.0
-,B,CHEMBL325262,CHEMBL325262,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.2
-,B,CHEMBL97302,CHEMBL97302,8.67,Sigma non-opioid intracellular receptor 1,Ki,2.13
-,B,CHEMBL85879,CHEMBL85879,8.59,Sigma non-opioid intracellular receptor 1,Ki,2.6
-,B,CHEMBL94801,CHEMBL94801,9.35,Sigma non-opioid intracellular receptor 1,Ki,0.45
-,B,CHEMBL94844,CHEMBL94844,7.35,Sigma non-opioid intracellular receptor 1,Ki,44.5
-,B,CHEMBL325238,CHEMBL325238,9.10,Sigma non-opioid intracellular receptor 1,Ki,0.8
-,B,CHEMBL110319,CHEMBL110319,7.63,Sigma non-opioid intracellular receptor 1,Ki,23.3
-,B,CHEMBL420302,CHEMBL420302,8.39,Sigma non-opioid intracellular receptor 1,Ki,4.1
-,B,CHEMBL541347,CHEMBL1190672,8.16,Sigma non-opioid intracellular receptor 1,Ki,6.9
-,B,CHEMBL50239,CHEMBL50239,7.33,Sigma non-opioid intracellular receptor 1,Ki,46.5
-,B,CHEMBL113621,CHEMBL113621,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.5
-,B,CHEMBL94950,CHEMBL94950,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.07
-,B,CHEMBL300408,CHEMBL300408,7.36,Sigma non-opioid intracellular receptor 1,Ki,43.8
-,B,CHEMBL53938,CHEMBL53938,7.54,Sigma non-opioid intracellular receptor 1,Ki,29.0
-,B,CHEMBL115508,CHEMBL115508,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
-,B,CHEMBL282433,CHEMBL282433,7.43,Sigma non-opioid intracellular receptor 1,Ki,37.3
-,B,CHEMBL112125,CHEMBL112125,8.54,Sigma non-opioid intracellular receptor 1,Ki,2.9
-,B,CHEMBL113293,CHEMBL113293,8.12,Sigma non-opioid intracellular receptor 1,Ki,7.5
-,B,CHEMBL112037,CHEMBL112037,8.40,Sigma non-opioid intracellular receptor 1,Ki,4.0
-,B,CHEMBL97285,CHEMBL97285,8.23,Sigma non-opioid intracellular receptor 1,Ki,5.86
-,B,CHEMBL2111685,CHEMBL2111685,7.50,Sigma non-opioid intracellular receptor 1,Ki,32.0
-,B,CHEMBL421195,CHEMBL421195,8.76,Sigma non-opioid intracellular receptor 1,Ki,1.75
-,B,CHEMBL93442,CHEMBL93442,8.98,Sigma non-opioid intracellular receptor 1,Ki,1.04
-,B,CHEMBL54,CHEMBL54,7.98,Sigma non-opioid intracellular receptor 1,Ki,10.4
-,B,CHEMBL112474,CHEMBL112474,9.05,Sigma non-opioid intracellular receptor 1,Ki,0.9
-,B,CHEMBL538057,CHEMBL1189111,7.10,Sigma non-opioid intracellular receptor 1,Ki,78.7
-,B,CHEMBL322468,CHEMBL322468,7.18,Sigma non-opioid intracellular receptor 1,Ki,65.3
-,B,CHEMBL112124,CHEMBL112124,8.96,Sigma non-opioid intracellular receptor 1,Ki,1.1
-,B,CHEMBL660,CHEMBL660,7.69,Sigma non-opioid intracellular receptor 1,Ki,20.25
-,B,CHEMBL539310,CHEMBL1189714,7.24,Sigma non-opioid intracellular receptor 1,Ki,58.2
-,B,CHEMBL552794,CHEMBL1194508,7.46,Sigma non-opioid intracellular receptor 1,Ki,34.5
-,B,CHEMBL96524,CHEMBL96524,7.99,Sigma non-opioid intracellular receptor 1,Ki,10.3
-,B,CHEMBL54,CHEMBL54,8.38,Sigma non-opioid intracellular receptor 1,Ki,4.2
-,B,CHEMBL111896,CHEMBL111896,8.17,Sigma non-opioid intracellular receptor 1,Ki,6.7
-,B,CHEMBL538300,CHEMBL1189234,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.1
-,B,CHEMBL114510,CHEMBL114510,7.13,Sigma non-opioid intracellular receptor 1,Ki,74.0
-,B,CHEMBL542481,CHEMBL1191390,7.74,Sigma non-opioid intracellular receptor 1,IC50,18.2
-,B,CHEMBL543673,CHEMBL1192438,7.54,Sigma non-opioid intracellular receptor 1,IC50,28.5
-,B,CHEMBL541860,CHEMBL1190923,7.69,Sigma non-opioid intracellular receptor 1,IC50,20.6
-,B,CHEMBL542736,CHEMBL1191614,7.76,Sigma non-opioid intracellular receptor 1,IC50,17.3
-,B,CHEMBL543432,CHEMBL1192227,7.70,Sigma non-opioid intracellular receptor 1,IC50,20.0
-,B,CHEMBL542964,CHEMBL1191815,7.37,Sigma non-opioid intracellular receptor 1,IC50,42.8
-,B,CHEMBL543431,CHEMBL1192226,7.50,Sigma non-opioid intracellular receptor 1,IC50,31.8
-,B,CHEMBL542487,CHEMBL1191395,8.35,Sigma non-opioid intracellular receptor 1,IC50,4.5
-,B,CHEMBL543427,CHEMBL1192223,7.80,Sigma non-opioid intracellular receptor 1,IC50,15.8
-,B,CHEMBL554618,CHEMBL1195456,7.14,Sigma non-opioid intracellular receptor 1,IC50,71.8
-,B,CHEMBL544842,CHEMBL1193436,7.99,Sigma non-opioid intracellular receptor 1,IC50,10.3
-,B,CHEMBL83448,CHEMBL83448,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.11
-,B,CHEMBL82081,CHEMBL82081,7.38,Sigma non-opioid intracellular receptor 1,Ki,41.8
-,B,CHEMBL545544,CHEMBL1194042,7.34,Sigma non-opioid intracellular receptor 1,IC50,45.3
-,B,CHEMBL543434,CHEMBL91628,7.09,Sigma non-opioid intracellular receptor 1,IC50,82.0
-,B,CHEMBL542491,CHEMBL1191399,7.88,Sigma non-opioid intracellular receptor 1,IC50,13.3
-,B,CHEMBL539299,CHEMBL1189705,7.44,Sigma non-opioid intracellular receptor 1,IC50,36.5
-,B,CHEMBL79840,CHEMBL79840,8.84,Sigma non-opioid intracellular receptor 1,Ki,1.46
-,B,CHEMBL543201,CHEMBL78777,7.52,Sigma non-opioid intracellular receptor 1,IC50,30.1
-,B,CHEMBL553034,CHEMBL1194636,8.24,Sigma non-opioid intracellular receptor 1,IC50,5.7
-,B,CHEMBL81451,CHEMBL81451,8.30,Sigma non-opioid intracellular receptor 1,Ki,4.97
-,B,CHEMBL542730,CHEMBL1191609,7.51,Sigma non-opioid intracellular receptor 1,IC50,30.7
-,B,CHEMBL81389,CHEMBL81389,8.00,Sigma non-opioid intracellular receptor 1,Ki,10.1
-,B,CHEMBL81360,CHEMBL81360,8.18,Sigma non-opioid intracellular receptor 1,Ki,6.65
-,B,CHEMBL309983,CHEMBL309983,9.74,Sigma non-opioid intracellular receptor 1,Ki,0.18
-,B,CHEMBL539549,CHEMBL1189827,7.34,Sigma non-opioid intracellular receptor 1,IC50,45.7
-,B,CHEMBL545310,CHEMBL1193840,7.80,Sigma non-opioid intracellular receptor 1,IC50,15.9
-,B,CHEMBL553312,CHEMBL1194794,7.93,Sigma non-opioid intracellular receptor 1,IC50,11.8
-,B,CHEMBL540831,CHEMBL1190422,7.10,Sigma non-opioid intracellular receptor 1,IC50,79.0
-,B,CHEMBL556043,CHEMBL1196177,7.97,Sigma non-opioid intracellular receptor 1,IC50,10.8
-,B,CHEMBL538283,CHEMBL1189219,7.40,Sigma non-opioid intracellular receptor 1,IC50,40.0
-,B,CHEMBL79840,CHEMBL79840,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.25
-,B,CHEMBL81455,CHEMBL81455,9.85,Sigma non-opioid intracellular receptor 1,Ki,0.14
-,B,CHEMBL545545,CHEMBL1194043,7.41,Sigma non-opioid intracellular receptor 1,IC50,39.0
-,B,CHEMBL538036,CHEMBL1189094,7.73,Sigma non-opioid intracellular receptor 1,IC50,18.5
-,B,CHEMBL545542,CHEMBL1194040,7.40,Sigma non-opioid intracellular receptor 1,IC50,40.2
-,B,CHEMBL552829,CHEMBL1194536,8.13,Sigma non-opioid intracellular receptor 1,IC50,7.4
-,B,CHEMBL542959,CHEMBL1191810,7.16,Sigma non-opioid intracellular receptor 1,IC50,69.9
-,B,CHEMBL555698,CHEMBL1195984,7.01,Sigma non-opioid intracellular receptor 1,IC50,97.0
-,B,CHEMBL552831,CHEMBL1194537,8.10,Sigma non-opioid intracellular receptor 1,IC50,8.0
-,B,CHEMBL553749,CHEMBL1195030,7.71,Sigma non-opioid intracellular receptor 1,IC50,19.6
-,B,CHEMBL555091,CHEMBL1195654,7.36,Sigma non-opioid intracellular receptor 1,IC50,43.5
-,B,CHEMBL540841,CHEMBL1190431,7.62,Sigma non-opioid intracellular receptor 1,IC50,23.9
-,B,CHEMBL553167,CHEMBL1194727,7.19,Sigma non-opioid intracellular receptor 1,IC50,64.0
-,B,CHEMBL79841,CHEMBL79841,8.81,Sigma non-opioid intracellular receptor 1,Ki,1.54
-,B,CHEMBL79660,CHEMBL79660,9.20,Sigma non-opioid intracellular receptor 1,Ki,0.63
-,B,CHEMBL439765,CHEMBL439765,8.88,Sigma non-opioid intracellular receptor 1,Ki,1.32
-,B,CHEMBL20377,CHEMBL20377,9.15,Sigma non-opioid intracellular receptor 1,Ki,0.7
-,B,CHEMBL54,CHEMBL54,8.43,Sigma non-opioid intracellular receptor 1,Ki,3.7
-,B,CHEMBL543433,CHEMBL1192228,7.84,Sigma non-opioid intracellular receptor 1,IC50,14.4
-,B,CHEMBL81500,CHEMBL81500,9.34,Sigma non-opioid intracellular receptor 1,Ki,0.46
-,B,CHEMBL60542,CHEMBL60542,8.51,Sigma non-opioid intracellular receptor 1,Ki,3.1
-,B,CHEMBL542956,CHEMBL1191807,7.41,Sigma non-opioid intracellular receptor 1,IC50,39.3
-,B,CHEMBL554355,CHEMBL1195346,7.57,Sigma non-opioid intracellular receptor 1,IC50,27.0
-,B,CHEMBL83430,CHEMBL83430,7.56,Sigma non-opioid intracellular receptor 1,Ki,27.7
-,B,CHEMBL282433,CHEMBL282433,7.16,Sigma non-opioid intracellular receptor 1,Ki,70.0
-,B,CHEMBL69972,CHEMBL69972,7.31,Sigma non-opioid intracellular receptor 1,Ki,49.0
-,B,CHEMBL302096,CHEMBL302096,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
-,B,CHEMBL302096,CHEMBL302096,7.72,Sigma non-opioid intracellular receptor 1,Ki,19.0
-,B,CHEMBL308433,CHEMBL308433,7.77,Sigma non-opioid intracellular receptor 1,Ki,17.0
-,B,CHEMBL308433,CHEMBL308433,7.37,Sigma non-opioid intracellular receptor 1,Ki,43.0
-,B,CHEMBL71104,CHEMBL71104,7.89,Sigma non-opioid intracellular receptor 1,Ki,13.0
-,B,CHEMBL71104,CHEMBL71104,7.96,Sigma non-opioid intracellular receptor 1,Ki,11.0
-,B,CHEMBL303408,CHEMBL303408,8.00,Sigma non-opioid intracellular receptor 1,Ki,10.0
-,B,CHEMBL303408,CHEMBL303408,8.08,Sigma non-opioid intracellular receptor 1,Ki,8.4
-,B,CHEMBL60542,CHEMBL60542,8.68,Sigma non-opioid intracellular receptor 1,Ki,2.1
-,B,CHEMBL54,CHEMBL54,9.22,Sigma non-opioid intracellular receptor 1,Ki,0.6
-,B,CHEMBL54,CHEMBL54,8.22,Sigma non-opioid intracellular receptor 1,Ki,6.0
-,B,CHEMBL73169,CHEMBL73169,7.66,Sigma non-opioid intracellular receptor 1,Ki,22.0
-,B,CHEMBL73169,CHEMBL73169,7.60,Sigma non-opioid intracellular receptor 1,Ki,25.0
-,B,CHEMBL304506,CHEMBL304506,9.23,Sigma non-opioid intracellular receptor 1,Ki,0.59
-,B,CHEMBL304506,CHEMBL304506,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.0
-,B,CHEMBL87321,CHEMBL87321,7.68,Sigma non-opioid intracellular receptor 1,IC50,21.1
-,B,CHEMBL553745,CHEMBL104945,8.46,Sigma non-opioid intracellular receptor 1,IC50,3.47
-,B,CHEMBL50112,CHEMBL50112,8.77,Sigma non-opioid intracellular receptor 1,Ki,1.7
-,B,CHEMBL311578,CHEMBL311578,7.15,Sigma non-opioid intracellular receptor 1,Log Ki,-7.15
-,B,CHEMBL76944,CHEMBL76944,8.02,Sigma non-opioid intracellular receptor 1,Log Ki,-8.02
-,B,CHEMBL440689,CHEMBL440689,7.05,Sigma non-opioid intracellular receptor 1,Log Ki,-7.05
-,B,CHEMBL54,CHEMBL54,8.82,Sigma non-opioid intracellular receptor 1,Ki,1.5
-,B,CHEMBL543134,CHEMBL105645,7.46,Sigma non-opioid intracellular receptor 1,IC50,34.3
-,B,CHEMBL544309,CHEMBL323287,8.35,Sigma non-opioid intracellular receptor 1,IC50,4.49
-,B,CHEMBL54,CHEMBL54,8.34,Sigma non-opioid intracellular receptor 1,Ki,4.6
-,B,CHEMBL282433,CHEMBL282433,7.22,Sigma non-opioid intracellular receptor 1,Ki,60.0
-,B,CHEMBL282433,CHEMBL282433,7.42,Sigma non-opioid intracellular receptor 1,Kd,38.2
-,B,CHEMBL543134,CHEMBL105645,7.91,Sigma non-opioid intracellular receptor 1,IC50,12.2
-,B,CHEMBL540038,CHEMBL1190041,8.05,Sigma non-opioid intracellular receptor 1,IC50,8.9
-,B,CHEMBL274490,CHEMBL274490,8.17,Sigma non-opioid intracellular receptor 1,Log Ki,-8.17
-,B,CHEMBL542167,CHEMBL1191117,9.29,Sigma non-opioid intracellular receptor 1,IC50,0.51
-,B,CHEMBL308633,CHEMBL308633,8.30,Sigma non-opioid intracellular receptor 1,Log Ki,-8.3
-,B,CHEMBL46326,CHEMBL46326,8.79,Sigma non-opioid intracellular receptor 1,Ki,1.64
-,B,CHEMBL78272,CHEMBL78272,8.11,Sigma non-opioid intracellular receptor 1,Log Ki,-8.11
-,B,CHEMBL539938,CHEMBL539938,8.52,Sigma non-opioid intracellular receptor 1,Ki,3.02
-,B,CHEMBL545477,CHEMBL1193985,9.54,Sigma non-opioid intracellular receptor 1,IC50,0.29
-,B,CHEMBL308085,CHEMBL308085,7.21,Sigma non-opioid intracellular receptor 1,Log Ki,-7.21
-,B,CHEMBL77925,CHEMBL77925,8.24,Sigma non-opioid intracellular receptor 1,Log Ki,-8.24
-,B,CHEMBL76256,CHEMBL76256,8.19,Sigma non-opioid intracellular receptor 1,Log Ki,-8.19
-,B,CHEMBL2093895,CHEMBL2110041,8.05,Sigma non-opioid intracellular receptor 1,IC50,9.0
-,B,CHEMBL545249,CHEMBL317029,8.85,Sigma non-opioid intracellular receptor 1,IC50,1.4
-,B,CHEMBL539274,CHEMBL1189682,7.58,Sigma non-opioid intracellular receptor 1,IC50,26.5
-,B,CHEMBL542167,CHEMBL1191117,9.70,Sigma non-opioid intracellular receptor 1,IC50,0.2
-,B,CHEMBL119104,CHEMBL119104,7.62,Sigma non-opioid intracellular receptor 1,Ki,23.8
-,B,CHEMBL115956,CHEMBL115956,7.80,Sigma non-opioid intracellular receptor 1,Ki,15.7
-,B,CHEMBL324513,CHEMBL324513,8.11,Sigma non-opioid intracellular receptor 1,Ki,7.7
-,B,CHEMBL118297,CHEMBL118297,7.52,Sigma non-opioid intracellular receptor 1,Ki,30.3
-,B,CHEMBL118405,CHEMBL118405,8.19,Sigma non-opioid intracellular receptor 1,Ki,6.4
-,B,CHEMBL118797,CHEMBL118797,8.37,Sigma non-opioid intracellular receptor 1,Ki,4.3
-,B,CHEMBL290675,CHEMBL290675,7.70,Sigma non-opioid intracellular receptor 1,Ki,20.1
-,B,CHEMBL60542,CHEMBL60542,8.21,Sigma non-opioid intracellular receptor 1,Ki,6.1
-,B,CHEMBL287794,CHEMBL287794,8.23,Sigma non-opioid intracellular receptor 1,Ki,5.9
-,B,CHEMBL41313,CHEMBL41313,8.02,Sigma non-opioid intracellular receptor 1,Ki,9.6
+molecule_chembl_id,molecule_pref_name,parent_molecule_chembl_id,pchembl_value,value
+CHEMBL38904,,CHEMBL38904,7.70,20.0
+CHEMBL67010,,CHEMBL67010,7.14,72.0
+CHEMBL542638,,CHEMBL1191528,8.22,6.0
+CHEMBL45962,,CHEMBL45962,7.47,34.0
+CHEMBL45686,PANAMESINE,CHEMBL45686,7.72,19.0
+CHEMBL358579,,CHEMBL358579,8.25,5.66
+CHEMBL141209,,CHEMBL141209,8.89,1.29
+CHEMBL46438,,CHEMBL46438,7.75,18.0
+CHEMBL45535,,CHEMBL45535,9.00,1.0
+CHEMBL357179,,CHEMBL357179,8.14,7.27
+CHEMBL434067,,CHEMBL434067,8.14,7.16
+CHEMBL298492,,CHEMBL298492,7.72,19.0
+CHEMBL544054,,CHEMBL1192761,8.05,9.0
+CHEMBL295039,,CHEMBL295039,7.39,41.0
+CHEMBL48124,,CHEMBL48124,7.72,19.0
+CHEMBL48075,,CHEMBL48075,7.80,16.0
+CHEMBL45968,,CHEMBL45968,7.62,24.0
+CHEMBL60859,BMY-14802,CHEMBL60859,7.15,71.0
+CHEMBL147151,,CHEMBL147151,8.66,2.18
+CHEMBL148276,,CHEMBL148276,8.81,1.54
+CHEMBL67388,,CHEMBL67388,7.80,16.0
+CHEMBL297634,,CHEMBL297634,7.47,34.0
+CHEMBL22242,REMOXIPRIDE,CHEMBL22242,7.26,55.0
+CHEMBL137990,,CHEMBL137990,8.66,2.17
+CHEMBL538754,,CHEMBL1189436,7.82,15.0
+CHEMBL144662,,CHEMBL144662,7.90,12.7
+CHEMBL417357,,CHEMBL417357,8.15,7.0
+CHEMBL295891,,CHEMBL295891,7.77,17.0
+CHEMBL47774,,CHEMBL47774,8.30,5.0
+CHEMBL417353,,CHEMBL417353,8.70,2.0
+CHEMBL147093,,CHEMBL147093,7.93,11.7
+CHEMBL47714,,CHEMBL47714,7.92,12.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.21,6.1
+CHEMBL358541,,CHEMBL358541,8.03,9.33
+CHEMBL38634,,CHEMBL38634,9.21,0.62
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.49,3.2
+CHEMBL47678,,CHEMBL47678,7.51,31.0
+CHEMBL47715,,CHEMBL47715,8.52,3.0
+CHEMBL138809,,CHEMBL138809,8.94,1.14
+CHEMBL148289,,CHEMBL148289,7.80,15.9
+CHEMBL44604,,CHEMBL44604,7.85,14.0
+CHEMBL63508,,CHEMBL63508,8.05,9.0
+CHEMBL138533,,CHEMBL138533,8.13,7.33
+CHEMBL148009,,CHEMBL148009,8.05,8.95
+CHEMBL417181,,CHEMBL417181,7.82,15.0
+CHEMBL147316,,CHEMBL147316,8.67,2.16
+CHEMBL39900,SPIPETHIANE,CHEMBL39900,9.30,0.5
+CHEMBL38085,,CHEMBL38085,7.60,25.0
+CHEMBL47279,,CHEMBL47279,7.21,62.0
+CHEMBL67665,,CHEMBL67665,7.58,26.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.50,32.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.66,2.2
+CHEMBL148054,,CHEMBL148054,7.82,15.1
+CHEMBL45849,,CHEMBL45849,7.68,21.0
+CHEMBL342351,,CHEMBL342351,7.26,55.1
+CHEMBL296504,,CHEMBL296504,7.80,16.0
+CHEMBL50771,,CHEMBL50771,7.82,15.0
+CHEMBL41830,,CHEMBL41830,8.85,1.4
+CHEMBL344186,,CHEMBL344186,7.72,19.07
+CHEMBL341957,,CHEMBL341957,8.18,6.59
+CHEMBL139735,,CHEMBL139735,8.04,9.03
+CHEMBL337796,,CHEMBL337796,8.46,3.49
+CHEMBL86830,,CHEMBL86830,7.49,32.5
+CHEMBL344402,,CHEMBL344402,7.86,13.82
+CHEMBL137041,,CHEMBL137041,7.64,22.66
+CHEMBL139922,,CHEMBL139922,7.28,51.94
+CHEMBL313179,,CHEMBL313179,7.96,11.1
+CHEMBL134856,,CHEMBL134856,7.21,61.77
+CHEMBL341936,,CHEMBL341936,7.96,10.9
+CHEMBL336037,,CHEMBL336037,8.33,4.64
+CHEMBL334568,,CHEMBL334568,8.92,1.21
+CHEMBL344023,,CHEMBL344023,8.20,6.3
+CHEMBL136114,,CHEMBL136114,8.37,4.29
+CHEMBL73234,CARBETAPENTANE,CHEMBL73234,7.71,19.5
+CHEMBL138688,,CHEMBL138688,8.41,3.93
+CHEMBL343580,,CHEMBL343580,8.38,4.2
+CHEMBL136451,,CHEMBL136451,8.26,5.51
+CHEMBL135083,,CHEMBL135083,8.50,3.15
+CHEMBL136231,,CHEMBL136231,7.06,87.05
+CHEMBL335953,,CHEMBL335953,8.40,3.97
+CHEMBL136677,,CHEMBL136677,7.62,23.88
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.60,2.53
+CHEMBL138249,,CHEMBL138249,8.14,7.2
+CHEMBL343137,,CHEMBL343137,7.81,15.41
+CHEMBL134855,,CHEMBL134855,8.49,3.21
+CHEMBL316244,,CHEMBL316244,7.01,97.2
+CHEMBL330021,,CHEMBL330021,7.18,66.2
+CHEMBL139340,,CHEMBL139340,8.94,1.15
+CHEMBL87841,,CHEMBL87841,7.88,13.1
+CHEMBL137675,,CHEMBL137675,8.17,6.75
+CHEMBL345051,,CHEMBL345051,7.99,10.16
+CHEMBL1036,HYDROXYHALOPERIDOL,CHEMBL1036,7.84,14.34
+CHEMBL305881,,CHEMBL305881,7.33,46.5
+CHEMBL139629,,CHEMBL139629,8.09,8.22
+CHEMBL343752,,CHEMBL343752,8.75,1.78
+CHEMBL76895,,CHEMBL76895,8.41,3.9
+CHEMBL136275,,CHEMBL136275,7.50,31.25
+CHEMBL84971,,CHEMBL84971,7.53,29.6
+CHEMBL139156,,CHEMBL139156,8.14,7.24
+CHEMBL344425,,CHEMBL344425,8.65,2.25
+CHEMBL138794,,CHEMBL138794,8.64,2.31
+CHEMBL61946,CARAMIPHEN,CHEMBL61946,7.81,15.5
+CHEMBL14553,,CHEMBL14553,7.20,63.0
+CHEMBL276935,,CHEMBL276935,7.14,72.0
+CHEMBL159967,,CHEMBL159967,7.37,43.0
+CHEMBL15288,,CHEMBL15288,7.27,54.0
+CHEMBL274699,,CHEMBL274699,9.22,0.6
+CHEMBL26320,,CHEMBL26320,7.77,17.0
+CHEMBL159608,,CHEMBL159608,7.10,79.0
+CHEMBL159320,,CHEMBL159320,7.39,41.0
+CHEMBL53649,,CHEMBL53649,8.31,4.89
+CHEMBL164037,,CHEMBL164037,7.23,59.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL281594,VANOXERINE,CHEMBL281594,7.37,43.0
+CHEMBL159319,,CHEMBL159319,7.21,62.0
+CHEMBL20377,,CHEMBL20377,8.66,2.2
+CHEMBL286991,,CHEMBL286991,7.29,51.0
+CHEMBL163980,,CHEMBL163980,7.42,38.0
+CHEMBL14876,,CHEMBL14876,7.33,47.0
+CHEMBL15223,,CHEMBL15223,7.14,72.0
+CHEMBL607212,,CHEMBL607212,7.38,42.0
+CHEMBL71049,,CHEMBL71049,9.27,0.54
+CHEMBL71049,,CHEMBL71049,8.91,1.23
+CHEMBL117319,,CHEMBL117319,7.37,43.0
+CHEMBL20377,,CHEMBL20377,9.47,0.34
+CHEMBL117183,,CHEMBL117183,7.35,45.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.36,4.4
+CHEMBL2303661,,CHEMBL2303661,8.70,2.0
+CHEMBL114123,,CHEMBL114123,7.40,40.0
+CHEMBL324392,,CHEMBL324392,9.54,0.29
+CHEMBL324392,,CHEMBL324392,7.98,10.5
+CHEMBL607155,,CHEMBL607155,8.06,8.66
+CHEMBL114358,,CHEMBL114358,7.31,49.0
+CHEMBL324505,,CHEMBL324505,7.16,69.0
+CHEMBL312766,,CHEMBL312766,9.07,0.86
+CHEMBL312766,,CHEMBL312766,9.28,0.52
+CHEMBL280063,,CHEMBL280063,8.10,8.0
+CHEMBL15601,,CHEMBL15601,8.30,5.0
+CHEMBL2303668,,CHEMBL2303668,7.96,11.0
+CHEMBL115998,,CHEMBL115998,8.72,1.9
+CHEMBL116643,,CHEMBL116643,8.64,2.3
+CHEMBL70540,,CHEMBL70540,8.37,4.24
+CHEMBL70540,,CHEMBL70540,9.41,0.39
+CHEMBL16123,,CHEMBL16123,8.30,5.0
+CHEMBL15456,,CHEMBL15456,8.70,2.0
+CHEMBL15941,,CHEMBL15941,8.70,2.0
+CHEMBL15941,,CHEMBL15941,7.43,37.2
+CHEMBL15637,,CHEMBL15637,8.05,9.0
+CHEMBL2368719,,CHEMBL2368719,7.13,73.6
+CHEMBL2368719,,CHEMBL2368719,7.41,38.9
+CHEMBL607333,,CHEMBL607333,7.12,76.0
+CHEMBL326548,,CHEMBL326548,7.50,32.0
+CHEMBL607449,,CHEMBL607449,7.92,12.0
+CHEMBL607449,,CHEMBL607449,7.96,11.0
+CHEMBL70807,,CHEMBL70807,9.51,0.31
+CHEMBL607332,,CHEMBL607332,7.11,77.0
+CHEMBL116738,,CHEMBL116738,7.46,35.0
+CHEMBL280088,,CHEMBL280088,7.00,100.0
+CHEMBL606937,,CHEMBL606937,7.43,37.0
+CHEMBL415985,,CHEMBL415985,8.70,2.0
+CHEMBL415985,,CHEMBL415985,7.70,20.0
+CHEMBL15986,,CHEMBL15986,8.52,3.0
+CHEMBL70861,,CHEMBL70861,8.38,4.22
+CHEMBL70861,,CHEMBL70861,8.29,5.07
+CHEMBL324392,,CHEMBL324392,8.42,3.8
+CHEMBL114163,,CHEMBL114163,8.55,2.8
+CHEMBL117321,,CHEMBL117321,7.92,12.0
+CHEMBL316988,,CHEMBL316988,8.22,6.0
+CHEMBL420557,,CHEMBL420557,8.88,1.32
+CHEMBL420557,,CHEMBL420557,8.92,1.19
+CHEMBL606938,,CHEMBL606938,7.52,30.5
+CHEMBL15955,,CHEMBL15955,8.52,3.0
+CHEMBL116354,,CHEMBL116354,7.42,38.0
+CHEMBL326571,,CHEMBL326571,8.22,6.0
+CHEMBL607106,,CHEMBL607106,7.05,89.5
+CHEMBL15809,,CHEMBL15809,8.30,5.0
+CHEMBL106437,,CHEMBL106437,8.89,1.3
+CHEMBL20377,,CHEMBL20377,8.70,2.0
+CHEMBL349288,,CHEMBL349288,8.28,5.3
+CHEMBL337818,,CHEMBL337818,8.76,1.75
+CHEMBL342223,,CHEMBL342223,8.83,1.48
+CHEMBL339281,,CHEMBL339281,7.76,17.49
+CHEMBL545212,,CHEMBL1193750,8.76,-8.76
+CHEMBL555890,,CHEMBL1196092,8.85,-8.85
+CHEMBL315146,,CHEMBL315146,7.68,21.0
+CHEMBL340185,,CHEMBL340185,8.07,8.5
+CHEMBL539260,,CHEMBL1189670,8.37,-8.37
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL87414,,CHEMBL87414,7.60,25.0
+CHEMBL162522,,CHEMBL162522,8.24,5.81
+CHEMBL555401,,CHEMBL1195822,8.59,-8.59
+CHEMBL541052,,CHEMBL1190519,8.70,-8.7
+CHEMBL545447,,CHEMBL1193956,8.46,-8.46
+CHEMBL545689,,CHEMBL1194164,8.18,-8.18
+CHEMBL555398,,CHEMBL1195820,8.33,-8.33
+CHEMBL20377,,CHEMBL20377,8.68,2.1
+CHEMBL422020,,CHEMBL422020,8.12,7.6
+CHEMBL555581,,CHEMBL1195917,8.67,-8.67
+CHEMBL106437,,CHEMBL106437,8.11,7.78
+CHEMBL337929,,CHEMBL337929,7.02,95.69
+CHEMBL134313,,CHEMBL134313,8.87,1.34
+CHEMBL136981,,CHEMBL136981,8.57,2.67
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.43,3.7
+CHEMBL162807,,CHEMBL162807,9.24,0.58
+CHEMBL137794,,CHEMBL137794,8.45,3.56
+CHEMBL138123,,CHEMBL138123,7.79,16.05
+CHEMBL316988,,CHEMBL316988,7.73,18.68
+CHEMBL545217,,CHEMBL1193755,8.40,-8.4
+CHEMBL339863,,CHEMBL339863,7.51,30.89
+CHEMBL542390,,CHEMBL185841,7.67,-7.67
+CHEMBL343790,,CHEMBL343790,8.36,4.34
+CHEMBL340816,,CHEMBL340816,7.47,34.1
+CHEMBL540274,,CHEMBL1190143,9.49,-9.49
+CHEMBL553561,,CHEMBL1194940,8.64,-8.64
+CHEMBL545687,,CHEMBL1194162,7.96,-7.96
+CHEMBL137348,,CHEMBL137348,8.64,2.3
+CHEMBL554388,,CHEMBL1195353,8.15,-8.15
+CHEMBL544282,,CHEMBL1192959,8.20,-8.2
+CHEMBL544280,,CHEMBL1192957,7.01,-7.01
+CHEMBL544747,,CHEMBL1193356,8.06,-8.06
+CHEMBL341139,,CHEMBL341139,8.74,1.8
+CHEMBL162422,,CHEMBL162422,8.85,1.4
+CHEMBL544987,,CHEMBL1193560,8.66,-8.66
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.56,27.7
+CHEMBL20730,VESAMICOL,CHEMBL20730,7.58,26.0
+CHEMBL543101,,CHEMBL1191933,8.34,-8.34
+CHEMBL544281,,CHEMBL1192958,8.93,-8.93
+CHEMBL541299,,CHEMBL188713,8.12,-8.12
+CHEMBL545688,,CHEMBL1194163,8.73,-8.73
+CHEMBL543810,,CHEMBL1192557,8.61,-8.61
+CHEMBL553265,,CHEMBL1194757,9.60,-9.6
+CHEMBL554988,,CHEMBL186350,7.78,-7.78
+CHEMBL544748,,CHEMBL1193357,8.69,-8.69
+CHEMBL542387,,CHEMBL1191310,7.09,-7.09
+CHEMBL342942,,CHEMBL342942,8.43,3.69
+CHEMBL165848,,CHEMBL165848,9.41,0.39
+CHEMBL126742,,CHEMBL126742,7.39,40.4
+CHEMBL163876,,CHEMBL163876,9.33,0.47
+CHEMBL164124,,CHEMBL164124,9.34,0.46
+CHEMBL545682,,CHEMBL1194157,8.74,-8.74
+CHEMBL542140,,CHEMBL1191092,7.78,-7.78
+CHEMBL2093874,,CHEMBL2109983,8.51,-8.51
+CHEMBL20377,,CHEMBL20377,8.68,2.1
+CHEMBL543632,,CHEMBL1192403,7.54,28.7
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.43,3.7
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.56,27.7
+CHEMBL107870,,CHEMBL107870,8.10,8.0
+CHEMBL46596,,CHEMBL46596,8.92,1.2
+CHEMBL321702,,CHEMBL321702,7.39,40.7
+CHEMBL47251,,CHEMBL47251,7.89,13.0
+CHEMBL274585,,CHEMBL274585,9.17,0.67
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL46463,,CHEMBL46463,8.00,10.0
+CHEMBL107485,,CHEMBL107485,7.27,54.0
+CHEMBL109026,,CHEMBL109026,8.83,1.49
+CHEMBL324620,,CHEMBL324620,7.86,13.8
+CHEMBL323476,,CHEMBL323476,7.11,77.5
+CHEMBL111331,,CHEMBL111331,7.52,29.9
+CHEMBL308980,,CHEMBL308980,7.75,18.0
+CHEMBL80656,,CHEMBL80656,7.57,27.0
+CHEMBL542786,,CHEMBL1191655,7.47,34.0
+CHEMBL341003,,CHEMBL341003,8.02,9.5
+CHEMBL1744017,,CHEMBL63010,8.69,-8.69
+CHEMBL77286,,CHEMBL77286,8.28,5.22
+CHEMBL308098,,CHEMBL308098,8.70,2.0
+CHEMBL101300,,CHEMBL101300,7.71,19.6
+CHEMBL77352,,CHEMBL77352,8.14,7.28
+CHEMBL431775,,CHEMBL431775,8.54,2.89
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.60,2.53
+CHEMBL128799,,CHEMBL128799,8.35,4.5
+CHEMBL553962,,CHEMBL1195151,8.82,1.5
+CHEMBL308185,,CHEMBL308185,8.40,4.0
+CHEMBL64511,,CHEMBL64511,7.95,-7.95
+CHEMBL1744014,,CHEMBL63215,8.56,-8.56
+CHEMBL306768,,CHEMBL306768,8.61,2.45
+CHEMBL1743991,,CHEMBL291879,8.26,-8.26
+CHEMBL77289,,CHEMBL77289,8.38,4.21
+CHEMBL545760,,CHEMBL1194228,8.00,10.0
+CHEMBL128717,,CHEMBL128717,8.24,5.7
+CHEMBL310499,,CHEMBL310499,8.46,3.43
+CHEMBL74665,,CHEMBL74665,7.85,14.2
+CHEMBL101300,,CHEMBL101300,8.42,3.81
+CHEMBL128860,,CHEMBL128860,8.68,2.1
+CHEMBL1788383,,CHEMBL292477,9.14,-9.14
+CHEMBL308304,,CHEMBL308304,7.18,66.4
+CHEMBL77120,,CHEMBL77120,7.52,30.1
+CHEMBL317354,,CHEMBL317354,7.98,10.4
+CHEMBL542470,,CHEMBL1191381,7.52,30.0
+CHEMBL1744001,,CHEMBL63322,8.54,-8.54
+CHEMBL312254,,CHEMBL312254,8.12,7.63
+CHEMBL274099,,CHEMBL274099,7.22,59.7
+CHEMBL101607,,CHEMBL101607,7.74,18.4
+CHEMBL1743997,,CHEMBL64556,7.74,-7.74
+CHEMBL1744010,,CHEMBL62404,8.32,-8.32
+CHEMBL308818,,CHEMBL308818,8.50,3.17
+CHEMBL77204,,CHEMBL77204,8.30,5.0
+CHEMBL75678,,CHEMBL75678,9.00,1.0
+CHEMBL103157,,CHEMBL103157,7.52,30.5
+CHEMBL1743995,,CHEMBL418132,8.17,-8.17
+CHEMBL76564,,CHEMBL76564,8.51,3.08
+CHEMBL413057,,CHEMBL413057,8.19,6.46
+CHEMBL80397,,CHEMBL80397,8.13,7.32
+CHEMBL311451,,CHEMBL311451,7.49,32.1
+CHEMBL127720,,CHEMBL127720,7.92,12.0
+CHEMBL1743994,,CHEMBL64840,8.20,-8.2
+CHEMBL1744013,,CHEMBL64470,7.16,-7.16
+CHEMBL80968,,CHEMBL80968,7.92,12.0
+CHEMBL330601,,CHEMBL330601,8.80,1.57
+CHEMBL103156,,CHEMBL103156,8.33,4.68
+CHEMBL1744004,,CHEMBL61005,7.79,-7.79
+CHEMBL1256916,,CHEMBL303336,8.42,-8.42
+CHEMBL77206,,CHEMBL77206,8.30,5.0
+CHEMBL318877,,CHEMBL318877,9.17,0.67
+CHEMBL103157,,CHEMBL103157,8.83,1.48
+CHEMBL127899,,CHEMBL127899,8.10,8.0
+CHEMBL540331,,CHEMBL1190190,8.74,1.8
+CHEMBL76802,,CHEMBL76802,7.19,63.9
+CHEMBL307444,,CHEMBL307444,7.05,90.0
+CHEMBL1788382,,CHEMBL418310,8.93,-8.93
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL1744008,,CHEMBL63110,7.99,-7.99
+CHEMBL1744011,,CHEMBL423664,8.17,-8.17
+CHEMBL312631,,CHEMBL312631,7.51,30.8
+CHEMBL76864,,CHEMBL76864,8.85,1.4
+CHEMBL1036,HYDROXYHALOPERIDOL,CHEMBL1036,7.84,14.34
+CHEMBL76475,,CHEMBL76475,8.10,8.0
+CHEMBL430444,,CHEMBL430444,7.55,28.0
+CHEMBL76927,,CHEMBL76927,7.75,18.0
+CHEMBL1743998,,CHEMBL64607,8.26,-8.26
+CHEMBL1744015,,CHEMBL62126,8.82,-8.82
+CHEMBL305728,,CHEMBL305728,7.57,26.9
+CHEMBL276078,,CHEMBL276078,7.40,40.1
+CHEMBL1788381,,CHEMBL62540,8.92,-8.92
+CHEMBL103319,,CHEMBL103319,7.95,11.3
+CHEMBL421446,,CHEMBL421446,7.89,13.0
+CHEMBL1743996,,CHEMBL444267,8.18,-8.18
+CHEMBL1743992,,CHEMBL64346,7.85,-7.85
+CHEMBL311622,,CHEMBL311622,8.34,4.56
+CHEMBL560,,CHEMBL560,7.08,83.1
+CHEMBL339638,,CHEMBL339638,8.05,9.0
+CHEMBL340587,,CHEMBL340587,7.54,29.0
+CHEMBL1744002,,CHEMBL302197,8.78,-8.78
+CHEMBL1743993,,CHEMBL63162,8.02,-8.02
+CHEMBL1744016,,CHEMBL292259,8.46,-8.46
+CHEMBL306955,,CHEMBL306955,8.06,8.7
+CHEMBL80326,,CHEMBL80326,7.10,80.0
+CHEMBL311508,,CHEMBL311508,8.40,4.0
+CHEMBL318877,,CHEMBL318877,7.44,36.5
+CHEMBL62770,,CHEMBL62770,8.98,-8.98
+CHEMBL1744003,,CHEMBL439751,8.85,-8.85
+CHEMBL1743999,,CHEMBL60137,8.87,-8.87
+CHEMBL76806,,CHEMBL76806,8.45,3.56
+CHEMBL75816,,CHEMBL75816,7.57,27.1
+CHEMBL101607,,CHEMBL101607,7.23,58.6
+CHEMBL419343,,CHEMBL419343,8.25,5.68
+CHEMBL77285,,CHEMBL77285,8.40,3.97
+CHEMBL78059,,CHEMBL78059,8.24,5.8
+CHEMBL75810,,CHEMBL75810,7.62,23.8
+CHEMBL78067,,CHEMBL78067,8.15,7.0
+CHEMBL102406,,CHEMBL102406,8.83,1.47
+CHEMBL521582,,CHEMBL190883,8.89,1.3
+CHEMBL521582,,CHEMBL190883,7.07,85.0
+CHEMBL1744000,,CHEMBL61938,8.64,-8.64
+CHEMBL262760,,CHEMBL262760,8.02,9.66
+CHEMBL77405,,CHEMBL77405,9.06,0.87
+CHEMBL77773,,CHEMBL77773,8.01,9.84
+CHEMBL330601,,CHEMBL330601,7.58,26.4
+CHEMBL103816,,CHEMBL103816,8.76,1.75
+CHEMBL1744009,,CHEMBL62408,8.30,-8.3
+CHEMBL1744006,,CHEMBL61338,8.23,-8.23
+CHEMBL104042,,CHEMBL104042,7.68,21.0
+CHEMBL1744005,,CHEMBL61337,8.50,-8.5
+CHEMBL76895,,CHEMBL76895,8.41,3.9
+CHEMBL318823,,CHEMBL318823,7.08,82.5
+CHEMBL99854,,CHEMBL99854,7.73,18.5
+CHEMBL1744012,,CHEMBL62116,7.13,-7.13
+CHEMBL77953,,CHEMBL77953,8.41,3.92
+CHEMBL307253,,CHEMBL307253,7.75,18.0
+CHEMBL1744007,,CHEMBL62407,8.17,-8.17
+CHEMBL311579,,CHEMBL311579,7.73,18.8
+CHEMBL312692,,CHEMBL312692,7.98,10.5
+CHEMBL308097,,CHEMBL308097,7.36,43.4
+CHEMBL76849,,CHEMBL76849,8.15,7.0
+CHEMBL309015,,CHEMBL309015,8.10,8.0
+CHEMBL75860,,CHEMBL75860,7.66,22.0
+CHEMBL276078,,CHEMBL276078,8.14,7.16
+CHEMBL76547,,CHEMBL76547,8.41,3.87
+CHEMBL110319,,CHEMBL110319,8.03,9.4
+CHEMBL50465,,CHEMBL50465,8.49,3.2
+CHEMBL141381,,CHEMBL141381,7.74,18.4
+CHEMBL145296,,CHEMBL145296,8.10,7.9
+CHEMBL54026,,CHEMBL54026,8.92,1.2
+CHEMBL322468,,CHEMBL322468,7.18,65.3
+CHEMBL143800,,CHEMBL143800,8.72,1.91
+CHEMBL53078,,CHEMBL53078,8.96,1.1
+CHEMBL54865,,CHEMBL54865,8.24,5.8
+CHEMBL52835,,CHEMBL52835,7.24,57.0
+CHEMBL146659,,CHEMBL146659,8.51,3.1
+CHEMBL52300,,CHEMBL52300,7.23,59.0
+CHEMBL54667,,CHEMBL54667,8.32,4.8
+CHEMBL298864,,CHEMBL298864,7.02,96.0
+CHEMBL146659,,CHEMBL146659,7.29,51.3
+CHEMBL54571,,CHEMBL54571,8.60,2.5
+CHEMBL146659,,CHEMBL146659,7.52,30.3
+CHEMBL298759,,CHEMBL298759,8.40,4.0
+CHEMBL53778,,CHEMBL53778,8.44,3.6
+CHEMBL322468,,CHEMBL322468,8.49,3.2
+CHEMBL110319,,CHEMBL110319,7.63,23.3
+CHEMBL356639,,CHEMBL356639,8.79,1.62
+CHEMBL358527,,CHEMBL358527,7.21,62.3
+CHEMBL51959,,CHEMBL51959,8.25,5.6
+CHEMBL53401,,CHEMBL53401,8.72,1.9
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.82,1.5
+CHEMBL53650,,CHEMBL53650,7.25,56.0
+CHEMBL53218,,CHEMBL53218,7.63,23.4
+CHEMBL52588,,CHEMBL52588,7.13,74.0
+CHEMBL51856,,CHEMBL51856,8.96,1.1
+CHEMBL110319,,CHEMBL110319,8.89,1.3
+CHEMBL141381,,CHEMBL141381,7.42,38.1
+CHEMBL298875,,CHEMBL298875,8.23,5.9
+CHEMBL301302,,CHEMBL301302,8.21,6.2
+CHEMBL322468,,CHEMBL322468,7.50,32.0
+CHEMBL54092,,CHEMBL54092,8.92,1.2
+CHEMBL54662,,CHEMBL54662,7.78,16.7
+CHEMBL50517,,CHEMBL50517,7.32,48.0
+CHEMBL53070,,CHEMBL53070,7.85,14.0
+CHEMBL143800,,CHEMBL143800,8.11,7.8
+CHEMBL145422,,CHEMBL145422,8.77,1.71
+CHEMBL542123,,CHEMBL1191079,7.31,49.0
+CHEMBL143800,,CHEMBL143800,7.74,18.4
+CHEMBL423122,,CHEMBL423122,7.16,69.0
+CHEMBL301732,,CHEMBL301732,7.90,12.7
+CHEMBL542368,,CHEMBL1191292,7.31,49.0
+CHEMBL52298,,CHEMBL52298,7.55,28.0
+CHEMBL54027,,CHEMBL54027,9.15,0.7
+CHEMBL540283,,CHEMBL51146,7.43,37.0
+CHEMBL416481,,CHEMBL416481,7.51,31.0
+CHEMBL53038,,CHEMBL53038,7.68,20.7
+CHEMBL145296,,CHEMBL145296,8.22,6.0
+CHEMBL53320,,CHEMBL53320,8.77,1.7
+CHEMBL51754,,CHEMBL51754,8.21,6.2
+CHEMBL145780,,CHEMBL145780,7.78,16.6
+CHEMBL145296,,CHEMBL145296,8.24,5.8
+CHEMBL160817,,CHEMBL160817,7.21,61.0
+CHEMBL95857,,CHEMBL95857,7.67,21.4
+CHEMBL50880,,CHEMBL50880,7.04,92.0
+CHEMBL20730,VESAMICOL,CHEMBL20730,7.58,26.0
+CHEMBL50029,,CHEMBL50029,7.18,66.0
+CHEMBL96777,,CHEMBL96777,8.56,2.72
+CHEMBL53325,,CHEMBL53325,8.28,5.3
+CHEMBL112574,,CHEMBL112574,8.55,2.8
+CHEMBL2111684,,CHEMBL2111684,8.03,9.4
+CHEMBL114477,,CHEMBL114477,8.27,5.4
+CHEMBL54020,,CHEMBL54020,8.15,7.0
+CHEMBL325262,,CHEMBL325262,7.72,19.2
+CHEMBL97302,,CHEMBL97302,8.67,2.13
+CHEMBL85879,,CHEMBL85879,8.59,2.6
+CHEMBL94801,,CHEMBL94801,9.35,0.45
+CHEMBL94844,,CHEMBL94844,7.35,44.5
+CHEMBL325238,,CHEMBL325238,9.10,0.8
+CHEMBL110319,,CHEMBL110319,7.63,23.3
+CHEMBL420302,,CHEMBL420302,8.39,4.1
+CHEMBL541347,,CHEMBL1190672,8.16,6.9
+CHEMBL50239,,CHEMBL50239,7.33,46.5
+CHEMBL113621,,CHEMBL113621,7.98,10.5
+CHEMBL94950,,CHEMBL94950,8.51,3.07
+CHEMBL300408,,CHEMBL300408,7.36,43.8
+CHEMBL53938,,CHEMBL53938,7.54,29.0
+CHEMBL115508,,CHEMBL115508,8.52,3.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.43,37.3
+CHEMBL112125,,CHEMBL112125,8.54,2.9
+CHEMBL113293,,CHEMBL113293,8.12,7.5
+CHEMBL112037,,CHEMBL112037,8.40,4.0
+CHEMBL97285,,CHEMBL97285,8.23,5.86
+CHEMBL2111685,,CHEMBL2111685,7.50,32.0
+CHEMBL421195,,CHEMBL421195,8.76,1.75
+CHEMBL93442,,CHEMBL93442,8.98,1.04
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.98,10.4
+CHEMBL112474,,CHEMBL112474,9.05,0.9
+CHEMBL538057,,CHEMBL1189111,7.10,78.7
+CHEMBL322468,,CHEMBL322468,7.18,65.3
+CHEMBL112124,,CHEMBL112124,8.96,1.1
+CHEMBL660,AMANTADINE,CHEMBL660,7.69,20.25
+CHEMBL539310,,CHEMBL1189714,7.24,58.2
+CHEMBL552794,,CHEMBL1194508,7.46,34.5
+CHEMBL96524,,CHEMBL96524,7.99,10.3
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.38,4.2
+CHEMBL111896,,CHEMBL111896,8.17,6.7
+CHEMBL538300,,CHEMBL1189234,7.52,30.1
+CHEMBL114510,,CHEMBL114510,7.13,74.0
+CHEMBL542481,,CHEMBL1191390,7.74,18.2
+CHEMBL543673,,CHEMBL1192438,7.54,28.5
+CHEMBL541860,,CHEMBL1190923,7.69,20.6
+CHEMBL542736,,CHEMBL1191614,7.76,17.3
+CHEMBL543432,,CHEMBL1192227,7.70,20.0
+CHEMBL542964,,CHEMBL1191815,7.37,42.8
+CHEMBL543431,,CHEMBL1192226,7.50,31.8
+CHEMBL542487,,CHEMBL1191395,8.35,4.5
+CHEMBL543427,,CHEMBL1192223,7.80,15.8
+CHEMBL554618,,CHEMBL1195456,7.14,71.8
+CHEMBL544842,,CHEMBL1193436,7.99,10.3
+CHEMBL83448,,CHEMBL83448,8.51,3.11
+CHEMBL82081,,CHEMBL82081,7.38,41.8
+CHEMBL545544,,CHEMBL1194042,7.34,45.3
+CHEMBL543434,,CHEMBL91628,7.09,82.0
+CHEMBL542491,,CHEMBL1191399,7.88,13.3
+CHEMBL539299,,CHEMBL1189705,7.44,36.5
+CHEMBL79840,,CHEMBL79840,8.84,1.46
+CHEMBL543201,,CHEMBL78777,7.52,30.1
+CHEMBL553034,,CHEMBL1194636,8.24,5.7
+CHEMBL81451,,CHEMBL81451,8.30,4.97
+CHEMBL542730,,CHEMBL1191609,7.51,30.7
+CHEMBL81389,,CHEMBL81389,8.00,10.1
+CHEMBL81360,,CHEMBL81360,8.18,6.65
+CHEMBL309983,,CHEMBL309983,9.74,0.18
+CHEMBL539549,,CHEMBL1189827,7.34,45.7
+CHEMBL545310,,CHEMBL1193840,7.80,15.9
+CHEMBL553312,,CHEMBL1194794,7.93,11.8
+CHEMBL540831,,CHEMBL1190422,7.10,79.0
+CHEMBL556043,,CHEMBL1196177,7.97,10.8
+CHEMBL538283,,CHEMBL1189219,7.40,40.0
+CHEMBL79840,,CHEMBL79840,8.37,4.25
+CHEMBL81455,,CHEMBL81455,9.85,0.14
+CHEMBL545545,,CHEMBL1194043,7.41,39.0
+CHEMBL538036,,CHEMBL1189094,7.73,18.5
+CHEMBL545542,,CHEMBL1194040,7.40,40.2
+CHEMBL552829,,CHEMBL1194536,8.13,7.4
+CHEMBL542959,,CHEMBL1191810,7.16,69.9
+CHEMBL555698,,CHEMBL1195984,7.01,97.0
+CHEMBL552831,,CHEMBL1194537,8.10,8.0
+CHEMBL553749,,CHEMBL1195030,7.71,19.6
+CHEMBL555091,,CHEMBL1195654,7.36,43.5
+CHEMBL540841,,CHEMBL1190431,7.62,23.9
+CHEMBL553167,,CHEMBL1194727,7.19,64.0
+CHEMBL79841,,CHEMBL79841,8.81,1.54
+CHEMBL79660,,CHEMBL79660,9.20,0.63
+CHEMBL439765,,CHEMBL439765,8.88,1.32
+CHEMBL20377,,CHEMBL20377,9.15,0.7
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.43,3.7
+CHEMBL543433,,CHEMBL1192228,7.84,14.4
+CHEMBL81500,,CHEMBL81500,9.34,0.46
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL542956,,CHEMBL1191807,7.41,39.3
+CHEMBL554355,,CHEMBL1195346,7.57,27.0
+CHEMBL83430,,CHEMBL83430,7.56,27.7
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.16,70.0
+CHEMBL69972,,CHEMBL69972,7.31,49.0
+CHEMBL302096,,CHEMBL302096,7.72,19.0
+CHEMBL302096,,CHEMBL302096,7.72,19.0
+CHEMBL308433,,CHEMBL308433,7.77,17.0
+CHEMBL308433,,CHEMBL308433,7.37,43.0
+CHEMBL71104,,CHEMBL71104,7.89,13.0
+CHEMBL71104,,CHEMBL71104,7.96,11.0
+CHEMBL303408,,CHEMBL303408,8.00,10.0
+CHEMBL303408,,CHEMBL303408,8.08,8.4
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.68,2.1
+CHEMBL54,HALOPERIDOL,CHEMBL54,9.22,0.6
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.22,6.0
+CHEMBL73169,,CHEMBL73169,7.66,22.0
+CHEMBL73169,,CHEMBL73169,7.60,25.0
+CHEMBL304506,,CHEMBL304506,9.23,0.59
+CHEMBL304506,,CHEMBL304506,8.52,3.0
+CHEMBL87321,,CHEMBL87321,7.68,21.1
+CHEMBL553745,,CHEMBL104945,8.46,3.47
+CHEMBL50112,,CHEMBL50112,8.77,1.7
+CHEMBL311578,,CHEMBL311578,7.15,-7.15
+CHEMBL76944,,CHEMBL76944,8.02,-8.02
+CHEMBL440689,,CHEMBL440689,7.05,-7.05
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.82,1.5
+CHEMBL543134,,CHEMBL105645,7.46,34.3
+CHEMBL544309,,CHEMBL323287,8.35,4.49
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.34,4.6
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.22,60.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.42,38.2
+CHEMBL543134,,CHEMBL105645,7.91,12.2
+CHEMBL540038,,CHEMBL1190041,8.05,8.9
+CHEMBL274490,,CHEMBL274490,8.17,-8.17
+CHEMBL542167,,CHEMBL1191117,9.29,0.51
+CHEMBL308633,,CHEMBL308633,8.30,-8.3
+CHEMBL46326,,CHEMBL46326,8.79,1.64
+CHEMBL78272,,CHEMBL78272,8.11,-8.11
+CHEMBL539938,,CHEMBL539938,8.52,3.02
+CHEMBL545477,,CHEMBL1193985,9.54,0.29
+CHEMBL308085,,CHEMBL308085,7.21,-7.21
+CHEMBL77925,,CHEMBL77925,8.24,-8.24
+CHEMBL76256,,CHEMBL76256,8.19,-8.19
+CHEMBL2093895,,CHEMBL2110041,8.05,9.0
+CHEMBL545249,,CHEMBL317029,8.85,1.4
+CHEMBL539274,,CHEMBL1189682,7.58,26.5
+CHEMBL542167,,CHEMBL1191117,9.70,0.2
+CHEMBL119104,,CHEMBL119104,7.62,23.8
+CHEMBL115956,,CHEMBL115956,7.80,15.7
+CHEMBL324513,,CHEMBL324513,8.11,7.7
+CHEMBL118297,,CHEMBL118297,7.52,30.3
+CHEMBL118405,,CHEMBL118405,8.19,6.4
+CHEMBL118797,,CHEMBL118797,8.37,4.3
+CHEMBL290675,,CHEMBL290675,7.70,20.1
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.21,6.1
+CHEMBL287794,,CHEMBL287794,8.23,5.9
+CHEMBL41313,,CHEMBL41313,8.02,9.6
+CHEMBL38697,,CHEMBL38697,7.38,41.6
+CHEMBL288285,,CHEMBL288285,7.87,13.4
+CHEMBL39284,,CHEMBL39284,7.82,15.2
+CHEMBL290235,,CHEMBL290235,7.53,29.6
+CHEMBL37966,,CHEMBL37966,7.70,19.8
+CHEMBL43398,,CHEMBL43398,8.13,7.4
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.80,1.6
+CHEMBL290032,,CHEMBL290032,7.38,42.2
+CHEMBL289948,,CHEMBL289948,8.25,5.6
+CHEMBL14376,ILOPERIDONE,CHEMBL14376,7.19,64.0
+CHEMBL300150,,CHEMBL300150,7.05,89.0
+CHEMBL59006,,CHEMBL59006,7.28,52.0
+CHEMBL61177,,CHEMBL61177,7.06,88.0
+CHEMBL60814,,CHEMBL60814,7.64,23.0
+CHEMBL57606,,CHEMBL57606,7.92,12.0
+CHEMBL58601,,CHEMBL58601,7.29,51.0
+CHEMBL330865,,CHEMBL330865,7.89,13.0
+CHEMBL543176,,CHEMBL1192000,7.58,26.0
+CHEMBL542392,,CHEMBL1191314,8.74,1.81
+CHEMBL424125,,CHEMBL424125,7.19,64.1
+CHEMBL174300,,CHEMBL174300,7.26,55.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.57,2.7
+CHEMBL367723,,CHEMBL367723,7.06,87.5
+CHEMBL543105,,CHEMBL1191937,8.77,1.7
+CHEMBL331470,,CHEMBL331470,8.40,4.0
+CHEMBL543412,,CHEMBL42228,8.00,10.0
+CHEMBL542873,,CHEMBL1191734,8.93,1.18
+CHEMBL544594,,CHEMBL1193225,8.40,4.0
+CHEMBL553311,,CHEMBL1194793,7.34,46.0
+CHEMBL540289,,CHEMBL1190156,8.75,1.78
+CHEMBL122761,,CHEMBL122761,7.46,35.0
+CHEMBL545451,,CHEMBL1193960,7.90,12.6
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,7.94,11.6
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,7.46,34.5
+CHEMBL20626,,CHEMBL20626,7.55,28.0
+CHEMBL20626,,CHEMBL20626,7.77,17.0
+CHEMBL172363,,CHEMBL172363,7.03,92.8
+CHEMBL542942,,CHEMBL146144,8.36,4.4
+CHEMBL148055,,CHEMBL148055,7.26,54.4
+CHEMBL544524,,CHEMBL1193162,8.57,2.69
+CHEMBL1907648,,CHEMBL1907648,7.35,45.0
+CHEMBL123014,,CHEMBL123014,8.15,7.0
+CHEMBL555790,,CHEMBL1196028,9.47,0.34
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.42,3.77
+CHEMBL444590,,CHEMBL444590,7.17,67.5
+CHEMBL123488,,CHEMBL1180355,7.62,24.0
+CHEMBL331172,,CHEMBL331172,7.89,13.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.25,5.64
+CHEMBL303336,,CHEMBL303336,8.62,2.4
+CHEMBL545058,,CHEMBL1193619,8.05,9.0
+CHEMBL12047,,CHEMBL12047,8.03,9.3
+CHEMBL1907650,,CHEMBL1907650,8.59,2.6
+CHEMBL545285,,CHEMBL1193817,8.40,4.0
+CHEMBL542217,,CHEMBL1191160,7.58,26.0
+CHEMBL544992,,CHEMBL53649,8.60,2.51
+CHEMBL20804,,CHEMBL20804,7.51,31.0
+CHEMBL20976,,CHEMBL20976,8.18,6.6
+CHEMBL545287,,CHEMBL1193819,7.96,11.0
+CHEMBL554437,,CHEMBL1195388,8.70,2.0
+CHEMBL175300,,CHEMBL175300,7.28,52.0
+CHEMBL140406,,CHEMBL140406,7.00,99.1
+CHEMBL543821,,CHEMBL1192565,9.07,0.86
+CHEMBL552572,,CHEMBL1194374,7.72,19.0
+CHEMBL122538,,CHEMBL122538,8.05,9.0
+CHEMBL122165,,CHEMBL1180325,8.70,2.0
+CHEMBL366459,,CHEMBL366459,7.27,53.5
+CHEMBL418484,,CHEMBL418484,9.07,0.86
+CHEMBL542709,,CHEMBL1191591,8.52,3.0
+CHEMBL123937,,CHEMBL1180362,7.96,11.0
+CHEMBL124234,,CHEMBL1180370,8.10,8.0
+CHEMBL172161,,CHEMBL172161,7.48,33.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.87,13.6
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.94,11.6
+CHEMBL20302,,CHEMBL20302,8.18,6.6
+CHEMBL20302,,CHEMBL20302,8.32,4.8
+CHEMBL1907649,,CHEMBL1907649,7.01,97.0
+CHEMBL539288,,CHEMBL1189696,8.00,10.0
+CHEMBL544123,,CHEMBL1192820,8.72,1.9
+CHEMBL124411,,CHEMBL124411,7.58,26.0
+CHEMBL554874,,CHEMBL41830,9.00,1.0
+CHEMBL542462,,CHEMBL1191374,7.82,15.0
+CHEMBL543581,,CHEMBL1192357,8.74,1.83
+CHEMBL539776,,CHEMBL1189923,8.96,1.09
+CHEMBL278585,,CHEMBL278585,7.22,60.0
+CHEMBL278585,,CHEMBL278585,7.21,61.0
+CHEMBL543889,,CHEMBL1192620,8.30,5.0
+CHEMBL26929,,CHEMBL26929,7.22,59.9
+CHEMBL174083,,CHEMBL174083,8.01,9.7
+CHEMBL1907647,,CHEMBL1907647,7.25,56.0
+CHEMBL173190,,CHEMBL173190,7.28,52.2
+CHEMBL20337,,CHEMBL20337,7.66,22.0
+CHEMBL554873,,CHEMBL1195566,7.25,56.0
+CHEMBL555090,,CHEMBL1195653,8.85,1.4
+CHEMBL545691,,CHEMBL1194166,8.66,2.21
+CHEMBL20700,,CHEMBL20700,8.20,6.3
+CHEMBL305461,,CHEMBL305461,8.85,1.4
+CHEMBL289767,,CHEMBL289767,7.33,47.0
+CHEMBL289767,,CHEMBL289767,7.54,29.0
+CHEMBL288933,,CHEMBL288933,7.48,33.0
+CHEMBL288933,,CHEMBL288933,7.14,73.0
+CHEMBL129768,,CHEMBL129768,7.19,64.0
+CHEMBL540013,,CHEMBL1190020,9.30,0.5
+CHEMBL71616,,CHEMBL71616,7.70,20.0
+CHEMBL71883,,CHEMBL71883,8.96,1.1
+CHEMBL61946,CARAMIPHEN,CHEMBL61946,7.58,26.0
+CHEMBL558028,,CHEMBL1196748,7.64,22.8
+CHEMBL39445,,CHEMBL39445,7.00,100.0
+CHEMBL39941,,CHEMBL39941,7.26,55.0
+CHEMBL39941,,CHEMBL39941,7.04,92.0
+CHEMBL291300,,CHEMBL291300,7.44,36.0
+CHEMBL39615,,CHEMBL39615,7.10,79.0
+CHEMBL39615,,CHEMBL39615,7.27,54.0
+CHEMBL287975,,CHEMBL287975,7.02,95.0
+CHEMBL545678,,CHEMBL1194154,8.89,1.3
+CHEMBL40676,,CHEMBL40676,7.00,101.0
+CHEMBL40676,,CHEMBL40676,7.27,54.0
+CHEMBL412640,,CHEMBL412640,7.26,55.0
+CHEMBL412640,,CHEMBL412640,7.50,32.0
+CHEMBL35714,,CHEMBL35714,7.66,22.0
+CHEMBL35714,,CHEMBL35714,7.64,23.0
+CHEMBL72061,,CHEMBL72061,7.54,29.0
+CHEMBL42228,,CHEMBL42228,8.00,10.0
+CHEMBL539245,,CHEMBL1189655,7.11,76.9
+CHEMBL39713,,CHEMBL39713,7.80,16.0
+CHEMBL39713,,CHEMBL39713,7.17,68.0
+CHEMBL71773,,CHEMBL71773,7.92,12.0
+CHEMBL338181,,CHEMBL338181,8.40,4.0
+CHEMBL544516,,CHEMBL1193154,8.40,3.95
+CHEMBL537989,,CHEMBL1189053,7.20,62.8
+CHEMBL38809,,CHEMBL38809,7.28,52.0
+CHEMBL38809,,CHEMBL38809,7.12,75.0
+CHEMBL126437,,CHEMBL126437,7.64,23.0
+CHEMBL339033,,CHEMBL339033,7.49,32.5
+CHEMBL68905,,CHEMBL68905,7.54,29.0
+CHEMBL304283,,CHEMBL304283,8.89,1.3
+CHEMBL432859,,CHEMBL432859,7.62,24.0
+CHEMBL432859,,CHEMBL432859,7.46,35.0
+CHEMBL418239,,CHEMBL418239,7.40,40.0
+CHEMBL37138,,CHEMBL37138,7.22,60.0
+CHEMBL37138,,CHEMBL37138,7.20,63.0
+CHEMBL72045,,CHEMBL72045,8.72,1.9
+CHEMBL302087,,CHEMBL302087,10.05,0.09
+CHEMBL304079,,CHEMBL304079,10.15,0.07
+CHEMBL130356,,CHEMBL130356,8.00,10.0
+CHEMBL554628,,CHEMBL1195461,8.84,1.44
+CHEMBL543808,,CHEMBL1192555,8.99,1.02
+CHEMBL555580,,CHEMBL1195916,8.56,2.78
+CHEMBL37470,,CHEMBL37470,7.03,93.0
+CHEMBL340401,,CHEMBL340401,8.15,7.0
+CHEMBL36491,,CHEMBL36491,7.14,72.0
+CHEMBL36491,,CHEMBL36491,7.14,73.0
+CHEMBL67808,,CHEMBL67808,9.89,0.13
+CHEMBL125913,,CHEMBL125913,7.60,25.0
+CHEMBL40113,,CHEMBL40113,7.08,84.0
+CHEMBL126684,,CHEMBL126684,7.18,66.0
+CHEMBL541284,,CHEMBL1190617,10.30,0.05
+CHEMBL541284,,CHEMBL1190617,10.30,50.0
+CHEMBL556409,,CHEMBL1196305,9.06,0.88
+CHEMBL38565,,CHEMBL38565,7.02,95.0
+CHEMBL38952,,CHEMBL38952,7.80,16.0
+CHEMBL38952,,CHEMBL38952,7.72,19.0
+CHEMBL101664,,CHEMBL101664,7.30,50.0
+CHEMBL325238,,CHEMBL325238,9.00,1.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,9.48,0.33
+CHEMBL54,HALOPERIDOL,CHEMBL54,9.22,0.6
+CHEMBL40278,,CHEMBL40278,7.07,86.0
+CHEMBL40278,,CHEMBL40278,7.11,77.0
+CHEMBL288466,,CHEMBL288466,7.58,26.0
+CHEMBL288466,,CHEMBL288466,7.42,38.0
+CHEMBL127067,,CHEMBL127067,7.00,100.0
+CHEMBL544041,,CHEMBL1192752,8.87,1.34
+CHEMBL412429,,CHEMBL412429,7.27,54.0
+CHEMBL40115,,CHEMBL40115,7.21,61.0
+CHEMBL40115,,CHEMBL40115,7.30,50.0
+CHEMBL129159,,CHEMBL129159,8.74,1.8
+CHEMBL37256,,CHEMBL37256,7.29,51.0
+CHEMBL37256,,CHEMBL37256,7.47,34.0
+CHEMBL39809,,CHEMBL39809,7.35,45.0
+CHEMBL39809,,CHEMBL39809,7.16,70.0
+CHEMBL305218,,CHEMBL305218,9.10,0.8
+CHEMBL69256,,CHEMBL69256,9.32,0.48
+CHEMBL542131,,CHEMBL1191085,9.57,0.27
+CHEMBL440606,,CHEMBL440606,7.00,99.0
+CHEMBL40897,,CHEMBL40897,7.08,84.0
+CHEMBL40897,,CHEMBL40897,7.06,88.0
+CHEMBL290612,,CHEMBL290612,7.17,67.0
+CHEMBL290612,,CHEMBL290612,7.04,92.0
+CHEMBL303263,,CHEMBL303263,9.18,0.66
+CHEMBL19544,,CHEMBL19544,9.60,0.25
+CHEMBL129237,,CHEMBL129237,8.66,2.2
+CHEMBL539252,,CHEMBL1189662,8.92,1.21
+CHEMBL40016,,CHEMBL40016,7.24,58.0
+CHEMBL39001,,CHEMBL39001,7.31,49.0
+CHEMBL39001,,CHEMBL39001,7.31,49.0
+CHEMBL282567,PROADIFEN,CHEMBL282567,7.77,17.0
+CHEMBL71155,,CHEMBL71155,9.05,0.89
+CHEMBL19355,,CHEMBL19355,9.77,0.17
+CHEMBL130357,,CHEMBL130357,8.10,8.0
+CHEMBL39233,,CHEMBL39233,7.12,76.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.68,2.1
+CHEMBL38862,,CHEMBL38862,7.44,36.0
+CHEMBL38862,,CHEMBL38862,7.37,43.0
+CHEMBL39583,,CHEMBL39583,7.06,88.0
+CHEMBL39583,,CHEMBL39583,7.34,46.0
+CHEMBL129452,,CHEMBL129452,9.30,0.5
+CHEMBL542380,,CHEMBL1191304,9.21,0.61
+CHEMBL289896,,CHEMBL289896,7.28,53.0
+CHEMBL542630,,CHEMBL1191521,9.29,0.51
+CHEMBL38323,,CHEMBL38323,7.04,91.0
+CHEMBL38323,,CHEMBL38323,7.00,100.0
+CHEMBL38547,,CHEMBL38547,7.10,80.0
+CHEMBL38547,,CHEMBL38547,7.03,93.0
+CHEMBL289702,,CHEMBL289702,7.60,25.0
+CHEMBL289702,,CHEMBL289702,7.64,23.0
+CHEMBL537464,,CHEMBL1188839,9.19,0.65
+CHEMBL38665,,CHEMBL38665,7.04,91.0
+CHEMBL37150,,CHEMBL37150,7.29,51.0
+CHEMBL37150,,CHEMBL37150,7.26,55.0
+CHEMBL545216,,CHEMBL1193754,8.82,1.51
+CHEMBL291132,,CHEMBL291132,7.20,63.0
+CHEMBL291132,,CHEMBL291132,7.03,94.0
+CHEMBL38294,,CHEMBL38294,7.44,36.0
+CHEMBL38294,,CHEMBL38294,7.19,65.0
+CHEMBL419161,,CHEMBL419161,7.45,35.2
+CHEMBL103662,,CHEMBL103662,7.15,71.5
+CHEMBL560,,CHEMBL560,7.08,83.1
+CHEMBL328608,,CHEMBL328608,7.15,70.6
+CHEMBL318877,,CHEMBL318877,9.17,0.67
+CHEMBL103458,,CHEMBL103458,8.60,2.49
+CHEMBL103715,,CHEMBL103715,7.16,68.6
+CHEMBL100463,,CHEMBL100463,8.76,1.72
+CHEMBL102860,,CHEMBL102860,7.43,37.4
+CHEMBL318954,,CHEMBL318954,8.58,2.62
+CHEMBL103455,,CHEMBL103455,8.76,1.75
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL20337,,CHEMBL20337,7.66,22.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.51,31.0
+CHEMBL25858,,CHEMBL25858,7.70,20.0
+CHEMBL79437,,CHEMBL79437,7.38,42.0
+CHEMBL78306,,CHEMBL78306,7.23,59.0
+CHEMBL315051,,CHEMBL315051,7.54,29.0
+CHEMBL276500,,CHEMBL276500,7.11,78.5
+CHEMBL78777,,CHEMBL78777,8.10,8.0
+CHEMBL60859,BMY-14802,CHEMBL60859,7.08,83.0
+CHEMBL280243,,CHEMBL280243,7.06,88.0
+CHEMBL55318,,CHEMBL55318,7.08,83.2
+CHEMBL91791,,CHEMBL91791,7.04,92.0
+CHEMBL309603,,CHEMBL309603,7.37,43.0
+CHEMBL91713,,CHEMBL91713,7.27,54.0
+CHEMBL20768,,CHEMBL20768,8.17,6.8
+CHEMBL298758,,CHEMBL298758,7.92,12.0
+CHEMBL296601,,CHEMBL296601,8.10,7.9
+CHEMBL81070,,CHEMBL81070,7.48,33.0
+CHEMBL19541,,CHEMBL19541,8.20,6.3
+CHEMBL129768,,CHEMBL129768,7.55,28.0
+CHEMBL129768,,CHEMBL129768,7.37,43.0
+CHEMBL129768,,CHEMBL129768,7.50,32.0
+CHEMBL310170,,CHEMBL310170,7.85,14.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.30,5.0
+CHEMBL20626,,CHEMBL20626,7.66,21.8
+CHEMBL55317,,CHEMBL55317,7.56,27.4
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.54,28.8
+CHEMBL60547,,CHEMBL60547,7.09,81.0
+CHEMBL19082,,CHEMBL19082,7.75,17.6
+CHEMBL312600,,CHEMBL312600,7.89,13.0
+CHEMBL281619,,CHEMBL281619,8.22,6.0
+CHEMBL20807,,CHEMBL20807,7.98,10.4
+CHEMBL90508,,CHEMBL90508,7.40,40.0
+CHEMBL19841,,CHEMBL19841,8.41,3.9
+CHEMBL53253,,CHEMBL53253,8.21,6.2
+CHEMBL293952,,CHEMBL293952,8.08,8.3
+CHEMBL88660,,CHEMBL88660,7.22,60.0
+CHEMBL53170,,CHEMBL53170,8.02,9.5
+CHEMBL89344,,CHEMBL89344,7.04,91.0
+CHEMBL54808,,CHEMBL54808,7.57,27.1
+CHEMBL88932,,CHEMBL88932,7.12,75.0
+CHEMBL82078,,CHEMBL82078,7.02,96.0
+CHEMBL91628,,CHEMBL91628,7.09,82.0
+CHEMBL19802,,CHEMBL19802,8.06,8.8
+CHEMBL64751,,CHEMBL64751,7.66,21.8
+CHEMBL60133,,CHEMBL60133,7.82,15.1
+CHEMBL2112939,,CHEMBL2112939,7.21,62.06
+CHEMBL62638,,CHEMBL62638,7.55,28.0
+CHEMBL53038,,CHEMBL53038,7.75,18.0
+CHEMBL2112938,,CHEMBL2112938,7.66,21.66
+CHEMBL167932,,CHEMBL167932,7.73,18.6
+CHEMBL141278,,CHEMBL141278,7.99,10.2
+CHEMBL138103,,CHEMBL138103,7.91,12.4
+CHEMBL539782,,CHEMBL83430,7.05,90.0
+CHEMBL539782,,CHEMBL83430,7.48,33.0
+CHEMBL138809,,CHEMBL138809,8.94,1.14
+CHEMBL310003,,CHEMBL310003,8.30,5.0
+CHEMBL142755,,CHEMBL142755,8.96,1.11
+CHEMBL142297,,CHEMBL142297,8.84,1.46
+CHEMBL347514,,CHEMBL347514,9.21,0.62
+CHEMBL409984,,CHEMBL409984,8.13,7.4
+CHEMBL138458,,CHEMBL138458,8.68,2.07
+CHEMBL140030,,CHEMBL140030,7.02,95.3
+CHEMBL310170,,CHEMBL310170,7.86,13.8
+CHEMBL310170,,CHEMBL310170,7.36,44.0
+CHEMBL310003,,CHEMBL310003,8.40,4.0
+CHEMBL141209,,CHEMBL141209,8.89,1.29
+CHEMBL138457,,CHEMBL138457,7.88,13.3
+CHEMBL309603,,CHEMBL309603,7.23,59.0
+CHEMBL309603,,CHEMBL309603,7.08,84.0
+CHEMBL553074,,CHEMBL1194667,7.80,16.0
+CHEMBL138083,,CHEMBL138083,9.16,0.69
+CHEMBL78488,,CHEMBL78488,7.52,30.0
+CHEMBL78488,,CHEMBL78488,7.70,20.0
+CHEMBL553817,,CHEMBL1195081,7.75,18.0
+CHEMBL79164,,CHEMBL79164,7.92,12.0
+CHEMBL79164,,CHEMBL79164,7.82,15.0
+CHEMBL81824,,CHEMBL81824,7.43,37.0
+CHEMBL81824,,CHEMBL81824,7.41,39.0
+CHEMBL312588,,CHEMBL312588,7.03,94.0
+CHEMBL553535,,CHEMBL1194915,7.80,16.0
+CHEMBL553535,,CHEMBL1194915,7.96,11.0
+CHEMBL79665,,CHEMBL79665,7.60,25.0
+CHEMBL20377,,CHEMBL20377,9.47,0.34
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.45,3.58
+CHEMBL143089,,CHEMBL143089,9.42,0.38
+CHEMBL545011,,CHEMBL1193582,7.80,16.0
+CHEMBL422826,,CHEMBL422826,8.86,1.39
+CHEMBL143360,,CHEMBL143360,8.90,1.26
+CHEMBL143249,,CHEMBL143249,7.70,20.18
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.50,32.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.42,38.0
+CHEMBL356688,,CHEMBL356688,9.77,0.17
+CHEMBL142596,,CHEMBL142596,9.08,0.84
+CHEMBL358109,,CHEMBL358109,8.83,1.47
+CHEMBL138286,,CHEMBL138286,7.53,29.3
+CHEMBL138560,,CHEMBL138560,7.36,43.7
+CHEMBL137979,,CHEMBL137979,8.73,1.87
+CHEMBL78306,,CHEMBL78306,7.23,58.8
+CHEMBL553896,,CHEMBL55970,8.22,6.0
+CHEMBL553896,,CHEMBL55970,8.30,5.0
+CHEMBL540291,,CHEMBL1190158,7.82,15.0
+CHEMBL422834,,CHEMBL422834,9.08,0.83
+CHEMBL78777,,CHEMBL78777,8.08,8.3
+CHEMBL78777,,CHEMBL78777,7.52,30.0
+CHEMBL554972,,CHEMBL1193582,7.66,22.0
+CHEMBL81773,,CHEMBL81773,8.11,7.7
+CHEMBL141945,,CHEMBL141945,8.87,1.35
+CHEMBL81867,,CHEMBL81867,7.15,71.0
+CHEMBL81867,,CHEMBL81867,7.32,48.0
+CHEMBL79437,,CHEMBL79437,7.44,36.0
+CHEMBL79186,,CHEMBL79186,7.68,21.0
+CHEMBL79186,,CHEMBL79186,7.64,23.0
+CHEMBL81835,,CHEMBL81835,8.10,8.0
+CHEMBL81835,,CHEMBL81835,8.10,8.0
+CHEMBL78637,,CHEMBL78637,7.16,70.0
+CHEMBL78637,,CHEMBL78637,7.38,42.0
+CHEMBL141501,,CHEMBL141501,9.29,0.51
+CHEMBL143178,,CHEMBL143178,9.14,0.73
+CHEMBL142336,,CHEMBL142336,8.75,1.76
+CHEMBL543597,,CHEMBL1192373,7.89,13.0
+CHEMBL543597,,CHEMBL1192373,8.10,8.0
+CHEMBL82078,,CHEMBL82078,7.11,77.0
+CHEMBL141893,,CHEMBL141893,7.93,11.7
+CHEMBL142353,,CHEMBL142353,8.68,2.09
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.66,2.2
+CHEMBL81773,,CHEMBL81773,8.22,6.0
+CHEMBL141743,,CHEMBL141743,8.18,6.64
+CHEMBL138533,,CHEMBL138533,8.13,7.33
+CHEMBL312600,,CHEMBL312600,7.85,14.0
+CHEMBL312600,,CHEMBL312600,7.80,16.0
+CHEMBL81461,,CHEMBL81461,8.22,6.0
+CHEMBL556021,,CHEMBL1196158,7.68,21.1
+CHEMBL142406,,CHEMBL142406,8.24,5.78
+CHEMBL79436,,CHEMBL79436,7.43,37.0
+CHEMBL79436,,CHEMBL79436,7.50,32.0
+CHEMBL137990,,CHEMBL137990,8.66,2.17
+CHEMBL142700,,CHEMBL142700,9.59,0.26
+CHEMBL343793,,CHEMBL343793,7.67,21.3
+CHEMBL280243,,CHEMBL280243,7.19,65.0
+CHEMBL138102,,CHEMBL138102,8.23,5.83
+CHEMBL553347,,CHEMBL1194817,8.28,5.2
+CHEMBL312318,,CHEMBL312318,7.05,90.0
+CHEMBL312318,,CHEMBL312318,7.18,66.0
+CHEMBL146723,,CHEMBL146723,7.25,56.0
+CHEMBL358321,,CHEMBL358321,7.58,26.0
+CHEMBL144469,,CHEMBL144469,8.10,7.9
+CHEMBL356582,,CHEMBL356582,8.92,1.2
+CHEMBL148008,,CHEMBL148008,8.59,2.6
+CHEMBL147575,,CHEMBL147575,7.85,14.0
+CHEMBL148112,,CHEMBL148112,8.59,2.6
+CHEMBL359209,,CHEMBL359209,7.89,13.0
+CHEMBL146999,,CHEMBL146999,8.39,4.1
+CHEMBL146411,,CHEMBL146411,8.09,8.2
+CHEMBL147208,,CHEMBL147208,7.07,86.0
+CHEMBL440173,,CHEMBL440173,8.39,4.1
+CHEMBL147098,,CHEMBL147098,8.70,2.0
+CHEMBL148377,,CHEMBL148377,8.12,7.6
+CHEMBL358116,,CHEMBL358116,8.85,1.4
+CHEMBL147370,,CHEMBL147370,8.32,4.8
+CHEMBL144741,,CHEMBL144741,9.14,0.72
+CHEMBL146546,,CHEMBL146546,8.28,5.3
+CHEMBL342809,,CHEMBL342809,9.49,0.32
+CHEMBL146294,,CHEMBL146294,7.93,11.8
+CHEMBL343654,,CHEMBL343654,8.66,2.2
+CHEMBL147779,,CHEMBL147779,8.41,3.9
+CHEMBL147485,,CHEMBL147485,7.55,28.0
+CHEMBL144490,,CHEMBL144490,8.89,1.3
+CHEMBL154502,,CHEMBL154502,7.69,20.5
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL139774,,CHEMBL139774,7.83,14.8
+CHEMBL112457,,CHEMBL1180057,7.24,58.0
+CHEMBL140618,,CHEMBL140618,9.02,0.96
+CHEMBL143660,,CHEMBL143660,7.93,11.7
+CHEMBL116233,,CHEMBL1180187,7.82,15.0
+CHEMBL348046,,CHEMBL348046,7.78,16.53
+CHEMBL143103,,CHEMBL143103,9.17,0.67
+CHEMBL143585,,CHEMBL143585,8.24,5.74
+CHEMBL112413,,CHEMBL1180053,8.59,2.6
+CHEMBL111964,,CHEMBL1180033,8.40,4.0
+CHEMBL115934,,CHEMBL1180175,8.60,2.5
+CHEMBL153193,,CHEMBL153193,8.54,2.89
+CHEMBL152072,,CHEMBL152072,7.89,12.83
+CHEMBL143103,,CHEMBL143103,9.17,0.67
+CHEMBL356486,,CHEMBL356486,7.44,36.5
+CHEMBL141070,,CHEMBL141070,7.08,82.9
+CHEMBL111909,,CHEMBL580142,7.80,16.0
+CHEMBL143486,,CHEMBL143486,7.71,19.6
+CHEMBL113282,,CHEMBL1180091,7.66,22.0
+CHEMBL346340,,CHEMBL346340,7.78,16.76
+CHEMBL154039,,CHEMBL154039,8.84,1.45
+CHEMBL139900,,CHEMBL139900,8.47,3.36
+CHEMBL157335,,CHEMBL157335,9.01,0.97
+CHEMBL157390,,CHEMBL157390,8.68,2.08
+CHEMBL152140,,CHEMBL152140,7.57,27.22
+CHEMBL112170,,CHEMBL1180044,8.22,6.0
+CHEMBL350230,,CHEMBL350230,7.33,46.98
+CHEMBL341874,,CHEMBL341874,7.57,26.7
+CHEMBL305187,IFENPRODIL,CHEMBL305187,8.41,3.9
+CHEMBL325063,,CHEMBL1183940,8.30,5.0
+CHEMBL560,,CHEMBL560,7.08,83.1
+CHEMBL560,,CHEMBL560,7.44,36.5
+CHEMBL112957,,CHEMBL1180083,8.30,5.0
+CHEMBL320801,,CHEMBL1183846,8.15,7.0
+CHEMBL346456,,CHEMBL346456,8.62,2.37
+CHEMBL336235,,CHEMBL336235,7.50,31.7
+CHEMBL113449,,CHEMBL1180095,8.10,8.0
+CHEMBL344813,,CHEMBL344813,7.78,16.6
+CHEMBL152652,,CHEMBL152652,8.51,3.11
+CHEMBL143050,,CHEMBL143050,7.74,18.4
+CHEMBL423548,,CHEMBL423548,7.76,17.3
+CHEMBL154452,,CHEMBL154452,8.66,2.19
+CHEMBL153341,,CHEMBL153341,8.81,1.53
+CHEMBL346665,,CHEMBL346665,7.92,12.0
+CHEMBL544533,,CHEMBL1193170,8.40,4.0
+CHEMBL542400,,CHEMBL1191322,9.00,1.0
+CHEMBL552910,,CHEMBL1194591,7.89,13.0
+CHEMBL538755,,CHEMBL1189437,8.30,5.0
+CHEMBL542647,,CHEMBL1191537,7.16,70.0
+CHEMBL545697,,CHEMBL1194172,7.52,30.0
+CHEMBL543344,,CHEMBL1192158,8.40,4.0
+CHEMBL539526,,CHEMBL1189807,8.00,10.0
+CHEMBL542399,,CHEMBL1191321,7.47,34.0
+CHEMBL539007,,CHEMBL1189563,8.40,4.0
+CHEMBL543823,,CHEMBL1192567,8.15,7.0
+CHEMBL543822,,CHEMBL1192566,8.22,6.0
+CHEMBL308284,,CHEMBL308284,8.77,1.7
+CHEMBL75036,,CHEMBL75036,7.11,78.0
+CHEMBL308529,,CHEMBL308529,8.89,1.3
+CHEMBL122334,HYDANTOIN,CHEMBL122334,7.21,62.0
+CHEMBL75300,,CHEMBL75300,7.10,80.0
+CHEMBL74729,,CHEMBL74729,8.27,5.4
+CHEMBL308373,,CHEMBL308373,7.21,62.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL75037,,CHEMBL75037,7.79,16.3
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.55,28.0
+CHEMBL73529,,CHEMBL73529,7.19,64.0
+CHEMBL73824,,CHEMBL73824,8.04,9.2
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.43,3.7
+CHEMBL310240,,CHEMBL310240,9.26,0.55
+CHEMBL309062,,CHEMBL309062,9.01,0.98
+CHEMBL78100,,CHEMBL78100,8.41,3.9
+CHEMBL74753,,CHEMBL74753,7.10,80.0
+CHEMBL70807,,CHEMBL70807,8.92,1.2
+CHEMBL311621,,CHEMBL311621,8.80,1.6
+CHEMBL306586,,CHEMBL306586,8.85,1.4
+CHEMBL20377,,CHEMBL20377,8.68,2.1
+CHEMBL121919,"5,6,7,8-TETRAHYDROISOQUINOLINE",CHEMBL121919,7.25,56.0
+CHEMBL74031,,CHEMBL74031,8.77,1.7
+CHEMBL20517,,CHEMBL20517,8.89,1.3
+CHEMBL277462,,CHEMBL277462,9.12,0.76
+CHEMBL20377,,CHEMBL20377,9.47,0.34
+CHEMBL20768,,CHEMBL20768,8.47,3.4
+CHEMBL19315,,CHEMBL19315,9.49,0.32
+CHEMBL19355,,CHEMBL19355,9.77,0.17
+CHEMBL20976,,CHEMBL20976,8.13,7.4
+CHEMBL278525,,CHEMBL278525,8.17,6.8
+CHEMBL19544,,CHEMBL19544,9.60,0.25
+CHEMBL21023,,CHEMBL21023,7.93,11.7
+CHEMBL281619,,CHEMBL281619,8.01,9.7
+CHEMBL283775,,CHEMBL283775,7.95,11.3
+CHEMBL20188,,CHEMBL20188,9.32,0.48
+CHEMBL434393,,CHEMBL434393,8.57,2.7
+CHEMBL20807,,CHEMBL20807,7.59,25.7
+CHEMBL20153,,CHEMBL20153,9.32,0.48
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.39,41.0
+CHEMBL19541,,CHEMBL19541,7.51,31.0
+CHEMBL19985,,CHEMBL19985,7.52,30.0
+CHEMBL20337,,CHEMBL20337,7.97,10.8
+CHEMBL280111,,CHEMBL280111,8.59,2.6
+CHEMBL280160,,CHEMBL280160,9.05,0.9
+CHEMBL277466,,CHEMBL277466,8.07,8.6
+CHEMBL19850,,CHEMBL19850,8.64,2.3
+CHEMBL20626,,CHEMBL20626,7.41,39.0
+CHEMBL19803,,CHEMBL19803,7.75,17.7
+CHEMBL20302,,CHEMBL20302,7.79,16.4
+CHEMBL19797,,CHEMBL19797,8.82,1.5
+CHEMBL19628,,CHEMBL19628,8.02,9.6
+CHEMBL20355,,CHEMBL20355,7.32,48.2
+CHEMBL19841,,CHEMBL19841,8.06,8.8
+CHEMBL20537,,CHEMBL20537,7.71,19.4
+CHEMBL19314,,CHEMBL19314,9.72,0.19
+CHEMBL19878,,CHEMBL19878,8.24,5.7
+CHEMBL19802,,CHEMBL19802,7.92,12.0
+CHEMBL20036,,CHEMBL20036,9.59,0.26
+CHEMBL20700,,CHEMBL20700,9.30,0.5
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.77,1.7
+CHEMBL19638,,CHEMBL19638,9.55,0.28
+CHEMBL19637,,CHEMBL19637,9.42,0.38
+CHEMBL416730,,CHEMBL416730,9.09,0.81
+CHEMBL19082,,CHEMBL19082,8.03,9.3
+CHEMBL20804,,CHEMBL20804,7.36,43.7
+CHEMBL20348,,CHEMBL20348,9.54,0.29
+CHEMBL278585,,CHEMBL278585,7.87,13.6
+CHEMBL19934,,CHEMBL19934,7.08,83.0
+CHEMBL436542,,CHEMBL436542,8.24,5.8
+CHEMBL20166,,CHEMBL20166,7.94,11.4
+CHEMBL317029,,CHEMBL317029,9.15,-9.15
+CHEMBL49,BUSPIRONE,CHEMBL49,7.44,-7.44
+CHEMBL134109,,CHEMBL134109,8.35,-8.35
+CHEMBL26320,,CHEMBL26320,7.77,17.0
+CHEMBL51,KETANSERIN,CHEMBL51,9.00,-9.0
+CHEMBL105645,,CHEMBL105645,8.21,-8.21
+CHEMBL104622,,CHEMBL104622,7.07,-7.07
+CHEMBL140054,,CHEMBL140054,8.07,8.6
+CHEMBL143407,,CHEMBL143407,8.07,8.5
+CHEMBL415284,NALORPHINE,CHEMBL415284,7.03,93.0
+CHEMBL415284,NALORPHINE,CHEMBL415284,7.32,48.0
+CHEMBL348432,,CHEMBL348432,8.07,8.5
+CHEMBL104945,,CHEMBL104945,9.28,-9.28
+CHEMBL42055,E-FLUPENTIXOL,CHEMBL42055,7.83,-7.83
+CHEMBL346409,,CHEMBL346409,9.30,0.5
+CHEMBL142518,,CHEMBL142518,7.19,65.0
+CHEMBL105645,,CHEMBL105645,7.77,-7.77
+CHEMBL134215,,CHEMBL134215,7.89,-7.89
+CHEMBL133847,,CHEMBL133847,7.23,-7.23
+CHEMBL142041,,CHEMBL142041,7.47,34.0
+CHEMBL104945,,CHEMBL104945,8.76,-8.76
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.75,18.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.55,28.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.28,53.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.82,15.0
+CHEMBL104622,,CHEMBL104622,7.76,-7.76
+CHEMBL54661,Z-FLUPENTIXOL,CHEMBL54661,8.65,-8.65
+CHEMBL1255588,,CHEMBL1255588,7.28,-7.28
+CHEMBL104444,,CHEMBL104444,7.10,-7.1
+CHEMBL104945,,CHEMBL104945,8.35,-8.35
+CHEMBL141876,,CHEMBL141876,7.11,78.0
+CHEMBL320190,,CHEMBL320190,8.26,-8.26
+CHEMBL357008,,CHEMBL357008,7.08,83.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.10,8.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.30,5.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.77,17.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.40,4.0
+CHEMBL358758,,CHEMBL358758,7.17,67.0
+CHEMBL323287,,CHEMBL323287,8.65,-8.65
+CHEMBL281594,VANOXERINE,CHEMBL281594,9.00,-9.0
+CHEMBL317029,,CHEMBL317029,9.54,-9.54
+CHEMBL87321,,CHEMBL87321,7.98,-7.98
+CHEMBL60859,BMY-14802,CHEMBL60859,7.15,71.0
+CHEMBL142953,,CHEMBL142953,7.58,26.0
+CHEMBL556831,,CHEMBL1196414,7.92,12.0
+CHEMBL542395,,CHEMBL1191317,8.52,3.0
+CHEMBL543343,,CHEMBL1192157,7.46,35.0
+CHEMBL542877,,CHEMBL1191738,7.50,32.0
+CHEMBL152426,,CHEMBL152426,8.60,2.5
+CHEMBL545693,,CHEMBL1194168,7.62,24.0
+CHEMBL55873,,CHEMBL55873,8.15,7.0
+CHEMBL540285,,CHEMBL1190152,7.36,44.0
+CHEMBL356909,,CHEMBL356909,8.44,3.6
+CHEMBL276500,,CHEMBL276500,7.12,76.0
+CHEMBL553784,,CHEMBL1195060,8.22,6.0
+CHEMBL293059,,CHEMBL293059,8.10,8.0
+CHEMBL543587,,CHEMBL1192363,7.80,16.0
+CHEMBL553372,,CHEMBL1194838,7.80,16.0
+CHEMBL543344,,CHEMBL1192158,8.40,4.0
+CHEMBL349793,,CHEMBL349793,7.58,26.6
+CHEMBL152478,,CHEMBL152478,8.27,5.4
+CHEMBL542398,,CHEMBL1191320,8.70,2.0
+CHEMBL346153,,CHEMBL346153,8.54,2.9
+CHEMBL142596,,CHEMBL142596,8.66,2.2
+CHEMBL556035,,CHEMBL1196171,7.52,30.0
+CHEMBL554415,,CHEMBL1195367,8.40,4.0
+CHEMBL442356,,CHEMBL442356,8.49,3.2
+CHEMBL299499,,CHEMBL299499,8.55,2.8
+CHEMBL545695,,CHEMBL1194170,8.40,4.0
+CHEMBL301623,,CHEMBL301623,7.77,17.0
+CHEMBL154397,,CHEMBL154397,8.70,2.0
+CHEMBL20377,,CHEMBL20377,8.68,2.1
+CHEMBL81602,,CHEMBL81602,8.51,3.1
+CHEMBL552687,,CHEMBL1194466,8.40,4.0
+CHEMBL543591,,CHEMBL1192367,7.58,26.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL55970,,CHEMBL55970,8.21,6.2
+CHEMBL540799,,CHEMBL1190393,7.77,17.0
+CHEMBL151136,,CHEMBL151136,8.37,4.3
+CHEMBL292668,,CHEMBL292668,8.00,10.0
+CHEMBL553500,,CHEMBL1194885,9.00,1.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.43,3.7
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.55,28.0
+CHEMBL559021,,CHEMBL1197025,7.05,90.0
+CHEMBL540538,,CHEMBL1190268,8.05,9.0
+CHEMBL292450,,CHEMBL292450,8.05,9.0
+CHEMBL54407,,CHEMBL54407,8.15,7.0
+CHEMBL413257,,CHEMBL413257,7.89,13.0
+CHEMBL544996,,CHEMBL1193567,9.00,1.0
+CHEMBL358109,,CHEMBL358109,8.62,2.4
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.30,5.0
+CHEMBL545222,,CHEMBL1193760,9.00,1.0
+CHEMBL152618,,CHEMBL152618,8.05,8.9
+CHEMBL153758,,CHEMBL153758,8.22,6.0
+CHEMBL152057,,CHEMBL152057,8.60,2.5
+CHEMBL55769,,CHEMBL55769,8.10,8.0
+CHEMBL77906,,CHEMBL77906,9.44,0.36
+CHEMBL320828,,CHEMBL320828,8.62,2.4
+CHEMBL73818,,CHEMBL73818,8.37,4.3
+CHEMBL119047,,CHEMBL119047,7.06,88.0
+CHEMBL75444,,CHEMBL75444,8.04,9.04
+CHEMBL77220,,CHEMBL77220,8.81,1.54
+CHEMBL285203,,CHEMBL285203,7.27,54.0
+CHEMBL424606,,CHEMBL424606,8.88,1.33
+CHEMBL117898,,CHEMBL117898,7.55,28.0
+CHEMBL419822,,CHEMBL419822,8.61,2.45
+CHEMBL333840,,CHEMBL333840,7.09,81.0
+CHEMBL119811,,CHEMBL119811,7.26,55.0
+CHEMBL115582,,CHEMBL115582,7.18,66.0
+CHEMBL53325,,CHEMBL53325,7.87,13.6
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.52,3.05
+CHEMBL117898,,CHEMBL117898,7.34,46.0
+CHEMBL316988,,CHEMBL316988,8.22,6.0
+CHEMBL321329,,CHEMBL321329,7.95,11.2
+CHEMBL430466,,CHEMBL430466,7.19,64.9
+CHEMBL75878,,CHEMBL75878,9.51,0.31
+CHEMBL73854,,CHEMBL73854,8.26,5.54
+CHEMBL75372,,CHEMBL75372,8.62,2.4
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.56,27.4
+CHEMBL54,HALOPERIDOL,CHEMBL54,9.36,0.44
+CHEMBL75286,,CHEMBL75286,8.80,1.57
+CHEMBL104834,,CHEMBL104834,9.31,0.49
+CHEMBL2303661,,CHEMBL2303661,8.70,2.0
+CHEMBL117898,,CHEMBL117898,7.55,28.0
+CHEMBL306365,,CHEMBL306365,8.82,1.52
+CHEMBL74811,,CHEMBL74811,8.51,3.07
+CHEMBL306318,,CHEMBL306318,8.60,2.53
+CHEMBL76758,,CHEMBL76758,10.44,0.036
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.55,28.2
+CHEMBL74803,,CHEMBL74803,8.92,1.2
+CHEMBL77817,,CHEMBL77817,8.54,2.87
+CHEMBL73633,,CHEMBL73633,8.78,1.67
+CHEMBL75608,,CHEMBL75608,9.21,0.61
+CHEMBL75555,,CHEMBL75555,8.66,2.17
+CHEMBL77812,,CHEMBL77812,8.87,1.35
+CHEMBL116711,,CHEMBL116711,7.27,54.0
+CHEMBL116711,,CHEMBL116711,7.12,76.0
+CHEMBL103065,,CHEMBL103065,8.51,3.1
+CHEMBL325168,,CHEMBL325168,7.36,44.0
+CHEMBL101909,,CHEMBL101909,8.91,1.24
+CHEMBL35711,,CHEMBL35711,7.42,38.0
+CHEMBL116207,,CHEMBL116207,7.07,85.0
+CHEMBL74499,,CHEMBL74499,8.52,3.0
+CHEMBL307839,,CHEMBL307839,8.54,2.87
+CHEMBL309064,,CHEMBL309064,9.40,0.4
+CHEMBL74723,,CHEMBL74723,8.27,5.4
+CHEMBL103849,,CHEMBL103849,7.42,38.0
+CHEMBL117567,,CHEMBL117567,7.07,86.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.74,1.8
+CHEMBL102695,,CHEMBL102695,8.46,3.5
+CHEMBL177829,,CHEMBL177829,9.15,0.7
+CHEMBL177829,,CHEMBL177829,8.35,4.5
+CHEMBL38130,,CHEMBL38130,7.60,25.0
+CHEMBL74858,,CHEMBL74858,8.80,1.57
+CHEMBL74080,,CHEMBL74080,8.84,1.45
+CHEMBL75480,,CHEMBL75480,8.67,2.16
+CHEMBL308816,,CHEMBL308816,8.97,1.08
+CHEMBL106437,,CHEMBL106437,8.89,1.3
+CHEMBL38152,,CHEMBL38152,7.43,37.0
+CHEMBL306133,,CHEMBL306133,9.66,0.22
+CHEMBL119867,,CHEMBL119867,7.68,21.0
+CHEMBL119867,,CHEMBL119867,7.01,98.0
+CHEMBL73964,,CHEMBL73964,9.16,0.69
+CHEMBL316797,,CHEMBL316797,7.25,55.7
+CHEMBL178650,,CHEMBL178650,7.94,11.6
+CHEMBL178650,,CHEMBL178650,8.32,4.8
+CHEMBL178700,,CHEMBL178700,7.79,16.2
+CHEMBL178700,,CHEMBL178700,7.55,28.4
+CHEMBL179397,,CHEMBL179397,8.85,1.4
+CHEMBL179397,,CHEMBL179397,8.10,7.9
+CHEMBL434905,,CHEMBL434905,7.62,24.0
+CHEMBL434905,,CHEMBL434905,8.47,3.38
+CHEMBL178519,,CHEMBL178519,7.62,24.0
+CHEMBL178519,,CHEMBL178519,8.47,3.38
+CHEMBL179697,,CHEMBL179697,7.44,36.4
+CHEMBL179697,,CHEMBL179697,7.05,89.3
+CHEMBL180119,,CHEMBL180119,7.08,83.4
+CHEMBL180119,,CHEMBL180119,8.00,9.9
+CHEMBL179530,,CHEMBL179530,7.92,11.9
+CHEMBL179530,,CHEMBL179530,7.51,30.6
+CHEMBL178680,,CHEMBL178680,8.03,9.4
+CHEMBL178680,,CHEMBL178680,7.96,11.0
+CHEMBL179371,,CHEMBL179371,7.44,36.3
+CHEMBL179371,,CHEMBL179371,7.12,75.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.16,69.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.68,21.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.66,2.2
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.80,16.0
+CHEMBL369091,,CHEMBL369091,9.10,0.8
+CHEMBL369091,,CHEMBL369091,8.77,1.7
+CHEMBL362699,,CHEMBL362699,9.52,0.3
+CHEMBL362699,,CHEMBL362699,8.83,1.48
+CHEMBL360351,,CHEMBL360351,9.52,0.3
+CHEMBL360351,,CHEMBL360351,8.80,1.59
+CHEMBL179648,,CHEMBL179648,9.52,0.3
+CHEMBL179648,,CHEMBL179648,8.52,3.02
+CHEMBL359663,,CHEMBL359663,7.81,15.4
+CHEMBL359663,,CHEMBL359663,7.59,25.6
+CHEMBL180180,,CHEMBL180180,8.92,1.2
+CHEMBL180180,,CHEMBL180180,8.32,4.75
+CHEMBL178988,,CHEMBL178988,8.57,2.66
+CHEMBL178988,,CHEMBL178988,8.27,5.35
+CHEMBL425867,,CHEMBL425867,9.40,0.4
+CHEMBL425867,,CHEMBL425867,8.85,1.4
+CHEMBL178600,,CHEMBL178600,7.75,18.0
+CHEMBL178600,,CHEMBL178600,7.48,32.8
+CHEMBL179651,,CHEMBL179651,8.42,3.8
+CHEMBL179651,,CHEMBL179651,7.85,14.1
+CHEMBL276784,,CHEMBL276784,8.85,1.4
+CHEMBL276784,,CHEMBL276784,9.31,0.49
+CHEMBL179145,,CHEMBL179145,8.85,1.4
+CHEMBL179145,,CHEMBL179145,7.91,12.2
+CHEMBL180327,,CHEMBL180327,8.82,1.5
+CHEMBL180327,,CHEMBL180327,8.60,2.52
+CHEMBL179808,,CHEMBL179808,7.54,28.7
+CHEMBL179808,,CHEMBL179808,7.33,47.3
+CHEMBL179373,,CHEMBL179373,8.60,2.5
+CHEMBL179373,,CHEMBL179373,8.22,5.98
+CHEMBL369133,,CHEMBL369133,8.85,1.4
+CHEMBL369133,,CHEMBL369133,8.33,4.63
+CHEMBL7393,,CHEMBL7393,8.22,6.0
+CHEMBL633,AMIODARONE,CHEMBL633,9.00,1.0
+CHEMBL361085,,CHEMBL361085,9.30,0.5
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.82,15.0
+CHEMBL187615,,CHEMBL187615,9.00,1.0
+CHEMBL187829,LEVEMOPAMIL,CHEMBL187829,8.40,4.0
+CHEMBL954,ENCLOMIPHENE,CHEMBL954,8.10,8.0
+CHEMBL372700,FENPROPIMORPH,CHEMBL372700,11.00,0.01
+CHEMBL54,HALOPERIDOL,CHEMBL54,9.70,0.2
+CHEMBL113830,"(S,R)-IFENPRODIL",CHEMBL113830,8.70,2.0
+CHEMBL62540,,CHEMBL62540,9.22,0.6
+CHEMBL17470,,CHEMBL17470,9.30,0.5
+CHEMBL370753,OPIPRAMOL,CHEMBL370753,9.70,0.2
+CHEMBL305593,,CHEMBL305593,8.77,1.7
+CHEMBL2368401,"(7S,8R)-6-ALLYLAMINO-7,8-DIMETHYL-8-PROPYL-5,6,7,8-TETRAHYDRO-NAPHTHALEN-2-OL",CHEMBL2368401,7.40,40.0
+CHEMBL83,TAMOXIFEN,CHEMBL83,7.46,35.0
+CHEMBL365842,,CHEMBL365842,10.40,0.04
+CHEMBL422,TRIFLUOPERAZINE,CHEMBL422,7.82,15.0
+CHEMBL187709,TRIPARANOL,CHEMBL187709,8.10,8.0
+CHEMBL167779,ZUCLOMIPHENE,CHEMBL167779,8.30,5.0
+CHEMBL190631,,CHEMBL190631,8.52,3.0
+CHEMBL28211,NAFOXIDINE,CHEMBL28211,7.52,30.0
+CHEMBL363884,RONIPAMIL,CHEMBL363884,9.00,1.0
+CHEMBL188476,,CHEMBL188476,8.52,3.0
+CHEMBL15023,TRIFLUPERIDOL,CHEMBL15023,9.08,0.83
+CHEMBL365141,,CHEMBL365141,9.00,1.0
+CHEMBL190422,,CHEMBL190422,8.30,5.0
+CHEMBL61539,,CHEMBL61539,7.80,16.0
+CHEMBL190883,,CHEMBL190883,9.00,1.0
+CHEMBL187892,,CHEMBL187892,8.60,2.5
+CHEMBL363765,,CHEMBL363765,8.89,1.3
+CHEMBL81,RALOXIFENE,CHEMBL81,7.42,38.0
+CHEMBL365722,,CHEMBL365722,8.22,6.0
+CHEMBL365417,,CHEMBL365417,7.09,81.0
+CHEMBL363703,,CHEMBL363703,7.13,74.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.68,2.1
+CHEMBL371741,,CHEMBL371741,7.80,16.0
+CHEMBL381653,,CHEMBL381653,7.67,21.5
+CHEMBL194967,,CHEMBL194967,7.50,32.0
+CHEMBL370739,,CHEMBL370739,7.62,23.8
+CHEMBL196100,,CHEMBL196100,7.08,82.3
+CHEMBL196988,,CHEMBL196988,8.02,9.6
+CHEMBL371156,,CHEMBL371156,7.98,10.5
+CHEMBL196587,,CHEMBL196587,8.35,4.5
+CHEMBL196257,,CHEMBL196257,7.90,12.6
+CHEMBL193662,,CHEMBL193662,7.87,13.6
+CHEMBL194687,,CHEMBL194687,8.49,3.2
+CHEMBL194738,,CHEMBL194738,8.54,2.9
+CHEMBL365754,,CHEMBL365754,8.41,3.9
+CHEMBL365786,,CHEMBL365786,8.68,2.1
+CHEMBL366167,,CHEMBL366167,8.38,4.2
+CHEMBL194797,,CHEMBL194797,8.00,9.9
+CHEMBL194796,,CHEMBL194796,8.30,5.0
+CHEMBL195994,,CHEMBL195994,7.93,11.7
+CHEMBL194640,,CHEMBL194640,8.03,9.4
+CHEMBL194694,,CHEMBL194694,7.53,29.5
+CHEMBL193699,,CHEMBL193699,8.62,2.4
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.68,2.1
+CHEMBL371741,,CHEMBL371741,7.80,16.0
+CHEMBL381653,,CHEMBL381653,7.67,21.5
+CHEMBL193805,,CHEMBL193805,9.05,0.9
+CHEMBL439859,,CHEMBL439859,7.27,54.0
+CHEMBL383147,,CHEMBL383147,7.11,77.0
+CHEMBL195302,,CHEMBL195302,7.18,66.0
+CHEMBL195304,,CHEMBL195304,8.18,6.6
+CHEMBL209821,NALUZOTAN,CHEMBL209821,7.00,100.0
+CHEMBL492736,,CHEMBL492736,7.28,53.0
+CHEMBL163876,,CHEMBL163876,9.33,0.47
+CHEMBL502377,,CHEMBL502377,7.92,12.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.11,8.11
+CHEMBL38634,,CHEMBL38634,9.21,9.21
+CHEMBL39900,SPIPETHIANE,CHEMBL39900,9.23,9.23
+CHEMBL570789,,CHEMBL570789,9.36,9.36
+CHEMBL571659,,CHEMBL571659,9.68,9.68
+CHEMBL570067,,CHEMBL570067,9.96,9.96
+CHEMBL572294,,CHEMBL572294,10.01,10.01
+CHEMBL571418,,CHEMBL571418,10.05,10.05
+CHEMBL570529,,CHEMBL570529,10.18,10.18
+CHEMBL570795,,CHEMBL570795,10.24,10.24
+CHEMBL578825,,CHEMBL578825,10.28,10.28
+CHEMBL602850,,CHEMBL602850,7.92,12.0
+CHEMBL372700,FENPROPIMORPH,CHEMBL372700,10.10,0.08
+CHEMBL61479,SIRAMESINE,CHEMBL61479,7.77,17.0
+CHEMBL253376,BROMHEXINE,CHEMBL253376,7.21,0.061
+CHEMBL253376,BROMHEXINE,CHEMBL253376,7.60,0.025
+CHEMBL1201203,BENZTROPINE,CHEMBL1201203,7.23,0.059
+CHEMBL633,AMIODARONE,CHEMBL633,7.01,0.097
+CHEMBL633,AMIODARONE,CHEMBL633,7.39,0.041
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.89,0.013
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.25,0.005665
+CHEMBL1902981,EPERISONE,CHEMBL1902981,8.39,0.004055
+CHEMBL1902981,EPERISONE,CHEMBL1902981,8.77,0.001704
+CHEMBL30008,FLUNARIZINE,CHEMBL30008,7.60,0.025
+CHEMBL30008,FLUNARIZINE,CHEMBL30008,8.00,0.01
+CHEMBL726,FLUPHENAZINE,CHEMBL726,7.70,0.02
+CHEMBL726,FLUPHENAZINE,CHEMBL726,8.07,0.008575
+CHEMBL1626,CLEMASTINE,CHEMBL1626,7.47,0.034
+CHEMBL1626,CLEMASTINE,CHEMBL1626,7.85,0.014
+CHEMBL1123,DICYCLOMINE,CHEMBL1123,8.31,0.00489
+CHEMBL1123,DICYCLOMINE,CHEMBL1123,8.69,0.002055
+CHEMBL954,ENCLOMIPHENE,CHEMBL954,7.54,0.029
+CHEMBL954,ENCLOMIPHENE,CHEMBL954,7.92,0.012
+CHEMBL43064,CINNARIZINE,CHEMBL43064,7.40,0.04
+CHEMBL43064,CINNARIZINE,CHEMBL43064,7.77,0.017
+CHEMBL1198,PRAMOXINE,CHEMBL1198,7.29,0.051
+CHEMBL1196,PROPARACAINE,CHEMBL1196,7.00,0.1
+CHEMBL1909072,PIPAMAZINE,CHEMBL1909072,7.32,0.048
+CHEMBL1231,OXYBUTYNIN,CHEMBL1231,7.62,0.0242
+CHEMBL1231,OXYBUTYNIN,CHEMBL1231,7.99,0.0102
+CHEMBL728,PROCHLORPERAZINE,CHEMBL728,7.27,0.054
+CHEMBL728,PROCHLORPERAZINE,CHEMBL728,7.64,0.023
+CHEMBL395110,MEPAZINE,CHEMBL395110,7.12,0.076
+CHEMBL1490,TRIHEXYPHENIDYL,CHEMBL1490,7.35,0.045
+CHEMBL83,TAMOXIFEN,CHEMBL83,7.68,0.021
+CHEMBL83,TAMOXIFEN,CHEMBL83,8.06,0.008714
+CHEMBL809,SERTRALINE,CHEMBL809,7.16,0.0697
+CHEMBL809,SERTRALINE,CHEMBL809,7.53,0.0293
+CHEMBL404849,SULOCTIDIL,CHEMBL404849,7.31,0.0493
+CHEMBL1076211,TOLPERISONE,CHEMBL1076211,7.89,0.013
+CHEMBL1076211,TOLPERISONE,CHEMBL1076211,8.25,0.005587
+CHEMBL417001,,CHEMBL417001,8.37,4.3
+CHEMBL1645202,,CHEMBL1645202,9.23,0.59
+CHEMBL2023823,,CHEMBL2023823,8.49,3.2
+CHEMBL2023824,,CHEMBL2023824,8.54,2.9
+CHEMBL2023825,,CHEMBL2023825,9.57,0.27
+CHEMBL2023826,,CHEMBL2023826,7.20,63.3
+CHEMBL2023827,,CHEMBL2023827,7.91,12.4
+CHEMBL129530,,CHEMBL129530,7.67,21.6
+CHEMBL2064202,,CHEMBL2064202,8.35,4.5
+CHEMBL2064198,,CHEMBL2064198,8.68,2.1
+CHEMBL358116,,CHEMBL358116,8.85,1.4
+CHEMBL54020,,CHEMBL54020,7.46,34.4
+CHEMBL162522,,CHEMBL162522,8.24,5.81
+CHEMBL2170054,,CHEMBL2170054,8.02,9.5
+CHEMBL2170053,,CHEMBL2170053,7.41,39.4
+CHEMBL2170052,,CHEMBL2170052,7.09,80.8
+CHEMBL2170051,,CHEMBL2170051,7.85,14.2
+CHEMBL2170049,,CHEMBL2170049,7.19,65.0
+CHEMBL2170048,,CHEMBL2170048,7.00,99.1
+CHEMBL2170046,,CHEMBL2170046,7.08,83.4
+CHEMBL2170070,,CHEMBL2170070,7.47,33.8
+CHEMBL2170069,,CHEMBL2170069,7.33,47.0
+CHEMBL2170068,,CHEMBL2170068,8.00,9.9
+CHEMBL2170067,,CHEMBL2170067,8.00,10.0
+CHEMBL2170066,,CHEMBL2170066,7.64,23.1
+CHEMBL2170063,,CHEMBL2170063,7.48,33.3
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL2170061,,CHEMBL2170061,7.36,44.0
+CHEMBL2170060,,CHEMBL2170060,7.75,17.8
+CHEMBL2170055,,CHEMBL2170055,8.03,9.4
+CHEMBL2170207,,CHEMBL2170207,7.43,36.8
+CHEMBL2170206,,CHEMBL2170206,8.09,8.2
+CHEMBL2170205,,CHEMBL2170205,7.62,24.0
+CHEMBL2170204,,CHEMBL2170204,7.76,17.2
+CHEMBL2170203,,CHEMBL2170203,7.83,14.8
+CHEMBL2170076,,CHEMBL2170076,7.99,10.2
+CHEMBL2170075,,CHEMBL2170075,7.75,17.6
+CHEMBL2170072,,CHEMBL2170072,7.93,11.7
+CHEMBL2170071,,CHEMBL2170071,8.00,9.9
+CHEMBL2170224,,CHEMBL2170224,7.58,26.0
+CHEMBL2170223,,CHEMBL2170223,8.15,7.1
+CHEMBL2170222,,CHEMBL2170222,8.16,6.9
+CHEMBL2170221,,CHEMBL2170221,7.88,13.3
+CHEMBL2170220,,CHEMBL2170220,7.78,16.5
+CHEMBL2170219,,CHEMBL2170219,8.02,9.6
+CHEMBL2169891,,CHEMBL2169891,7.79,16.1
+CHEMBL2170218,,CHEMBL2170218,7.88,13.3
+CHEMBL2170217,,CHEMBL2170217,7.98,10.4
+CHEMBL2170216,,CHEMBL2170216,7.72,18.9
+CHEMBL2170213,,CHEMBL2170213,8.14,7.2
+CHEMBL2170212,,CHEMBL2170212,8.07,8.6
+CHEMBL2170211,,CHEMBL2170211,8.05,8.9
+CHEMBL2170239,,CHEMBL2170239,7.78,16.7
+CHEMBL2170238,,CHEMBL2170238,7.80,15.7
+CHEMBL2170237,,CHEMBL2170237,8.09,8.2
+CHEMBL2170235,,CHEMBL2170235,8.07,8.5
+CHEMBL2170234,,CHEMBL2170234,8.00,9.9
+CHEMBL2170233,,CHEMBL2170233,7.83,14.8
+CHEMBL2170232,,CHEMBL2170232,7.36,44.0
+CHEMBL2170231,,CHEMBL2170231,7.96,11.1
+CHEMBL2170230,,CHEMBL2170230,7.80,16.0
+CHEMBL2170229,,CHEMBL2170229,8.08,8.4
+CHEMBL2170228,,CHEMBL2170228,8.03,9.4
+CHEMBL2170227,,CHEMBL2170227,8.26,5.5
+CHEMBL2170226,,CHEMBL2170226,8.28,5.2
+CHEMBL2170225,,CHEMBL2170225,7.97,10.8
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.68,2.1
+CHEMBL73824,,CHEMBL73824,8.20,6.3
+CHEMBL2204343,,CHEMBL2204343,8.47,3.4
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.72,1.9
+CHEMBL809,SERTRALINE,CHEMBL809,7.24,57.0
+CHEMBL814,FLUVOXAMINE,CHEMBL814,7.44,36.0
+CHEMBL76806,,CHEMBL76806,8.44,3.6
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL2203549,,CHEMBL2203549,8.68,2.1
+CHEMBL2204679,,CHEMBL2204679,7.91,12.3
+CHEMBL2204678,,CHEMBL2204678,7.38,42.0
+CHEMBL2204677,,CHEMBL2204677,7.44,36.1
+CHEMBL2204675,,CHEMBL2204675,7.32,48.1
+CHEMBL2204672,,CHEMBL2204672,8.54,2.9
+CHEMBL2204668,,CHEMBL2204668,8.28,5.2
+CHEMBL2338343,,CHEMBL2338343,7.52,30.0
+CHEMBL2338762,,CHEMBL2338762,7.85,14.0
+CHEMBL2338760,,CHEMBL2338760,7.72,19.0
+CHEMBL2338759,,CHEMBL2338759,7.82,15.0
+CHEMBL2338343,,CHEMBL2338343,7.08,84.0
+CHEMBL2338339,,CHEMBL2338339,7.17,67.0
+CHEMBL2338762,,CHEMBL2338762,7.28,52.0
+CHEMBL2338760,,CHEMBL2338760,7.37,43.0
+CHEMBL2338768,,CHEMBL2338768,7.10,79.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.68,2.1
+CHEMBL2338780,,CHEMBL2338780,8.20,6.3
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL2347004,,CHEMBL274585,9.17,0.67
+CHEMBL2347003,,CHEMBL417001,8.37,4.3
+CHEMBL2311153,,CHEMBL408867,8.36,4.4
+CHEMBL2346997,,CHEMBL2346997,8.56,2.75
+CHEMBL502,DONEPEZIL,CHEMBL502,7.84,14.6
+CHEMBL2391147,,CHEMBL2391147,7.37,43.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.06,8.8
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.68,0.021
+CHEMBL2413154,,CHEMBL2413154,7.23,59.0
+CHEMBL2436338,,CHEMBL2436338,8.15,7.0
+CHEMBL3086334,,CHEMBL3086334,9.04,0.91
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.78,8.78
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.92,1.2
+CHEMBL3104857,,CHEMBL3104857,7.54,29.0
+CHEMBL3104856,,CHEMBL3104856,7.47,34.0
+CHEMBL53325,,CHEMBL53325,7.89,13.0
+CHEMBL3103203,,CHEMBL3546249,8.14,7.2
+CHEMBL3103202,,CHEMBL3546251,7.96,11.0
+CHEMBL3218993,,CHEMBL3218993,7.00,7.0
+CHEMBL3218992,,CHEMBL3218992,7.10,7.1
+CHEMBL3218994,,CHEMBL3218994,7.10,7.1
+CHEMBL3218981,,CHEMBL3218981,7.20,7.2
+CHEMBL3218982,,CHEMBL3218982,7.20,7.2
+CHEMBL3218987,,CHEMBL3218987,7.60,7.6
+CHEMBL3218989,,CHEMBL3218989,7.60,7.6
+CHEMBL3218985,,CHEMBL3218985,7.80,7.8
+CHEMBL3218986,,CHEMBL3218986,8.00,8.0
+CHEMBL408867,[11C]SA4503,CHEMBL408867,8.50,8.5
+CHEMBL3220583,,CHEMBL3220583,8.54,2.9
+CHEMBL3220582,,CHEMBL3220582,7.62,24.0
+CHEMBL294144,,CHEMBL294144,7.33,47.0
+CHEMBL64683,,CHEMBL64683,8.89,1.3
+CHEMBL3235106,,CHEMBL3235106,8.00,10.0
+CHEMBL3235467,,CHEMBL3235467,7.98,10.5
+CHEMBL2111685,,CHEMBL2111685,7.56,27.3
+CHEMBL61479,SIRAMESINE,CHEMBL61479,7.77,17.0
+CHEMBL3233527,,CHEMBL3233527,7.39,41.0
+CHEMBL3233528,,CHEMBL3233528,7.68,21.0
+CHEMBL3233529,,CHEMBL3233529,7.64,23.0
+CHEMBL3104856,,CHEMBL3104856,7.47,34.0
+CHEMBL3104857,,CHEMBL3104857,7.54,29.0
+CHEMBL3233530,,CHEMBL3233530,7.54,29.0
+CHEMBL3233531,,CHEMBL3233531,8.12,7.5
+CHEMBL3233532,,CHEMBL3233532,8.17,6.8
+CHEMBL3233533,,CHEMBL3233533,7.57,27.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,7.44,36.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.40,40.0
+CHEMBL61479,SIRAMESINE,CHEMBL61479,7.77,17.0
+CHEMBL53325,,CHEMBL53325,7.89,13.0
+CHEMBL3360574,,CHEMBL3360574,7.92,12.0
+CHEMBL3360572,,CHEMBL3360572,7.96,11.0
+CHEMBL3360571,,CHEMBL3360571,7.14,72.0
+CHEMBL3360570,,CHEMBL3360570,8.08,8.4
+CHEMBL3360569,,CHEMBL3360569,8.10,8.0
+CHEMBL3360568,,CHEMBL3360568,7.44,36.0
+CHEMBL3360566,,CHEMBL3360566,7.96,11.0
+CHEMBL3360565,,CHEMBL3360565,7.75,18.0
+CHEMBL3360564,,CHEMBL3360564,8.60,2.5
+CHEMBL3360563,,CHEMBL3360563,7.96,11.0
+CHEMBL3360562,,CHEMBL3360562,7.96,11.0
+CHEMBL3360561,,CHEMBL3360561,8.14,7.2
+CHEMBL3360559,,CHEMBL3360559,7.14,72.0
+CHEMBL3360558,,CHEMBL3360558,7.55,28.0
+CHEMBL3360556,,CHEMBL3360556,8.70,2.0
+CHEMBL3360555,,CHEMBL3360555,7.75,18.0
+CHEMBL3360554,,CHEMBL3360554,8.37,4.3
+CHEMBL3360553,,CHEMBL3360553,8.21,6.2
+CHEMBL3360552,,CHEMBL3360552,8.28,5.3
+CHEMBL1089752,,CHEMBL1089752,8.15,7.1
+CHEMBL365754,,CHEMBL365754,8.35,4.5
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.92,11.9
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.92,11.9
+CHEMBL365754,,CHEMBL365754,8.35,4.5
+CHEMBL1089752,,CHEMBL1089752,8.15,7.1
+CHEMBL3409372,,CHEMBL3409372,8.28,5.3
+CHEMBL3409373,,CHEMBL3409373,8.92,1.2
+CHEMBL3409374,,CHEMBL3409374,9.05,0.9
+CHEMBL3409375,,CHEMBL3409375,8.19,6.4
+CHEMBL3409376,,CHEMBL3409376,7.99,10.3
+CHEMBL3409377,,CHEMBL3409377,8.51,3.1
+CHEMBL3409378,,CHEMBL3409378,9.22,0.6
+CHEMBL3409379,,CHEMBL3409379,8.33,4.7
+CHEMBL3409381,,CHEMBL3409381,8.66,2.2
+CHEMBL3409386,,CHEMBL3409386,7.52,30.3
+CHEMBL3409387,,CHEMBL3409387,8.24,5.7
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL2170054,,CHEMBL2170054,8.00,10.0
+CHEMBL2170053,,CHEMBL2170053,7.41,39.0
+CHEMBL3417042,,CHEMBL3417042,8.30,5.0
+CHEMBL3417043,,CHEMBL3417043,7.51,31.0
+CHEMBL3417044,,CHEMBL3417044,7.21,62.0
+CHEMBL3417045,,CHEMBL3417045,7.24,58.0
+CHEMBL3417047,,CHEMBL3417047,7.51,31.0
+CHEMBL3417049,,CHEMBL3417049,7.34,46.0
+CHEMBL3417052,,CHEMBL3417052,7.92,12.0
+CHEMBL3417053,,CHEMBL3417053,7.25,56.0
+CHEMBL3417054,,CHEMBL3417054,7.44,36.0
+CHEMBL3417055,,CHEMBL3417055,7.16,70.0
+CHEMBL3417057,,CHEMBL3417057,7.31,49.0
+CHEMBL3417058,,CHEMBL3417058,8.00,10.0
+CHEMBL3417059,,CHEMBL3417059,7.28,52.0
+CHEMBL3417060,,CHEMBL3417060,7.46,35.0
+CHEMBL3417061,,CHEMBL3417061,7.48,33.0
+CHEMBL3417063,,CHEMBL3417063,7.21,61.0
+CHEMBL3417066,,CHEMBL3417066,8.05,9.0
+CHEMBL3417067,,CHEMBL3417067,7.64,23.0
+CHEMBL3417068,,CHEMBL3417068,7.89,13.0
+CHEMBL3417069,,CHEMBL3417069,7.34,46.0
+CHEMBL3417071,,CHEMBL3417071,7.00,99.0
+CHEMBL3417078,,CHEMBL3417078,7.01,97.0
+CHEMBL3753318,,CHEMBL3753318,7.13,7.13
+CHEMBL3752900,,CHEMBL3752900,7.01,7.01
+CHEMBL3752576,,CHEMBL3752576,7.00,7.0
+CHEMBL3754496,,CHEMBL3754496,7.07,7.07
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.05,89.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.20,6.3
+CHEMBL3752701,,CHEMBL3752701,7.51,31.0
+CHEMBL177952,,CHEMBL177952,7.95,11.3
+CHEMBL176941,,CHEMBL176941,7.81,15.5
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.08,8.24
+CHEMBL177952,,CHEMBL177952,7.92,12.1
+CHEMBL176941,,CHEMBL176941,7.97,10.6
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.12,7.59
+CHEMBL3780184,,CHEMBL3780184,7.92,12.0
+CHEMBL3780268,,CHEMBL3780268,7.28,53.0
+CHEMBL3781035,,CHEMBL3781035,7.43,37.0
+CHEMBL3781840,,CHEMBL3781840,7.89,13.0
+CHEMBL3780506,,CHEMBL3780506,7.24,57.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.96,1.1
+CHEMBL54,HALOPERIDOL,CHEMBL54,7.40,40.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,7.44,36.0
+CHEMBL3819146,,CHEMBL3819146,8.66,2.2
+CHEMBL3819463,,CHEMBL3819463,8.19,6.4
+CHEMBL3818546,,CHEMBL3818546,7.62,24.0
+CHEMBL3819457,,CHEMBL3819457,7.57,27.0
+CHEMBL3818045,,CHEMBL3818045,7.14,73.0
+CHEMBL3819588,,CHEMBL3819588,7.57,27.0
+CHEMBL3817940,,CHEMBL3817940,8.22,6.0
+CHEMBL3819557,,CHEMBL3819557,7.42,38.0
+CHEMBL3818112,,CHEMBL3818112,8.14,7.2
+CHEMBL3818532,,CHEMBL3818532,7.89,13.0
+CHEMBL3819489,,CHEMBL3819489,8.80,1.6
+CHEMBL3819331,,CHEMBL3819331,8.55,2.8
+CHEMBL3819437,,CHEMBL3819437,8.62,2.4
+CHEMBL3819395,,CHEMBL3819395,8.49,3.2
+CHEMBL54,HALOPERIDOL,CHEMBL54,9.68,0.21
+CHEMBL299499,,CHEMBL299499,8.57,2.7
+CHEMBL4098778,,CHEMBL4098778,7.34,46.08
+CHEMBL4084182,,CHEMBL4084182,7.42,38.0
+CHEMBL4092687,,CHEMBL4092687,7.87,13.36
+CHEMBL4065001,,CHEMBL4065001,7.34,45.32
+CHEMBL4080735,,CHEMBL4080735,8.52,3.0
+CHEMBL4101014,,CHEMBL4101014,8.27,5.4
+CHEMBL4083034,,CHEMBL4083034,8.82,1.5
+CHEMBL4090823,,CHEMBL4090823,8.59,2.6
+CHEMBL4071509,,CHEMBL4071509,8.64,2.3
+CHEMBL4098546,,CHEMBL4098546,8.08,8.4
+CHEMBL372700,FENPROPIMORPH,CHEMBL372700,7.76,17.3
+CHEMBL146556,,CHEMBL146556,8.80,1.6
+CHEMBL4096543,,CHEMBL4096543,7.09,82.1
+CHEMBL4172301,,CHEMBL4172301,8.43,3.7
+CHEMBL4161016,,CHEMBL4161016,8.14,7.3
+CHEMBL4168942,,CHEMBL4168942,8.80,1.6
+CHEMBL4162490,,CHEMBL4162490,8.85,1.4
+CHEMBL4170415,,CHEMBL4170415,7.33,47.0
+CHEMBL4169765,,CHEMBL4169765,8.00,10.0
+CHEMBL4176123,,CHEMBL4176123,8.44,3.6
+CHEMBL4173188,,CHEMBL4173188,8.49,3.2
+CHEMBL4165285,,CHEMBL4165285,8.77,1.7
+CHEMBL4171723,,CHEMBL4171723,7.38,42.0
+CHEMBL4168697,,CHEMBL4168697,8.41,3.9
+CHEMBL4169383,,CHEMBL4169383,8.68,2.1
+CHEMBL4172044,,CHEMBL4172044,7.70,20.0
+CHEMBL4174647,,CHEMBL4174647,8.00,10.0
+CHEMBL4166747,,CHEMBL4166747,8.19,6.5
+CHEMBL4161984,,CHEMBL4161984,8.96,1.1
+CHEMBL4168782,,CHEMBL4168782,7.64,23.0
+CHEMBL4160397,,CHEMBL4160397,8.54,2.9
+CHEMBL4173342,,CHEMBL4173342,7.40,40.0
+CHEMBL4168852,,CHEMBL4168852,7.43,37.0
+CHEMBL4176708,,CHEMBL4176708,8.72,1.9
+CHEMBL4172201,,CHEMBL4172201,8.92,1.2
+CHEMBL4161592,,CHEMBL4161592,7.62,24.0
+CHEMBL4166905,,CHEMBL4166905,8.44,3.6
+CHEMBL4174797,,CHEMBL4174797,8.37,4.3
+CHEMBL4169270,,CHEMBL4169270,8.37,4.3
+CHEMBL4161344,,CHEMBL4161344,7.72,19.0
+CHEMBL4164330,,CHEMBL4164330,8.24,5.8
+CHEMBL4174984,,CHEMBL4174984,8.54,2.9
+CHEMBL4173950,,CHEMBL4173950,8.19,6.5
+CHEMBL4173258,,CHEMBL4173258,7.19,65.2
+CHEMBL1929421,,CHEMBL1929421,8.55,2.83
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.23,5.9
+CHEMBL53325,,CHEMBL53325,7.87,13.6
+CHEMBL61479,SIRAMESINE,CHEMBL61479,7.77,17.0
+CHEMBL4211979,,CHEMBL4211979,7.29,7.29
+CHEMBL4216951,,CHEMBL4216951,7.39,7.39
+CHEMBL4286421,,CHEMBL4286421,8.40,4.0
+CHEMBL4294308,,CHEMBL4294308,7.66,22.0
+CHEMBL4292359,,CHEMBL4292359,7.89,13.0
+CHEMBL4284119,,CHEMBL4284119,8.15,7.0
+CHEMBL4279584,,CHEMBL4279584,8.05,9.0
+CHEMBL4279263,,CHEMBL4279263,7.39,41.0
+CHEMBL4289153,,CHEMBL4289153,7.68,21.0
+CHEMBL4286808,,CHEMBL4286808,7.00,100.0
+CHEMBL4290199,,CHEMBL4290199,7.54,29.0
+CHEMBL4290231,,CHEMBL4290231,7.64,23.0
+CHEMBL4292127,,CHEMBL4292127,7.62,24.0
+CHEMBL4278120,,CHEMBL4278120,7.10,79.0
+CHEMBL4287520,,CHEMBL4287520,7.07,85.0
+CHEMBL4280702,,CHEMBL4280702,7.00,99.0
+CHEMBL4277311,,CHEMBL4277311,7.21,62.0
+CHEMBL4284564,,CHEMBL4284564,7.48,33.0
+CHEMBL4278537,,CHEMBL4278537,7.35,45.0
+CHEMBL4290898,,CHEMBL4290898,7.92,12.0
+CHEMBL4294281,,CHEMBL4294281,7.24,58.0
+CHEMBL4289823,,CHEMBL4289823,7.96,11.0
+CHEMBL4290460,,CHEMBL4290460,7.26,55.0
+CHEMBL4282586,,CHEMBL4282586,7.75,18.0
+CHEMBL4287044,,CHEMBL4287044,7.80,16.0
+CHEMBL4279116,,CHEMBL4279116,7.82,15.0
+CHEMBL4283691,,CHEMBL4283691,8.05,9.0
+CHEMBL4294268,,CHEMBL4294268,8.05,9.0
+CHEMBL4290875,,CHEMBL4290875,7.26,55.0
+CHEMBL4276805,,CHEMBL4276805,7.60,25.0
+CHEMBL4211979,,CHEMBL4211979,7.29,51.0
+CHEMBL4283498,,CHEMBL4283498,7.01,98.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL4211979,,CHEMBL4211979,7.29,51.0
+CHEMBL4280217,,CHEMBL4280217,7.00,100.0
+CHEMBL4288125,,CHEMBL4288125,7.13,74.0
+CHEMBL4283670,,CHEMBL4283670,7.09,82.0
+CHEMBL4294112,,CHEMBL4294112,7.02,95.0
+CHEMBL4284728,,CHEMBL4284728,7.12,76.0
+CHEMBL4290275,,CHEMBL4290275,7.37,43.0
+CHEMBL4292993,,CHEMBL4292993,7.51,31.0
+CHEMBL4278995,,CHEMBL4278995,7.20,63.0
+CHEMBL4289679,,CHEMBL4289679,7.03,93.0
+CHEMBL4288924,,CHEMBL4288924,7.41,39.0
+CHEMBL4286260,,CHEMBL4286260,7.32,48.0
+CHEMBL4277933,,CHEMBL4277933,7.24,57.0
+CHEMBL4284238,,CHEMBL4284238,7.14,72.0
+CHEMBL4216951,,CHEMBL4216951,7.39,41.0
+CHEMBL4288056,,CHEMBL4288056,7.51,31.0
+CHEMBL4292552,,CHEMBL4292552,7.46,35.0
+CHEMBL76,CHLOROQUINE,CHEMBL76,7.10,7.1
+CHEMBL1626,CLEMASTINE,CHEMBL1626,8.00,8.0
+CHEMBL53325,,CHEMBL53325,8.70,8.7
+CHEMBL4088272,,CHEMBL4088272,8.70,8.7
+CHEMBL4530979,,CHEMBL4530979,7.90,7.9
+CHEMBL4591008,,CHEMBL4591008,7.90,7.9
+CHEMBL4589450,,CHEMBL4589450,8.10,8.1
+CHEMBL4564308,,CHEMBL4564308,7.30,7.3
+CHEMBL4447975,,CHEMBL4447975,7.40,7.4
+CHEMBL4456195,,CHEMBL4456195,7.20,7.2
+CHEMBL4435237,,CHEMBL4435237,7.40,7.4
+CHEMBL4473697,,CHEMBL4473697,7.30,7.3
+CHEMBL4530979,,CHEMBL4530979,7.80,16.0
+CHEMBL4447975,,CHEMBL4447975,7.36,44.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.80,1.6
+CHEMBL3417009,,CHEMBL3417009,7.29,51.0
+CHEMBL4537101,,CHEMBL4537101,8.29,5.1
+CHEMBL4526050,,CHEMBL4526050,8.24,5.7
+CHEMBL4444843,,CHEMBL4444843,8.29,5.1
+CHEMBL4585990,,CHEMBL4585990,8.48,3.3
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.70,2.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL4446292,,CHEMBL4446292,7.58,26.0
+CHEMBL4439908,,CHEMBL4439908,7.24,57.0
+CHEMBL4461864,,CHEMBL4461864,7.26,55.0
+CHEMBL4540995,,CHEMBL4540995,7.28,53.0
+CHEMBL4541206,,CHEMBL4541206,8.22,6.0
+CHEMBL4467749,,CHEMBL4467749,7.85,14.0
+CHEMBL4450665,,CHEMBL4450665,7.68,21.0
+CHEMBL4515812,,CHEMBL4515812,8.22,6.0
+CHEMBL4436170,,CHEMBL4436170,8.00,10.0
+CHEMBL4439285,,CHEMBL4439285,7.50,32.0
+CHEMBL4528962,,CHEMBL4528962,7.40,40.0
+CHEMBL4446209,,CHEMBL4446209,7.27,54.0
+CHEMBL4516327,,CHEMBL4516327,7.89,13.0
+CHEMBL4438550,,CHEMBL4438550,8.05,9.0
+CHEMBL4452042,,CHEMBL4452042,8.10,8.0
+CHEMBL4584335,,CHEMBL4584335,7.96,11.0
+CHEMBL4526087,,CHEMBL4526087,7.42,38.0
+CHEMBL4592081,,CHEMBL4592081,7.29,51.0
+CHEMBL4550656,,CHEMBL4550656,7.82,15.0
+CHEMBL4471711,,CHEMBL4471711,7.26,55.0
+CHEMBL4457602,,CHEMBL4457602,7.85,14.0
+CHEMBL4578955,,CHEMBL4578955,7.89,13.0
+CHEMBL4440055,,CHEMBL4440055,7.17,68.0
+CHEMBL4448710,,CHEMBL4448710,7.06,88.0
+CHEMBL4439718,,CHEMBL4439718,7.89,13.0
+CHEMBL4538620,,CHEMBL4538620,8.10,8.0
+CHEMBL4483643,,CHEMBL4483643,7.41,39.0
+CHEMBL4448670,,CHEMBL4448670,7.27,54.0
+CHEMBL4470425,,CHEMBL4470425,8.52,3.0
+CHEMBL4560624,,CHEMBL4560624,8.05,9.0
+CHEMBL4460762,,CHEMBL4460762,7.20,63.0
+CHEMBL4535897,,CHEMBL4535897,7.32,48.0
+CHEMBL4593220,,CHEMBL4593220,7.85,14.0
+CHEMBL4536259,,CHEMBL4536259,8.10,8.0
+CHEMBL4534193,,CHEMBL4534193,8.10,8.0
+CHEMBL4544352,,CHEMBL4544352,7.96,11.0
+CHEMBL4463621,,CHEMBL4463621,7.55,28.0
+CHEMBL4473746,,CHEMBL4473746,7.28,53.0
+CHEMBL4571738,,CHEMBL4571738,7.04,91.0
+CHEMBL4576031,,CHEMBL4576031,7.21,61.0
+CHEMBL4461774,,CHEMBL4461774,7.24,58.0
+CHEMBL4576927,,CHEMBL4576927,8.16,6.9
+CHEMBL4562252,,CHEMBL4562252,8.14,7.3
+CHEMBL1779999,,CHEMBL1779999,7.40,40.0
+CHEMBL1780000,,CHEMBL1780000,7.41,39.0
+CHEMBL4581305,,CHEMBL4581305,7.16,70.0
+CHEMBL3321792,,CHEMBL3321792,7.24,57.0
+CHEMBL3321791,,CHEMBL3321791,7.15,71.0
+CHEMBL3321790,,CHEMBL3321790,7.09,81.0
+CHEMBL3321788,,CHEMBL3321788,7.66,22.0
+CHEMBL1940414,,CHEMBL1940414,7.11,77.1
+CHEMBL1940412,,CHEMBL1940412,7.38,41.5
+CHEMBL1940413,,CHEMBL1940413,7.29,51.7
+CHEMBL1940408,,CHEMBL1940408,7.44,36.0
+CHEMBL4462108,,CHEMBL4462108,7.02,95.0
+CHEMBL4573441,,CHEMBL4573441,7.60,25.0
+CHEMBL4577233,,CHEMBL4577233,8.14,7.2
+CHEMBL1946126,,CHEMBL1946126,8.54,2.9
+CHEMBL1946253,,CHEMBL1946253,8.44,3.6
+CHEMBL4516724,,CHEMBL4516724,7.20,63.0
+CHEMBL4533305,,CHEMBL4533305,7.20,63.0
+CHEMBL4574793,,CHEMBL4574793,7.52,30.0
+CHEMBL476108,,CHEMBL476108,7.62,24.0
+CHEMBL3321792,,CHEMBL3321792,7.24,7.24
+CHEMBL3321791,,CHEMBL3321791,7.15,7.15
+CHEMBL3321790,,CHEMBL3321790,7.09,7.09
+CHEMBL3321788,,CHEMBL3321788,7.66,7.66
+CHEMBL4462108,,CHEMBL4462108,7.02,7.02
+CHEMBL4573441,,CHEMBL4573441,7.61,7.61
+CHEMBL4577233,,CHEMBL4577233,8.14,8.14
+CHEMBL1946126,,CHEMBL1946126,8.54,8.54
+CHEMBL1946253,,CHEMBL1946253,8.44,8.44
+CHEMBL4516724,,CHEMBL4516724,7.20,7.2
+CHEMBL4574793,,CHEMBL4574793,7.52,7.52
+CHEMBL476108,,CHEMBL476108,7.63,7.63
+CHEMBL4566049,,CHEMBL4566049,8.29,8.29
+CHEMBL4556093,,CHEMBL4556093,8.30,8.3
+CHEMBL4459921,,CHEMBL4459921,7.11,7.11
+CHEMBL4463587,,CHEMBL4463587,7.68,7.68
+CHEMBL4446568,,CHEMBL4446568,7.59,7.59
+CHEMBL4474014,,CHEMBL4474014,7.65,7.65
+CHEMBL4570411,,CHEMBL4570411,7.36,7.36
+CHEMBL4558031,,CHEMBL4558031,7.79,7.79
+CHEMBL1946124,,CHEMBL1946124,7.20,7.2
+CHEMBL1946124,,CHEMBL1946124,7.20,63.0
+CHEMBL4529943,,CHEMBL4529943,7.68,21.0
+CHEMBL4558031,,CHEMBL4558031,7.80,16.0
+CHEMBL4570411,,CHEMBL4570411,7.36,44.0
+CHEMBL4474014,,CHEMBL4474014,7.66,22.0
+CHEMBL4446568,,CHEMBL4446568,7.58,26.0
+CHEMBL4463587,,CHEMBL4463587,7.68,21.0
+CHEMBL4459921,,CHEMBL4459921,7.11,78.0
+CHEMBL4556093,,CHEMBL4556093,8.31,4.9
+CHEMBL4566049,,CHEMBL4566049,8.29,5.1
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.61,8.61
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.61,2.46
+CHEMBL2203551,,CHEMBL2203551,8.39,4.1
+CHEMBL2338343,,CHEMBL2338343,7.52,30.0
+CHEMBL3417063,,CHEMBL3417063,7.21,61.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL3359239,,CHEMBL3359239,8.96,1.1
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.15,7.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.82,15.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,8.51,3.1
+CHEMBL4457581,,CHEMBL4457581,7.50,7.5
+CHEMBL4548328,,CHEMBL4548328,7.40,7.4
+CHEMBL4570746,,CHEMBL4570746,7.20,7.2
+CHEMBL4469217,,CHEMBL4469217,7.00,7.0
+CHEMBL4445781,,CHEMBL4445781,7.80,7.8
+CHEMBL4445781,,CHEMBL4445781,7.77,17.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.82,15.0
+CHEMBL4642427,,CHEMBL4650892,8.38,4.2
+CHEMBL4634957,,CHEMBL4650771,8.77,1.7
+CHEMBL4632842,,CHEMBL4650930,7.15,71.0
+CHEMBL4644344,,CHEMBL4650859,7.28,52.0
+CHEMBL4640771,,CHEMBL4650766,7.17,68.0
+CHEMBL4634854,,CHEMBL4650650,7.27,54.0
+CHEMBL4645160,,CHEMBL4650863,7.17,68.0
+CHEMBL4635880,,CHEMBL4651060,7.12,76.0
+CHEMBL4647871,,CHEMBL4650902,8.70,2.0
+CHEMBL4643239,,CHEMBL4650618,9.30,0.5
+CHEMBL4633444,,CHEMBL4650532,9.22,0.6
+CHEMBL4637859,,CHEMBL4650581,8.68,2.1
+CHEMBL4646948,,CHEMBL4650964,9.22,0.6
+CHEMBL4639948,,CHEMBL4650915,8.27,5.4
+CHEMBL4644243,,CHEMBL4644243,7.64,23.0
+CHEMBL4647090,,CHEMBL4647090,7.75,18.0
+CHEMBL4648914,,CHEMBL4648914,7.05,89.0
+CHEMBL4777859,,CHEMBL4777859,7.03,94.0
+CHEMBL4788650,,CHEMBL4788650,7.12,76.0
+CHEMBL4754130,,CHEMBL4754130,7.19,64.0
+CHEMBL4776924,,CHEMBL4776924,7.17,68.0
+CHEMBL4741494,,CHEMBL4741494,7.18,66.0
+CHEMBL4751130,,CHEMBL4751130,7.30,50.0
+CHEMBL4755446,,CHEMBL4755446,7.37,43.0
+CHEMBL4759184,,CHEMBL4759184,7.52,30.0
+CHEMBL4789005,,CHEMBL4789005,7.24,58.0
+CHEMBL4796605,,CHEMBL4796605,7.92,12.0
+CHEMBL4748898,,CHEMBL4748898,8.00,10.0
+CHEMBL4461774,,CHEMBL4461774,7.24,58.0
+CHEMBL4541206,,CHEMBL4541206,8.22,6.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL282433,DITOLYLGUANIDINE,CHEMBL282433,7.23,59.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.70,2.0
+CHEMBL60542,(+)-PENTAZOCINE,CHEMBL60542,7.92,12.0
+CHEMBL4776009,,CHEMBL4776009,8.05,9.0
+CHEMBL4795798,,CHEMBL4795798,8.05,9.0
+CHEMBL4762627,,CHEMBL4762627,8.30,5.0
+CHEMBL4743610,,CHEMBL4802406,7.66,22.0
+CHEMBL4757975,,CHEMBL4757975,7.24,58.0
+CHEMBL4782656,,CHEMBL4782656,7.82,15.0
+CHEMBL4759343,,CHEMBL4759343,8.52,3.0
+CHEMBL4792105,,CHEMBL4792105,8.22,6.0
+CHEMBL4760287,,CHEMBL4760287,8.70,2.0
+CHEMBL4790686,,CHEMBL4790686,8.70,2.0
+CHEMBL4792110,,CHEMBL4792110,7.85,14.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL4777306,,CHEMBL4777306,8.10,8.0
+CHEMBL100116,PENTAZOCINE,CHEMBL100116,7.92,12.1
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.19,6.4
+CHEMBL596802,PRIDOPIDINE,CHEMBL596802,7.09,81.7
+CHEMBL4297438,T-817 MALEATE,CHEMBL4302089,7.80,16.0
+CHEMBL502,DONEPEZIL,CHEMBL502,7.84,14.6
+CHEMBL4778990,,CHEMBL4778990,7.06,87.0
+CHEMBL4778747,,CHEMBL4778747,7.18,65.5
+CHEMBL4754019,,CHEMBL4754019,7.62,23.9
+CHEMBL4781384,,CHEMBL4781384,7.71,19.6
+CHEMBL4751000,,CHEMBL4751000,7.08,82.5
+CHEMBL4754186,,CHEMBL4754186,7.57,27.2
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.45,3.53
+CHEMBL408867,[11C]SA4503,CHEMBL408867,8.42,3.77
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL596,FENTANYL,CHEMBL596,9.41,0.39
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.64,2.3
+CHEMBL2170062,,CHEMBL2170062,7.62,24.0
+CHEMBL4793144,,CHEMBL4793144,7.31,49.0
+CHEMBL4799971,,CHEMBL4799971,8.12,7.5
+CHEMBL4796342,,CHEMBL4796342,8.00,9.9
+CHEMBL4780883,,CHEMBL4780883,7.66,22.0
+CHEMBL4800355,,CHEMBL4800355,7.09,82.0
+CHEMBL4785662,,CHEMBL4785662,7.68,21.0
+CHEMBL4799270,,CHEMBL4799270,7.02,96.0
+CHEMBL4798816,,CHEMBL4798816,7.58,26.0
+CHEMBL4778313,,CHEMBL4778313,7.54,29.0
+CHEMBL4776769,,CHEMBL4776769,7.50,32.0
+CHEMBL4790480,,CHEMBL4790480,7.19,64.0
+CHEMBL4797095,,CHEMBL4797095,7.43,37.0
+CHEMBL4778319,,CHEMBL4778319,7.05,90.0
+CHEMBL4798543,,CHEMBL4798543,7.70,20.0
+CHEMBL4799774,,CHEMBL4799774,8.32,4.8
+CHEMBL4795418,,CHEMBL4795418,8.66,2.2
+CHEMBL4796616,,CHEMBL4796616,7.85,14.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL4850236,,CHEMBL4850236,7.77,16.9
+CHEMBL4526341,A-108,CHEMBL4526341,7.04,91.635
+CHEMBL4526341,A-108,CHEMBL4526341,7.04,7.04
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL5077038,,CHEMBL5077038,8.00,10.0
+CHEMBL5077829,,CHEMBL5077829,7.64,23.0
+CHEMBL5076707,,CHEMBL5076707,7.04,92.0
+CHEMBL5084697,,CHEMBL5084697,7.85,14.0
+CHEMBL5075152,,CHEMBL5075152,7.32,48.0
+CHEMBL5087472,,CHEMBL5087472,7.38,42.0
+CHEMBL5070185,,CHEMBL5070185,7.27,54.0
+CHEMBL5094913,,CHEMBL5094913,8.10,8.0
+CHEMBL5075502,,CHEMBL5075502,7.77,17.0
+CHEMBL5094899,,CHEMBL5094899,7.89,13.0
+CHEMBL5076404,,CHEMBL5076404,7.05,89.0
+CHEMBL5083736,,CHEMBL5083736,7.12,75.0
+CHEMBL5073189,,CHEMBL5073189,7.44,36.0
+CHEMBL5081133,,CHEMBL5081133,8.10,8.0
+CHEMBL5080086,,CHEMBL5080086,7.38,42.0
+CHEMBL5070613,,CHEMBL5070613,7.68,21.0
+CHEMBL5084344,,CHEMBL5084344,7.52,30.0
+CHEMBL5089000,,CHEMBL5089000,7.33,47.0
+CHEMBL5090595,,CHEMBL5090595,7.16,70.0
+CHEMBL5074927,,CHEMBL5074927,7.19,64.0
+CHEMBL5089365,,CHEMBL5089365,7.22,60.0
+CHEMBL5079816,,CHEMBL5079816,7.46,35.0
+CHEMBL5085771,,CHEMBL5085771,7.47,34.0
+CHEMBL5089766,,CHEMBL5089766,7.27,54.0
+CHEMBL5087458,,CHEMBL5087458,7.22,60.0
+CHEMBL5092587,,CHEMBL5092587,7.29,51.0
+CHEMBL5084395,,CHEMBL5084395,7.28,53.0
+CHEMBL5080761,,CHEMBL5080761,7.57,27.0
+CHEMBL5091094,,CHEMBL5091094,7.42,38.0
+CHEMBL206132,,CHEMBL206132,7.14,73.0
+CHEMBL5189328,,CHEMBL5189328,8.22,6.0
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL5197005,,CHEMBL5197005,8.05,9.0
+CHEMBL5186915,,CHEMBL5186915,8.52,3.0
+CHEMBL5198408,,CHEMBL5198408,7.60,25.0
+CHEMBL5188036,,CHEMBL5188036,7.85,14.0
+CHEMBL5192561,,CHEMBL5192561,7.68,21.0
+CHEMBL5190505,,CHEMBL5190505,7.07,86.0
+CHEMBL5176813,,CHEMBL5176813,7.13,74.0
+CHEMBL5195143,,CHEMBL5195143,7.31,49.0
+CHEMBL5185431,,CHEMBL5185431,7.14,72.0
+CHEMBL5175398,,CHEMBL5175398,7.06,87.0
+CHEMBL5195738,,CHEMBL5195738,7.29,51.0
+CHEMBL5181214,,CHEMBL5181214,7.96,11.0
+CHEMBL5197187,,CHEMBL5197187,7.66,22.0
+CHEMBL5183830,,CHEMBL5183830,7.20,63.0
+CHEMBL5193266,,CHEMBL5193266,7.85,14.0
+CHEMBL5173652,,CHEMBL5173652,7.80,16.0
+CHEMBL5193492,,CHEMBL5193492,7.51,31.0
+CHEMBL5209007,,CHEMBL5209007,7.58,26.0
+CHEMBL5209229,,CHEMBL5209229,7.92,12.0
+CHEMBL5173173,,CHEMBL5173173,7.80,16.0
+CHEMBL5173523,,CHEMBL5173523,7.57,27.0
+CHEMBL5182348,,CHEMBL5182348,7.80,16.0
+CHEMBL4754186,,CHEMBL4754186,7.57,27.2
+CHEMBL332701,,CHEMBL332701,8.04,9.2
+CHEMBL5201355,,CHEMBL5201355,7.80,16.0
+CHEMBL5169420,,CHEMBL5169420,7.92,12.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.60,2.5
+CHEMBL100116,PENTAZOCINE,CHEMBL100116,8.33,4.7
+CHEMBL4434865,,CHEMBL4434865,8.85,1.4
+CHEMBL4567314,,CHEMBL4567314,8.82,1.5
+CHEMBL4435399,,CHEMBL4435399,7.92,12.0
+CHEMBL4547253,,CHEMBL4547253,8.70,2.0
+CHEMBL4444356,,CHEMBL4444356,8.48,3.3
+CHEMBL5187095,,CHEMBL5187095,7.77,17.0
+CHEMBL5183349,,CHEMBL5183349,7.66,22.0
+CHEMBL4080696,,CHEMBL4080696,8.22,6.0
+CHEMBL5175530,,CHEMBL5175530,7.53,7.53
+CHEMBL5208940,,CHEMBL5208940,8.42,8.42
+CHEMBL5177703,,CHEMBL5177703,8.10,8.1
+CHEMBL5207336,,CHEMBL5207336,7.74,7.74
+CHEMBL5206383,,CHEMBL5206383,8.16,8.16
+CHEMBL5170591,,CHEMBL5170591,7.30,7.3
+CHEMBL5189334,,CHEMBL5189334,7.79,7.79
+CHEMBL5185602,,CHEMBL5185602,7.97,7.97
+CHEMBL5197224,,CHEMBL5197224,8.27,8.27
+CHEMBL5183680,,CHEMBL5183680,8.32,8.32
+CHEMBL5191108,,CHEMBL5191108,8.35,8.35
+CHEMBL5175530,,CHEMBL5175530,7.54,29.0
+CHEMBL5208940,,CHEMBL5208940,8.42,3.8
+CHEMBL5177703,,CHEMBL5177703,8.10,8.0
+CHEMBL5207336,,CHEMBL5207336,7.75,18.0
+CHEMBL5206383,,CHEMBL5206383,8.17,6.7
+CHEMBL5170591,,CHEMBL5170591,7.30,50.0
+CHEMBL5189334,,CHEMBL5189334,7.82,15.0
+CHEMBL5185602,,CHEMBL5185602,7.96,11.0
+CHEMBL5197224,,CHEMBL5197224,8.27,5.4
+CHEMBL5183680,,CHEMBL5183680,8.32,4.8
+CHEMBL5191108,,CHEMBL5191108,8.35,4.5
+CHEMBL4526341,A-108,CHEMBL4526341,7.04,91.64
+CHEMBL3961701,,CHEMBL3961701,7.27,54.0
+CHEMBL4781384,,CHEMBL4781384,7.71,19.6
+CHEMBL4754186,,CHEMBL4754186,7.57,27.2
+CHEMBL596802,PRIDOPIDINE,CHEMBL596802,7.77,17.0
+CHEMBL408867,[11C]SA4503,CHEMBL408867,8.34,4.6
+CHEMBL4302089,T-817,CHEMBL4302089,7.80,16.0
+CHEMBL227072,,CHEMBL226539,7.62,23.9
+CHEMBL5272845,,CHEMBL338468,7.93,11.82
+CHEMBL4088272,,CHEMBL4088272,10.10,0.08
+CHEMBL50112,,CHEMBL50112,8.77,1.7
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.60,2.5
+CHEMBL190883,,CHEMBL190883,8.96,1.1
+CHEMBL5270434,,CHEMBL5270434,8.51,3.1
+CHEMBL305881,,CHEMBL305881,7.27,53.2
+CHEMBL2170062,,CHEMBL2170062,7.77,17.0
+CHEMBL53325,,CHEMBL53325,9.42,0.38
+CHEMBL5274616,,CHEMBL5274616,7.54,29.0
+CHEMBL61479,SIRAMESINE,CHEMBL61479,7.98,10.5
+CHEMBL4792070,,CHEMBL4792070,8.70,2.0
+CHEMBL5279451,,CHEMBL5279451,7.54,29.0
+CHEMBL5291247,,CHEMBL5291247,8.12,7.5
+CHEMBL3104856,,CHEMBL3104856,7.47,34.0
+CHEMBL3104857,,CHEMBL3104857,7.54,29.0
+CHEMBL305881,,CHEMBL305881,8.66,0.0022
+CHEMBL5086571,,CHEMBL5086571,7.00,100.0
+CHEMBL5275633,,CHEMBL5275633,7.00,100.0
+CHEMBL5284021,,CHEMBL5284021,7.00,100.0
+CHEMBL5280075,,CHEMBL5280075,7.00,100.0
+CHEMBL267014,L-745870,CHEMBL267014,7.00,101.0
+CHEMBL3793910,,CHEMBL3793910,7.39,41.0
+CHEMBL3905761,,CHEMBL3905761,7.28,52.0
+CHEMBL3793438,,CHEMBL3793438,7.36,44.0
+CHEMBL5269361,,CHEMBL5269361,7.75,18.0
+CHEMBL267014,L-745870,CHEMBL267014,7.00,7.0
+CHEMBL3793910,,CHEMBL3793910,7.39,7.39
+CHEMBL3905761,,CHEMBL3905761,7.28,7.28
+CHEMBL3793438,,CHEMBL3793438,7.36,7.36
+CHEMBL5269361,,CHEMBL5269361,7.74,7.74
+CHEMBL5170381,,CHEMBL5170381,8.08,8.3
+CHEMBL5187721,,CHEMBL5187721,8.51,3.1
+CHEMBL5182602,,CHEMBL5182602,7.57,27.0
+CHEMBL5173368,,CHEMBL5173368,7.96,11.0
+CHEMBL5206646,,CHEMBL5206646,7.51,31.0
+CHEMBL5181334,,CHEMBL5181334,7.92,12.0
+CHEMBL5203807,,CHEMBL5203807,8.74,1.8
+CHEMBL5198353,,CHEMBL5198353,9.15,0.7
+CHEMBL5196213,,CHEMBL5196213,8.92,1.2
+CHEMBL5209344,,CHEMBL5209344,8.74,1.8
+CHEMBL5201507,,CHEMBL5201507,8.89,1.3
+CHEMBL5175548,,CHEMBL5175548,8.77,1.7
+CHEMBL5282085,,CHEMBL5282085,7.64,23.0
+CHEMBL5286047,,CHEMBL5286047,7.43,37.0
+CHEMBL5170670,,CHEMBL5170670,8.09,8.1
+CHEMBL5171772,,CHEMBL5171772,7.54,29.0
+CHEMBL5193761,,CHEMBL5193761,7.85,14.0
+CHEMBL5171398,,CHEMBL5171398,7.28,52.0
+CHEMBL5206427,,CHEMBL5206427,7.51,31.0
+CHEMBL5205459,,CHEMBL5205459,7.26,55.0
+CHEMBL5179340,,CHEMBL5179340,7.40,40.0
+CHEMBL5190239,,CHEMBL5190239,7.92,12.0
+CHEMBL5179459,,CHEMBL5179459,7.46,35.0
+CHEMBL5208124,,CHEMBL5208124,8.28,5.2
+CHEMBL5196102,,CHEMBL5196102,8.64,2.3
+CHEMBL5179198,,CHEMBL5179198,8.46,3.5
+CHEMBL5173767,,CHEMBL5173767,7.46,35.0
+CHEMBL5199815,,CHEMBL5199815,7.01,97.0
+CHEMBL5172055,,CHEMBL5172055,7.09,81.0
+CHEMBL5182191,,CHEMBL5182191,8.62,2.4
+CHEMBL5184607,,CHEMBL5184607,8.06,8.8
+CHEMBL5207898,,CHEMBL5207898,8.37,4.3
+CHEMBL5199649,,CHEMBL5199649,8.06,8.7
+CHEMBL5187429,,CHEMBL5187429,8.26,5.5
+CHEMBL5174753,,CHEMBL5174753,7.85,14.0
+CHEMBL5188139,,CHEMBL5188139,7.72,19.0
+CHEMBL5287836,,CHEMBL5287836,8.28,5.2
+CHEMBL5189986,,CHEMBL5189986,8.19,6.5
+CHEMBL5176299,,CHEMBL5176299,7.35,45.0
+CHEMBL5290749,,CHEMBL5290749,7.08,83.0
+CHEMBL5288366,,CHEMBL5288366,7.85,14.0
+CHEMBL5285555,,CHEMBL5285555,7.72,19.0
+CHEMBL5272393,,CHEMBL5272393,7.57,27.0
+CHEMBL5288298,,CHEMBL5288298,7.80,16.0
+CHEMBL5272689,,CHEMBL5272689,7.96,11.0
+CHEMBL5269586,,CHEMBL5269586,8.44,3.6
+CHEMBL5274285,,CHEMBL5274285,8.26,5.5
+CHEMBL5289958,,CHEMBL5289958,8.15,7.1
+CHEMBL5170381,,CHEMBL5170381,7.74,7.74
+CHEMBL5187721,,CHEMBL5187721,8.08,8.08
+CHEMBL5182602,,CHEMBL5182602,8.51,8.51
+CHEMBL5173368,,CHEMBL5173368,7.57,7.57
+CHEMBL5206646,,CHEMBL5206646,7.95,7.95
+CHEMBL5181334,,CHEMBL5181334,7.51,7.51
+CHEMBL5203807,,CHEMBL5203807,7.91,7.91
+CHEMBL5198353,,CHEMBL5198353,8.74,8.74
+CHEMBL5196213,,CHEMBL5196213,9.15,9.15
+CHEMBL5209344,,CHEMBL5209344,8.92,8.92
+CHEMBL5201507,,CHEMBL5201507,8.74,8.74
+CHEMBL5175548,,CHEMBL5175548,8.76,8.76
+CHEMBL5282085,,CHEMBL5282085,7.65,7.65
+CHEMBL5286047,,CHEMBL5286047,7.66,7.66
+CHEMBL5170670,,CHEMBL5170670,8.09,8.09
+CHEMBL5171772,,CHEMBL5171772,7.54,7.54
+CHEMBL5193761,,CHEMBL5193761,7.84,7.84
+CHEMBL5171398,,CHEMBL5171398,7.28,7.28
+CHEMBL5206427,,CHEMBL5206427,7.25,7.25
+CHEMBL5205459,,CHEMBL5205459,7.26,7.26
+CHEMBL5179340,,CHEMBL5179340,7.40,7.4
+CHEMBL5190239,,CHEMBL5190239,7.94,7.94
+CHEMBL5179459,,CHEMBL5179459,7.46,7.46
+CHEMBL5208124,,CHEMBL5208124,8.29,8.29
+CHEMBL5196102,,CHEMBL5196102,8.65,8.65
+CHEMBL5179198,,CHEMBL5179198,8.46,8.46
+CHEMBL5173767,,CHEMBL5173767,7.46,7.46
+CHEMBL5199815,,CHEMBL5199815,7.01,7.01
+CHEMBL5172055,,CHEMBL5172055,7.09,7.09
+CHEMBL5182191,,CHEMBL5182191,8.63,8.63
+CHEMBL5184607,,CHEMBL5184607,8.06,8.06
+CHEMBL5207898,,CHEMBL5207898,8.37,8.37
+CHEMBL5199649,,CHEMBL5199649,8.06,8.06
+CHEMBL5187429,,CHEMBL5187429,8.26,8.26
+CHEMBL5174753,,CHEMBL5174753,7.86,7.86
+CHEMBL5188139,,CHEMBL5188139,7.73,7.73
+CHEMBL5287836,,CHEMBL5287836,8.28,8.28
+CHEMBL5189986,,CHEMBL5189986,8.19,8.19
+CHEMBL5176299,,CHEMBL5176299,7.43,7.43
+CHEMBL5290749,,CHEMBL5290749,7.08,7.08
+CHEMBL5288366,,CHEMBL5288366,7.85,7.85
+CHEMBL5285555,,CHEMBL5285555,7.72,7.72
+CHEMBL5272393,,CHEMBL5272393,7.57,7.57
+CHEMBL5288298,,CHEMBL5288298,7.79,7.79
+CHEMBL5272689,,CHEMBL5272689,7.97,7.97
+CHEMBL5269586,,CHEMBL5269586,8.45,8.45
+CHEMBL5274285,,CHEMBL5274285,8.27,8.27
+CHEMBL5289958,,CHEMBL5289958,8.15,8.15
+CHEMBL5170381,,CHEMBL5170381,7.92,12.0
+CHEMBL5187721,,CHEMBL5187721,8.41,3.9
+CHEMBL53325,,CHEMBL53325,9.42,0.38
+CHEMBL5272035,,CHEMBL5272035,8.27,5.37
+CHEMBL3763396,,CHEMBL3763396,10.52,0.03
+CHEMBL61479,SIRAMESINE,CHEMBL61479,7.98,10.5
+CHEMBL5290452,,CHEMBL5316150,7.87,13.59
+CHEMBL5278003,,CHEMBL5315819,7.73,18.66
+CHEMBL5290452,,CHEMBL5316150,7.71,19.32
+CHEMBL5278003,,CHEMBL5315819,7.86,13.82
+CHEMBL5280610,,CHEMBL5280610,7.18,66.7
+CHEMBL5276035,,CHEMBL5276035,7.12,75.0
+CHEMBL5280329,,CHEMBL5280329,7.47,34.0
+CHEMBL5275685,,CHEMBL5275685,7.70,20.0
+CHEMBL5267553,,CHEMBL5267553,7.04,91.0
+CHEMBL5289807,,CHEMBL5289807,7.68,21.0
+CHEMBL5316208,,CHEMBL5316208,7.10,80.0
+CHEMBL4802044,JNJ-73924149,CHEMBL4802044,7.20,63.33
+CHEMBL4802044,JNJ-73924149,CHEMBL4802044,7.20,7.2
+CHEMBL5397812,,CHEMBL5397812,7.17,67.0
+CHEMBL5412229,,CHEMBL5412229,7.08,83.0
+CHEMBL5408432,,CHEMBL5408432,7.23,59.0
+CHEMBL5408011,,CHEMBL5408011,7.02,95.0
+CHEMBL5403056,,CHEMBL5403056,7.34,46.0
+CHEMBL5437241,,CHEMBL5437241,7.15,71.0
+CHEMBL5404573,,CHEMBL5404573,7.17,67.0
+CHEMBL4846092,,CHEMBL4846092,7.20,63.0
+CHEMBL61479,SIRAMESINE,CHEMBL61479,7.77,17.0
+CHEMBL53325,,CHEMBL53325,9.42,0.38
+CHEMBL4846092,,CHEMBL4846092,7.64,23.0
+CHEMBL4519018,,CHEMBL4519018,7.08,0.084
+CHEMBL5402927,,CHEMBL5402927,8.72,1.9
+CHEMBL39900,SPIPETHIANE,CHEMBL39900,8.04,9.2
+CHEMBL5432062,,CHEMBL5432062,10.89,0.013
+CHEMBL4297224,BLARCAMESINE,CHEMBL4297224,8.20,6.3
+CHEMBL408867,[11C]SA4503,CHEMBL408867,8.34,4.6
+CHEMBL596802,PRIDOPIDINE,CHEMBL596802,7.09,82.0
+CHEMBL3769930,,CHEMBL3769930,9.13,0.74
+CHEMBL4650795,,CHEMBL4650795,8.89,1.3
+CHEMBL4650909,,CHEMBL4650909,7.92,12.0
+CHEMBL4650902,,CHEMBL4650902,9.30,0.5
+CHEMBL4650581,,CHEMBL4650581,8.68,2.1
+CHEMBL102659,,CHEMBL102659,9.03,0.93
+CHEMBL5403125,,CHEMBL5403125,8.96,1.1
+CHEMBL1774575,,CHEMBL1774575,8.82,1.51
+CHEMBL5403404,,CHEMBL5403404,7.09,82.0
+CHEMBL5440801,,CHEMBL5440801,7.72,19.1
+CHEMBL5179132,,CHEMBL5179132,7.44,36.0
+CHEMBL4439908,,CHEMBL4439908,7.24,57.0
+CHEMBL4461774,,CHEMBL4461774,7.24,58.0
+CHEMBL4750757,,CHEMBL71294,7.93,11.6902
+CHEMBL1256998,,CHEMBL68131,7.50,31.6528
+CHEMBL2107572,TECALCET HYDROCHLORIDE,CHEMBL292376,7.38,41.4551
+CHEMBL1671,PROPRANOLOL HYDROCHLORIDE,CHEMBL27,7.02,95.383
+CHEMBL1200776,CINACALCET HYDROCHLORIDE,CHEMBL1201284,7.04,90.6184
+CHEMBL543113,,CHEMBL317757,7.00,98.7512
+CHEMBL1615374,VILAZODONE HYDROCHLORIDE,CHEMBL439849,7.85,14.2132
+CHEMBL214957,,CHEMBL214957,7.92,11.9666
+CHEMBL4743049,,CHEMBL494947,7.49,32.6736
+CHEMBL4164059,PITOLISANT HYDROCHLORIDE,CHEMBL462605,9.04,0.904323
+CHEMBL5076917,,CHEMBL1253853,7.16,70.0532
+CHEMBL5559576,,CHEMBL5559576,7.80,16.0
+CHEMBL5568294,,CHEMBL5568294,7.38,42.0
+CHEMBL5567296,,CHEMBL5567296,7.72,19.0
+CHEMBL5560383,,CHEMBL5560383,7.80,16.0
+CHEMBL5556112,,CHEMBL5556112,7.38,42.0
+CHEMBL5557616,,CHEMBL5557616,7.85,14.0
+CHEMBL5557188,,CHEMBL5557188,7.07,86.0
+CHEMBL5568028,,CHEMBL5568028,7.85,14.0
+CHEMBL5561656,,CHEMBL5561656,7.06,87.0
+CHEMBL5563524,,CHEMBL5563524,7.68,21.0
+CHEMBL5562425,,CHEMBL5562425,8.70,2.0
+CHEMBL5560361,,CHEMBL5560361,7.75,18.0
+CHEMBL5556546,,CHEMBL5556546,7.42,38.0
+CHEMBL5560605,,CHEMBL5560605,7.11,77.0
+CHEMBL5561354,,CHEMBL5561354,8.00,10.0
+CHEMBL5542124,,CHEMBL5542124,8.05,9.0
+CHEMBL5562796,,CHEMBL5562796,7.64,23.0
+CHEMBL5556096,,CHEMBL5556096,8.40,4.0
+CHEMBL5557959,,CHEMBL5557959,7.75,18.0
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.68,2.1
+CHEMBL54,HALOPERIDOL,CHEMBL54,8.19,6.4
+CHEMBL596802,PRIDOPIDINE,CHEMBL596802,7.09,82.0
+CHEMBL5175530,,CHEMBL5175530,7.51,30.7
+CHEMBL5630078,,CHEMBL5630078,7.48,32.9
+CHEMBL5624574,,CHEMBL5624574,7.29,50.7
+CHEMBL5631181,,CHEMBL5631181,7.42,37.7
+CHEMBL5625019,,CHEMBL5625019,7.09,81.7
+CHEMBL5624962,,CHEMBL5624962,7.03,94.1
+CHEMBL5624651,,CHEMBL5624651,7.17,67.5
+CHEMBL5624996,,CHEMBL5624996,7.58,26.4
+CHEMBL5630613,,CHEMBL5630613,7.76,17.2
+CHEMBL5624846,,CHEMBL5624846,7.17,67.8
+CHEMBL5630963,,CHEMBL5630963,7.02,94.9
+CHEMBL5625109,,CHEMBL5625109,7.17,67.9
+CHEMBL5624713,,CHEMBL5624713,7.12,75.4
+CHEMBL5631099,,CHEMBL5631099,7.24,57.6
+CHEMBL5624896,,CHEMBL5624896,7.93,11.7
+CHEMBL5631035,,CHEMBL5631035,7.30,50.2
+CHEMBL5631105,,CHEMBL5631105,7.15,70.4
+CHEMBL5624542,,CHEMBL5624542,7.43,36.9
+CHEMBL5630374,,CHEMBL5630374,7.65,22.4
+CHEMBL5401938,,CHEMBL5401938,7.80,15.7
+CHEMBL5625042,,CHEMBL5625042,7.23,59.2
+CHEMBL5630724,,CHEMBL5630724,7.08,83.4
+CHEMBL5630149,,CHEMBL5630149,7.28,53.1
+CHEMBL4172301,,CHEMBL4172301,8.43,3.7
+CHEMBL4161016,,CHEMBL4161016,8.14,7.3
+CHEMBL4168942,,CHEMBL4168942,8.80,1.6
+CHEMBL4162490,,CHEMBL4162490,8.85,1.4
+CHEMBL4172044,,CHEMBL4172044,7.70,20.0
+CHEMBL4170415,,CHEMBL4170415,7.33,47.0
+CHEMBL4169765,,CHEMBL4169765,8.00,10.0
+CHEMBL5852926,,CHEMBL5852926,8.44,3.6
+CHEMBL4173188,,CHEMBL4173188,8.49,3.2
+CHEMBL4165285,,CHEMBL4165285,8.77,1.7
+CHEMBL4169270,,CHEMBL4169270,8.37,4.3
+CHEMBL6013608,,CHEMBL6013608,7.72,19.0
+CHEMBL4171723,,CHEMBL4171723,7.38,42.0
+CHEMBL4168697,,CHEMBL4168697,8.41,3.9
+CHEMBL4169383,,CHEMBL4169383,8.68,2.1
+CHEMBL4174647,,CHEMBL4174647,8.00,10.0
+CHEMBL6025397,,CHEMBL6025397,8.89,1.3
+CHEMBL4161984,,CHEMBL4161984,8.96,1.1
+CHEMBL4168782,,CHEMBL4168782,7.64,23.0
+CHEMBL4160397,,CHEMBL4160397,8.54,2.9
+CHEMBL4173342,,CHEMBL4173342,7.40,40.0
+CHEMBL4168852,,CHEMBL4168852,7.43,37.0
+CHEMBL4176708,,CHEMBL4176708,8.72,1.9
+CHEMBL4161592,,CHEMBL4161592,7.62,24.0
+CHEMBL4174797,,CHEMBL4174797,8.37,4.3
+CHEMBL5934024,,CHEMBL5934024,8.19,6.5
+CHEMBL4172201,,CHEMBL4172201,8.92,1.2
+CHEMBL4166905,,CHEMBL4166905,8.44,3.6
+CHEMBL6030320,,CHEMBL6030320,7.51,31.0
+CHEMBL6042113,,CHEMBL6042113,7.64,23.0
+CHEMBL5811349,,CHEMBL5811349,7.48,33.0
+CHEMBL5815237,,CHEMBL5815237,7.25,56.0
+CHEMBL5995733,,CHEMBL5995733,7.38,42.0
+CHEMBL4876663,,CHEMBL4876663,7.39,41.0
+CHEMBL6056346,,CHEMBL6056346,7.77,17.0
+CHEMBL5990621,,CHEMBL5990621,8.85,1.4
+CHEMBL4853196,,CHEMBL4853196,7.85,14.0
+CHEMBL5982604,,CHEMBL5982604,7.38,42.0
+CHEMBL5945487,,CHEMBL5945487,7.16,69.0
+CHEMBL5979974,,CHEMBL5979974,9.24,0.57
+CHEMBL5946331,,CHEMBL5946331,7.36,44.0
+CHEMBL5879895,,CHEMBL5879895,7.80,16.0
+CHEMBL5818991,,CHEMBL5818991,8.31,4.9
+CHEMBL5902857,,CHEMBL5902857,8.24,5.7
+CHEMBL6057860,,CHEMBL6057860,8.10,7.9
+CHEMBL6016888,,CHEMBL6016888,7.34,46.0
+CHEMBL5934082,,CHEMBL5934082,7.33,47.0
+CHEMBL6002762,,CHEMBL6002762,8.43,3.7
+CHEMBL5946543,,CHEMBL5946543,7.50,32.0
+CHEMBL5928382,,CHEMBL5928382,8.12,7.5
+CHEMBL5975554,,CHEMBL5975554,8.68,2.1
+CHEMBL5823135,,CHEMBL5823135,8.39,4.1
+CHEMBL6051981,,CHEMBL6051981,8.04,9.1
+CHEMBL6010674,,CHEMBL6010674,7.75,18.0
+CHEMBL5861338,,CHEMBL5861338,7.21,62.0
+CHEMBL6030456,,CHEMBL6030456,8.11,7.8
+CHEMBL5841969,,CHEMBL5841969,7.00,100.0
+CHEMBL6022823,,CHEMBL6022823,7.03,94.0
+CHEMBL5783755,,CHEMBL5783755,7.11,77.0
+CHEMBL5793914,,CHEMBL5793914,7.13,74.0
+CHEMBL5871057,,CHEMBL5871057,7.43,37.0
+CHEMBL5777736,,CHEMBL5777736,7.48,33.0
+CHEMBL4846092,,CHEMBL4846092,7.20,63.0
+CHEMBL5859046,,CHEMBL5859046,7.77,17.0
+CHEMBL5770059,,CHEMBL5770059,7.26,55.0
+CHEMBL6059566,,CHEMBL6059566,7.00,100.0
+CHEMBL5759354,,CHEMBL5759354,7.57,27.0
+CHEMBL5931677,,CHEMBL5931677,7.30,50.0
+CHEMBL5887106,,CHEMBL5887106,7.66,22.0
+CHEMBL6040331,,CHEMBL6040331,7.16,69.0
+CHEMBL5960929,,CHEMBL5960929,7.02,96.0
+CHEMBL6030320,,CHEMBL6030320,7.51,31.0
+CHEMBL6042113,,CHEMBL6042113,7.64,23.0
+CHEMBL5811349,,CHEMBL5811349,7.48,33.0
+CHEMBL5815237,,CHEMBL5815237,7.25,56.0
+CHEMBL5995733,,CHEMBL5995733,7.38,42.0
+CHEMBL4876663,,CHEMBL4876663,7.39,41.0
+CHEMBL6056346,,CHEMBL6056346,7.77,17.0
+CHEMBL5990621,,CHEMBL5990621,8.85,1.4
+CHEMBL4853196,,CHEMBL4853196,7.85,14.0
+CHEMBL5982604,,CHEMBL5982604,7.38,42.0
+CHEMBL5991759,,CHEMBL5991759,7.16,69.0
+CHEMBL5979974,,CHEMBL5979974,9.24,0.57
+CHEMBL5946331,,CHEMBL5946331,7.36,44.0
+CHEMBL5879895,,CHEMBL5879895,7.80,16.0
+CHEMBL5818991,,CHEMBL5818991,8.31,4.9
+CHEMBL5902857,,CHEMBL5902857,8.24,5.7
+CHEMBL6057860,,CHEMBL6057860,8.10,7.9
+CHEMBL6016888,,CHEMBL6016888,7.34,46.0
+CHEMBL5934082,,CHEMBL5934082,7.33,47.0
+CHEMBL6002762,,CHEMBL6002762,8.43,3.7
+CHEMBL5946543,,CHEMBL5946543,7.50,32.0
+CHEMBL5928382,,CHEMBL5928382,8.12,7.5
+CHEMBL5975554,,CHEMBL5975554,8.68,2.1
+CHEMBL5823135,,CHEMBL5823135,8.39,4.1
+CHEMBL6051981,,CHEMBL6051981,8.04,9.1
+CHEMBL6010674,,CHEMBL6010674,7.75,18.0
+CHEMBL5861338,,CHEMBL5861338,7.21,62.0
+CHEMBL6030456,,CHEMBL6030456,8.11,7.8
+CHEMBL5841969,,CHEMBL5841969,7.00,100.0
+CHEMBL6022823,,CHEMBL6022823,7.03,94.0
+CHEMBL5783755,,CHEMBL5783755,7.11,77.0
+CHEMBL5793914,,CHEMBL5793914,7.13,74.0
+CHEMBL5871057,,CHEMBL5871057,7.43,37.0
+CHEMBL5777736,,CHEMBL5777736,7.48,33.0
+CHEMBL4846092,,CHEMBL4846092,7.20,63.0
+CHEMBL5859046,,CHEMBL5859046,7.77,17.0
+CHEMBL5770059,,CHEMBL5770059,7.26,55.0
+CHEMBL6059566,,CHEMBL6059566,7.00,100.0
+CHEMBL5759354,,CHEMBL5759354,7.57,27.0
+CHEMBL5931677,,CHEMBL5931677,7.30,50.0
+CHEMBL5887106,,CHEMBL5887106,7.66,22.0
+CHEMBL6040331,,CHEMBL6040331,7.16,69.0
+CHEMBL5960929,,CHEMBL5960929,7.02,96.0
+CHEMBL5771575,,CHEMBL5771575,7.02,96.1
+CHEMBL6001750,,CHEMBL6001750,7.17,68.2
+CHEMBL5766943,,CHEMBL5766943,7.99,10.2
+CHEMBL5770203,,CHEMBL5770203,7.40,39.8
+CHEMBL5945562,,CHEMBL5945562,7.84,14.4
+CHEMBL6055313,,CHEMBL6055313,7.61,24.8
+CHEMBL6055313,,CHEMBL6055313,7.53,29.6
+CHEMBL5844043,,CHEMBL5844043,7.60,25.0
+CHEMBL5747908,,CHEMBL5747908,7.22,60.8
+CHEMBL6054017,,CHEMBL6054017,7.84,14.6
+CHEMBL5995834,,CHEMBL5995834,7.16,69.7
+CHEMBL5883330,,CHEMBL5883330,7.62,24.0
+CHEMBL5951080,,CHEMBL5951080,7.58,26.2
+CHEMBL5893963,,CHEMBL5893963,7.65,22.2
+CHEMBL5793758,,CHEMBL5793758,7.96,10.9
+CHEMBL5816391,,CHEMBL5816391,7.25,55.9
+CHEMBL5885902,,CHEMBL5885902,7.54,28.8
+CHEMBL5958474,,CHEMBL5958474,7.66,21.9
+CHEMBL6064201,,CHEMBL6064201,7.42,37.6
+CHEMBL5822215,,CHEMBL5822215,7.59,25.6
+CHEMBL6056068,,CHEMBL6056068,7.07,84.3
+CHEMBL6004687,,CHEMBL6004687,7.25,56.5
+CHEMBL6035943,,CHEMBL6035943,7.05,89.3
+CHEMBL5852509,,CHEMBL5852509,7.14,73.0
+CHEMBL5791520,,CHEMBL5791520,7.12,75.5
+CHEMBL5908631,,CHEMBL5908631,7.30,49.5
+CHEMBL5801743,,CHEMBL5801743,7.04,91.7
+CHEMBL5895404,,CHEMBL5895404,7.22,59.9
+CHEMBL5965714,,CHEMBL5965714,7.02,94.7
+CHEMBL5919710,,CHEMBL5919710,7.14,71.6
+CHEMBL6030320,,CHEMBL6030320,7.51,31.0
+CHEMBL6042113,,CHEMBL6042113,7.64,23.0
+CHEMBL5811349,,CHEMBL5811349,7.48,33.0
+CHEMBL5815237,,CHEMBL5815237,7.25,56.0
+CHEMBL5995733,,CHEMBL5995733,7.38,42.0
+CHEMBL4876663,,CHEMBL4876663,7.39,41.0
+CHEMBL6056346,,CHEMBL6056346,7.77,17.0
+CHEMBL5990621,,CHEMBL5990621,8.85,1.4
+CHEMBL4853196,,CHEMBL4853196,7.85,14.0
+CHEMBL5982604,,CHEMBL5982604,7.38,42.0
+CHEMBL5945487,,CHEMBL5945487,7.16,69.0
+CHEMBL5979974,,CHEMBL5979974,9.24,0.57
+CHEMBL5946331,,CHEMBL5946331,7.36,44.0
+CHEMBL5879895,,CHEMBL5879895,7.80,16.0
+CHEMBL5818991,,CHEMBL5818991,8.31,4.9
+CHEMBL5902857,,CHEMBL5902857,8.24,5.7
+CHEMBL6057860,,CHEMBL6057860,8.10,7.9
+CHEMBL6016888,,CHEMBL6016888,7.34,46.0
+CHEMBL5934082,,CHEMBL5934082,7.33,47.0
+CHEMBL6002762,,CHEMBL6002762,8.43,3.7
+CHEMBL5946543,,CHEMBL5946543,7.50,32.0
+CHEMBL5928382,,CHEMBL5928382,8.12,7.5
+CHEMBL5975554,,CHEMBL5975554,8.68,2.1
+CHEMBL5823135,,CHEMBL5823135,8.39,4.1
+CHEMBL6051981,,CHEMBL6051981,8.04,9.1
+CHEMBL6010674,,CHEMBL6010674,7.75,18.0
+CHEMBL5861338,,CHEMBL5861338,7.21,62.0
+CHEMBL6030456,,CHEMBL6030456,8.11,7.8
+CHEMBL5841969,,CHEMBL5841969,7.00,100.0
+CHEMBL6022823,,CHEMBL6022823,7.03,94.0
+CHEMBL5783755,,CHEMBL5783755,7.11,77.0
+CHEMBL5793914,,CHEMBL5793914,7.13,74.0
+CHEMBL5871057,,CHEMBL5871057,7.43,37.0
+CHEMBL5777736,,CHEMBL5777736,7.48,33.0
+CHEMBL4846092,,CHEMBL4846092,7.20,63.0
+CHEMBL5859046,,CHEMBL5859046,7.77,17.0
+CHEMBL5770059,,CHEMBL5770059,7.26,55.0
+CHEMBL6059566,,CHEMBL6059566,7.00,100.0
+CHEMBL5759354,,CHEMBL5759354,7.57,27.0
+CHEMBL5931677,,CHEMBL5931677,7.30,50.0
+CHEMBL5887106,,CHEMBL5887106,7.66,22.0
+CHEMBL6040331,,CHEMBL6040331,7.16,69.0
+CHEMBL5960929,,CHEMBL5960929,7.02,96.0
+CHEMBL4161503,,CHEMBL4161503,8.23,5.9
+CHEMBL4167315,,CHEMBL4167315,8.39,4.1
+CHEMBL6009714,,CHEMBL6009714,7.72,19.0
+CHEMBL4176474,,CHEMBL4176474,7.36,44.0
+CHEMBL4177497,,CHEMBL4177497,7.04,92.0
+CHEMBL6028929,,CHEMBL6028929,7.64,23.0
+CHEMBL4169752,,CHEMBL4169752,8.77,1.7
+CHEMBL4160064,,CHEMBL4160064,8.31,4.9
+CHEMBL4165863,,CHEMBL4165863,7.29,51.0
+CHEMBL6039152,,CHEMBL6039152,7.46,35.0
+CHEMBL6009260,,CHEMBL6009260,7.44,36.0
+CHEMBL5782090,,CHEMBL5782090,7.27,54.0
+CHEMBL5780375,,CHEMBL5780375,7.07,85.0
+CHEMBL5881029,,CHEMBL5881029,7.01,97.0
+CHEMBL4175187,,CHEMBL4175187,8.21,6.1
+CHEMBL4170703,,CHEMBL4170703,7.68,21.0
+CHEMBL5980872,,CHEMBL5980872,7.82,15.0
+CHEMBL4166276,,CHEMBL4166276,7.31,49.0
+CHEMBL5956624,,CHEMBL5956624,7.00,100.0
+CHEMBL4162416,,CHEMBL4162416,7.32,48.0
+CHEMBL5985616,,CHEMBL5985616,7.25,56.0
+CHEMBL5900366,,CHEMBL5900366,7.76,17.3
+CHEMBL5948594,,CHEMBL5948594,7.43,37.2
+CHEMBL5942120,,CHEMBL5942120,7.45,35.4
+CHEMBL6004636,,CHEMBL6004636,7.01,97.2
+CHEMBL6051150,,CHEMBL6051150,7.16,70.0
+CHEMBL5887476,,CHEMBL5887476,8.27,5.34
+CHEMBL5883260,,CHEMBL5883260,7.21,62.0
+CHEMBL4098442,,CHEMBL4098442,7.57,27.0
+CHEMBL4098442,,CHEMBL4098442,7.57,27.0
+CHEMBL5900366,,CHEMBL5900366,7.76,17.3
+CHEMBL5828666,,CHEMBL5828666,7.43,37.2
+CHEMBL5942120,,CHEMBL5942120,7.45,35.4
+CHEMBL6004636,,CHEMBL6004636,7.01,97.2
+CHEMBL6051150,,CHEMBL6051150,7.16,70.0
+CHEMBL206132,,CHEMBL206132,7.02,96.3
+CHEMBL5981466,,CHEMBL5981466,7.66,21.8
+CHEMBL5981466,,CHEMBL5981466,7.82,15.3
+CHEMBL5807432,,CHEMBL5807432,7.54,29.1
+CHEMBL5807432,,CHEMBL5807432,7.69,20.5
+CHEMBL5987583,,CHEMBL5987583,7.96,11.1
+CHEMBL5987583,,CHEMBL5987583,8.11,7.8
+CHEMBL5764243,,CHEMBL5764243,7.55,28.4
+CHEMBL5764243,,CHEMBL5764243,7.70,20.0
+CHEMBL6034390,,CHEMBL6034390,7.10,79.1
+CHEMBL6034390,,CHEMBL6034390,7.25,55.6
+CHEMBL5781923,,CHEMBL5781923,7.24,57.8
+CHEMBL5781923,,CHEMBL5781923,7.39,40.6
+CHEMBL42629,,CHEMBL42629,7.66,22.0
+CHEMBL6046258,,CHEMBL6046258,7.30,50.0
+CHEMBL5787896,,CHEMBL5787896,8.80,1.6
+CHEMBL6040458,,CHEMBL6040458,7.16,70.0
