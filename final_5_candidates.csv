@@ -1,0 +1,5 @@
+pref_name,parent_molecule_chembl_id,max_phase,action_type,selection_basis,key_reference,mean_pchembl,best_pchembl,assay_count,source
+DONEPEZIL,CHEMBL502,4.0,AGONIST,IC50=14.6nM at sigma-1R; 93% receptor occupancy confirmed by PET imaging at therapeutic doses,"Meunier et al., 2006, Br J Pharmacol",7.84,7.84,2,Knowledge Guided
+FLUVOXAMINE,CHEMBL814,4.0,AGONIST,Highest sigma-1R affinity among all SSRIs (Ki=36nM); confirmed by human PET study; clinical trial conducted specifically for sigma-1R,"Hashimoto et al., 2009, Biol Psychiatry; TOGETHER trial 2021",7.44,7.44,1,Knowledge Guided
+RALOXIFENE,CHEMBL81,4.0,MODULATOR,"Identified via ChEMBL quantitative binding pipeline (Ki/IC50, Phase 4, agonist/modulator filter)",ChEMBL Database (CHEMBL287 activity records),6.71,7.42,3,Pipeline Derived
+DEXTROMETHORPHAN,CHEMBL52440,4.0,AGONIST,Sigma-1R agonism (Ki=142-652nM) mediates neuroprotection independently of NMDA antagonism,"Nguyen et al., 2014, Trends Pharmacol Sci",6.46,6.46,1,Knowledge Guided
